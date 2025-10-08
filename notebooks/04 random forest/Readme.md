@@ -31,3 +31,5 @@ Este modelo creo que es malo, no estoy seguro si podria mejorar haciendo muchas 
 ![alt text](images/grafica_ibd.png)
 
 Esta regresion es unica, entonces una mejor regresion serian 3 regresiones diferentes.
+
+O podemos forzar a overfittear el modelo? Como, haciendo que aprenda de sus errores? jajaaajajaj
