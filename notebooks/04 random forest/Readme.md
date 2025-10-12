@@ -33,3 +33,23 @@ Este modelo creo que es malo, no estoy seguro si podria mejorar haciendo muchas 
 Esta regresion es unica, entonces una mejor regresion serian 3 regresiones diferentes.
 
 O podemos forzar a overfittear el modelo? Como, haciendo que aprenda de sus errores? jajaaajajaj
+
+
+
+# 02 Actualizacion de entrenamiento del modelo
+12 de octubre
+
+## 01 Random Forest train on train
+
+Train on train significa que hacemos literal train test split EN LOS DATOS DE ENTRENAMIENTO! es para darnos una idea de que tan bien esta funcionando el modelo.
+
+```bash
+Mean Squared Error: 0.6825687874343249
+Mean Absolute Error: 0.5225425256030023
+R2 Score: 0.9147090099387029
+```
+
+## 02 Random Forest train on all (to send it to predict)
+
+Este es el modelo que se entrena con todos los datos de entrenamiento, y se usa para predecir los datos de test.
+Ojo a las funciones que cree para que se haga rapido el proceso. Si quieren lol
