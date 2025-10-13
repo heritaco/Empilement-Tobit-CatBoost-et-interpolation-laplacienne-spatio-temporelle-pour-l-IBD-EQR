@@ -342,7 +342,7 @@ def IWANTMYXCLEAN(
     num_thresh: float = 1e-5,
     k_univariate: int = 300,
     verbose: bool = True,
-) -> Tuple[pd.DataFrame, dict]:
+) -> pd.DataFrame:
     """
     Clean dataframe X by applying the available filtering functions and return
     the cleaned dataframe plus a dict with lists of dropped columns.
@@ -414,4 +414,4 @@ def IWANTMYXCLEAN(
     quasiconstants = quasiconstants.rename("QuasiConstant_Numeric")
     X = pd.concat([X, quasiconstants], axis=1)
 
-    return X, dropped
+    return X
