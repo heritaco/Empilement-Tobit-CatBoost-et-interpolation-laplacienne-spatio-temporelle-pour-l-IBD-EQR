@@ -1,0 +1,9 @@
+{
+  "region": "4",
+  "best_name": "CatBoost",
+  "report_dir": "models\\best_catboost_4_viz",
+  "n_train": 494,
+  "n_infer": 102,
+  "oof_acc": 0.7044534412955465,
+  "oof_f1_macro": 0.6115608664729539
+}

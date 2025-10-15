@@ -1,0 +1,26 @@
+{
+  "region": "21",
+  "best_name": "CatBoost",
+  "paths": {
+    "calibrated": "models\\best_catboost_21.joblib",
+    "uncalibrated": "models\\best_catboost_21_uncal.joblib",
+    "label_encoder": "models\\best_catboost_21_label_encoder.joblib",
+    "meta": "models\\best_catboost_21_meta.json"
+  },
+  "scores": {
+    "best_cv_score_acc": 0.7911635772118627,
+    "oof_acc": 0.7911663807890223,
+    "oof_f1_macro": 0.6639025775503669
+  },
+  "classes": [
+    "Bad",
+    "Good",
+    "High",
+    "Moderate",
+    "Poor"
+  ],
+  "n_train": 2332,
+  "n_infer": 331,
+  "saved_at": "2025-10-14T20:27:49",
+  "target_column": "IBD_EQR_Status"
+}
