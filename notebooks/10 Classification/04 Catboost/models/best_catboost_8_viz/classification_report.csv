@@ -1,0 +1,5 @@
+,Bad,Good,High,Moderate,Poor,accuracy,macro avg,weighted avg
+precision,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+recall,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+f1-score,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+support,1.0,83.0,324.0,52.0,9.0,1.0,469.0,469.0

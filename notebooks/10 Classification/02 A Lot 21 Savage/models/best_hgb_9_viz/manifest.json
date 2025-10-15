@@ -1,0 +1,9 @@
+{
+  "region": "9",
+  "best_name": "HGB",
+  "report_dir": "models\\best_hgb_9_viz",
+  "n_train": 9136,
+  "n_infer": 1118,
+  "oof_acc": 0.8772985989492119,
+  "oof_f1_macro": 0.6195688870453933
+}
