@@ -1,0 +1,8404 @@
+S02000008: Poor
+S02000010: Moderate, Good
+S02000011: Good, High, Moderate
+S02000990: Good
+S02001000: Good, Moderate
+S02001006: Good, Moderate
+S02001016: Good
+S02001025: Moderate, Good
+S02001030: Good
+S02001046: 
+S02001050: Good
+S02001100: Good
+S02001150: High, Good
+S02001200: High, Good
+S02001250: Moderate
+S02001500: High
+S02001700: Moderate, Good
+S02001715: Moderate, Good, High
+S02001717: Good
+S02001725: Moderate, Good, High
+S02001738: Good
+S02001750: Poor, Moderate
+S02001895: Good
+S02001915: Moderate
+S02001955: Good
+S02001990: High
+S02002000: Good, Moderate, Poor
+S02002800: Good, Moderate
+S02003100: Moderate, Good
+S02003200: Moderate, Good, Poor
+S02003350: Moderate, Good, Poor
+S02003397: Good
+S02003400: Moderate, Good, Bad, Poor
+S02003610: Good
+S02003617: Moderate
+S02003620: Poor, Good
+S02003670: Moderate
+S02003700: Moderate
+S02003800: Moderate, Good
+S02003900: Good
+S02004000: Good, Moderate
+S02004300: High
+S02004800: Good, Moderate
+S02005000: Good, Moderate
+S02005688: Good, Moderate
+S02005700: Good, Moderate, High
+S02006450: Moderate
+S02006500: Moderate, Good
+S02007000: Moderate, Good, Poor
+S02007250: Moderate, Good
+S02007300: Good
+S02007380: High
+S02008000: High
+S02009000: Good, Moderate, High
+S02009500: Moderate
+S02010000: Poor, Moderate, Good, Bad
+S02011000: Poor, Bad, Moderate
+S02013000: Moderate, Good
+S02015000: Moderate, Good
+S02016050: High, Moderate, Good
+S02017000: Moderate
+S02017500: Moderate, Good
+S02017850: Poor, Moderate
+S02018000: Moderate, Good, Poor
+S02018500: Moderate, Good
+S02018690: Good
+S02018780: High, Good
+S02019000: Good, Poor, Moderate
+S02019200: Poor, Good
+S02019500: Moderate, Good
+S02019950: Moderate
+S02020000: Moderate
+S02020300: Moderate
+S02020750: Moderate
+S02021000: Moderate, Good, Poor
+S02021700: Good, High
+S02022000: Moderate, Good
+S02022465: Moderate
+S02022650: High
+S02022670: Good
+S02022675: Moderate
+S02022700: Moderate, Good
+S02022730: Good, Moderate
+S02022760: 
+S02022800: Good
+S02023000: Moderate, Poor, Bad
+S02023500: Moderate
+S02023750: Poor, Moderate
+S02024000: Poor, Moderate, Bad
+S02024300: Poor, Moderate, Bad
+S02025100: Moderate, Poor
+S02025125: Good
+S02025150: 
+S02025200: Good
+S02025500: Moderate
+S02025700: High
+S02026125: Moderate
+S02026200: High, Good
+S02026250: 
+S02026500: Good
+S02026750: Good
+S02027000: Moderate, Good
+S02028000: Good, High
+S02028100: Moderate
+S02028300: Moderate, Poor
+S02028500: Moderate, Good
+S02029000: Moderate, Poor
+S02029160: High, Good
+S02030200: Moderate, Poor
+S02030310: Moderate
+S02030350: Good
+S02030400: Moderate
+S02030450: High, Good
+S02030500: Good, Moderate
+S02031400: Moderate, Good, Poor
+S02031520: Moderate
+S02031650: High, Moderate, Good
+S02032000: Moderate, Good
+S02032050: Good
+S02032400: Good, Moderate
+S02032800: Moderate
+S02035000: Moderate, Good
+S02035600: Moderate
+S02035750: Moderate
+S02036000: Moderate, Good, Poor
+S02036250: Good, Moderate
+S02036265: Moderate
+S02037000: Moderate, Good
+S02037400: Bad, Moderate, Poor, Good
+S02037500: Moderate, Poor, Good
+S02038000: Good, Moderate
+S02040800: Bad
+S02041000: Moderate
+S02041100: Moderate, Good
+S02041230: Good, Moderate
+S02041290: Moderate
+S02041500: Moderate
+S02041575: Moderate
+S02041650: Moderate, High, Good
+S02041741: Good
+S02041750: Moderate
+S02041950: Moderate, Good
+S02042000: Moderate
+S02042340: Moderate, Good
+S02042348: Good, Moderate
+S02042500: Moderate, Poor
+S02042520: Moderate
+S02042555: Good
+S02042650: High
+S02042700: Moderate
+S02042900: Good
+S02043000: Moderate
+S02043050: Good
+S02043260: Moderate
+S02043280: Poor
+S02043300: Poor, Moderate
+S02043450: Moderate
+S02043500: Moderate, Good
+S02043600: Moderate, Good
+S02043655: Good
+S02043680: Good
+S02043690: Moderate, Good
+S02043700: Moderate
+S02043750: Good
+S02043775: Good, Moderate
+S02043780: Moderate
+S02043785: Good
+S02043790: Good, Moderate
+S02043800: Moderate
+S02043860: Moderate
+S02044000: Moderate
+S02044020: Moderate
+S02044100: Moderate, Good
+S02044300: Moderate
+S02044400: Good
+S02045000: Moderate
+S02045050: Moderate
+S02045160: Poor
+S02045170: Moderate, Good
+S02045200: Moderate, Good
+S02045250: Moderate, Good
+S02045283: Good, Moderate
+S02045350: Poor, Moderate, Good
+S02045500: Moderate, Poor
+S02046000: Moderate, Good
+S02046400: Moderate
+S02046860: Moderate
+S02047000: Good, Moderate
+S02048960: High
+S02048980: Moderate, Good, High
+S02049000: Good, Moderate, Poor, High
+S02049120: High
+S02049500: High, Moderate, Good, Bad
+S02049900: High, Moderate, Good
+S02050000: Good, Moderate, High
+S02050260: Good
+S02051000: High, Good
+S02051500: Moderate
+S02051600: Moderate, Poor
+S02051820: Good, Moderate
+S02052000: Good, Moderate
+S02052500: Good, Moderate, Poor, High
+S02052600: Good
+S02052800: Poor, Moderate
+S02053800: Poor, Moderate
+S02054000: High, Moderate, Good
+S02054100: Good, Poor, Moderate, High
+S02054150: Moderate
+S02054300: Good
+S02054500: Good, Moderate
+S02054550: Poor
+S02054900: Poor, Moderate
+S02055000: Poor, Moderate
+S02055100: Good
+S02055200: Good
+S02055500: Good, Moderate
+S02055580: Moderate, High
+S02056020: Good
+S02056200: Poor, Moderate
+S02057000: Moderate, Poor
+S02057065: Moderate
+S02057168: Moderate
+S02057210: Good, Poor
+S02057245: Good
+S02057250: Good, Moderate
+S02057300: Good
+S02057350: 
+S02057400: Good, Moderate
+S02057453: Good
+S02057480: Moderate
+S02057490: Good
+S02057503: Good, Moderate
+S02057520: Moderate, Good
+S02057525: Good
+S02057557: Good
+S02057600: Good, Moderate
+S02057650: Moderate, Good
+S02057760: Good
+S02058000: Moderate, Good
+S02058990: Good
+S02059070: Moderate, Good
+S02059500: Moderate
+S02059760: Poor, Good
+S02059800: Good
+S02060100: Good, High
+S02060200: Moderate
+S02060500: Moderate, Good
+S02060650: Moderate
+S02060700: Good, Moderate
+S02060750: Moderate, Poor
+S02061250: High
+S02061500: Moderate, Poor, Good, High
+S02061970: High, Good
+S02063000: Moderate, Poor
+S02064000: Moderate, Poor
+S02064530: Moderate
+S02064770: Moderate, Good
+S02065090: Good, Moderate, High
+S02065280: Moderate, Good, Poor
+S02065500: Good, Moderate, High
+S02066000: Poor, Moderate, Good
+S02067000: Poor, Moderate, Good
+S02067150: Moderate
+S02067153: Poor
+S02067400: Good, Moderate
+S02067450: Moderate
+S02067505: Moderate
+S02067515: Moderate
+S02067585: Moderate, Good
+S02067600: Moderate, Good
+S02067800: Moderate
+S02067900: Moderate
+S02068500: Good, Poor, Moderate
+S02068510: Good, Moderate
+S02068600: Good
+S02068700: Poor
+S02068790: 
+S02068800: Moderate, Poor, Good, Bad
+S02069100: Poor, Moderate
+S02070000: Moderate, Poor
+S02070250: Moderate, Poor
+S02070300: Moderate
+S02070350: Good
+S02070370: Good
+S02070500: Moderate
+S02070750: Moderate, Good, Poor
+S02070775: Moderate, Good
+S02070810: Good
+S02070900: Moderate, Good, Poor
+S02071050: Moderate, Poor, Good
+S02072050: Moderate
+S02072150: Moderate, Poor
+S02072400: Bad, Poor, Moderate
+S02072600: Good, Moderate
+S02072670: Bad, Poor
+S02072700: Moderate, Poor
+S02073200: Good
+S02073700: Moderate
+S02074000: Poor, Moderate
+S02074900: Moderate, Good
+S02075300: Moderate, Bad, Poor
+S02076100: Moderate
+S02076180: High, Good, Moderate
+S02076195: Good
+S02076580: Moderate, Good
+S02076800: Moderate, Poor, Good
+S02077150: Good
+S02077200: Good, Moderate
+S02077300: Good
+S02077445: Moderate
+S02077450: Moderate
+S02077700: Good
+S02077775: High
+S02078000: Good, Moderate
+S02078500: Good, High
+S02078900: Good
+S02079000: Poor, Moderate
+S02079250: Moderate
+S02079500: Moderate, Good
+S02080200: Moderate, Good
+S02080500: Moderate, Poor
+S02081000: Moderate, Poor
+S02081030: Bad
+S02081100: Moderate, Good
+S02081135: Good, Moderate
+S02081300: Good, Moderate
+S02081600: Good
+S02081620: 
+S02082000: Poor, Moderate
+S02082160: 
+S02082330: Poor
+S02082350: Moderate, Poor, Bad
+S02082710: Good
+S02082845: Moderate
+S02082878: Moderate
+S02082900: Poor, Moderate, Good
+S02082920: Moderate
+S02082970: Moderate
+S02082985: Moderate
+S02082990: Moderate
+S02084000: Poor, Moderate
+S02084100: Good
+S02084200: Moderate, Poor, Good
+S02084650: Moderate, Good
+S02084800: Bad, Poor
+S02084900: Poor
+S02085325: Good, Poor, Moderate
+S02085600: Moderate, Poor
+S02085615: Good
+S02085700: Good
+S02085850: Good, Moderate
+S02085920: High
+S02086030: Good, High
+S02086170: Poor, Moderate, Good
+S02086220: Good
+S02086250: Moderate
+S02086300: Good
+S02086360: Poor
+S02086400: Moderate
+S02086450: Moderate
+S02086480: Good
+S02086500: Moderate, Good
+S02086550: Moderate, Good
+S02086900: Bad, High, Poor
+S02088000: Moderate
+S02088400: Good, High
+S02089000: Moderate, Poor, Good
+S02089900: Moderate, Good, Poor
+S02090000: Moderate, Poor, Good
+S02091500: Good, Moderate
+S02092000: Poor, Bad, Moderate
+S02092600: Good
+S02093100: Moderate, Good
+S02093170: Moderate, Good
+S02093200: Moderate, Poor
+S02093250: Moderate
+S02093600: Good, Moderate
+S02094000: Moderate, Good
+S02094500: Good, Moderate
+S02094700: Moderate, Good
+S02094800: Moderate, Good
+S02094900: Poor, Moderate
+S02094920: Good, High
+S02094940: Moderate
+S02094950: Poor, Moderate
+S02094970: High, Moderate, Good
+S02094973: Good, High, Moderate
+S02094978: Moderate
+S02094979: High
+S02095250: Moderate
+S02095500: Moderate, Good
+S02095600: Moderate, Poor
+S02095900: Poor, Moderate
+S02096000: Poor, Moderate
+S02096015: Moderate
+S02096480: Moderate
+S02096500: Good
+S02096520: Good
+S02096575: Moderate
+S02096750: Good, Moderate, High
+S02096900: Moderate, Good
+S02096950: Moderate
+S02096975: Moderate
+S02096990: Moderate
+S02097000: Moderate
+S02098100: Poor
+S02098200: Moderate
+S02098769: Good
+S02098800: Moderate, Poor, Good
+S02098900: Good
+S02098980: Bad, Poor
+S02099500: Moderate, Good
+S02099550: Good
+S02100100: Good
+S02100190: Good
+S02100600: Poor
+S02100603: Moderate, Poor
+S02100900: Moderate
+S02101050: Bad, Poor, Moderate
+S02102000: Bad
+S02103950: Poor, Moderate, Good
+S02104000: Moderate, Poor, Good
+S02104400: Good, Moderate
+S02104800: Good
+S02105000: Moderate, Good
+S02106220: Moderate, Good
+S02106222: Moderate
+S02106230: Moderate, Good
+S02106320: Good, Moderate
+S02106380: Good
+S02106405: Good
+S02106410: Good, Moderate
+S02106430: Good, Moderate
+S02106500: Moderate, Good
+S02106600: Good, Bad, Moderate, Poor
+S02106655: Moderate, Good
+S02106665: Moderate, Poor
+S02106700: Moderate
+S02106750: Good, Moderate
+S02106800: Good, Moderate, High
+S02106815: 
+S02106840: Moderate
+S02106850: Good, Moderate
+S02106895: Good
+S02106900: Good, Moderate
+S02106980: High
+S02107000: Good, Moderate
+S02107250: Moderate
+S02107400: Good
+S02107600: Moderate, Good
+S02107800: Good, Moderate
+S02107845: Good
+S02107870: 
+S02107890: High
+S02107900: High
+S02108700: High
+S02109000: Good, Moderate, High
+S02109140: Good
+S02109245: Good
+S02110000: Good, High, Moderate
+S02110050: Good, High
+S02110100: Good
+S02110450: Good
+S02110500: High
+S02110600: 
+S02110650: Good, High
+S02110670: Good
+S02110715: High
+S02110915: High, Good
+S02111000: Good, High
+S02111500: Bad, Poor, Moderate
+S02112000: Moderate, Good
+S02112050: Good
+S02112150: Good, High
+S02112170: Good
+S02112300: Good
+S02112405: Good
+S02113000: Good, Poor
+S02114000: Moderate, Good
+S02114250: Good
+S02114500: Good
+S02115000: Good
+S02115200: Moderate, Poor
+S02115615: High
+S02115625: High, Good
+S02115650: Poor, Moderate, Good, High
+S02115653: Moderate
+S02115660: Poor, High
+S02115670: Moderate
+S02115675: Good, Moderate
+S02115685: High, Good
+S02115725: Good
+S02115750: Moderate, Good, Poor
+S02115762: Good, High
+S02115772: Poor, Good
+S02115775: Moderate, Good
+S02115790: Moderate, Poor, Good
+S02115795: Good
+S02115800: Moderate, Good, High
+S02115820: Good
+S02115840: Good
+S02115851: Moderate, Good
+S02115855: Moderate
+S02115862: Good
+S02115900: Good
+S02115950: Good, High
+S02116000: Moderate, Good
+S02116100: Moderate, High
+S02116500: 
+S02116570: High
+S02116600: Moderate, Good, High
+S02117000: Good, Moderate
+S02117350: Good
+S02117400: Moderate, Good
+S02117575: Moderate, High, Good
+S02117585: Good
+S02118000: Moderate, Good
+S02118300: Moderate, Good, High
+S02118500: Good, Moderate
+S02118550: Good
+S02118750: Good, Moderate
+S02119000: Good, Moderate
+S02120000: Moderate, Good, High
+S02120400: Moderate, High
+S02121050: Moderate, Poor
+S02121500: High
+S02121750: High
+S02122200: High
+S02122750: Good
+S02123000: Good, Moderate
+S02123300: High, Good
+S02123500: High, Good, Poor, Moderate
+S02124000: Moderate, Good
+S03000029: High
+S03000033: High
+S03000070: High
+S03000100: 
+S03000440: High
+S03000456: Good
+S03000688: High
+S03000890: High
+S03001000: High
+S03002021: High
+S03002047: High
+S03002100: High, Good
+S03002130: High
+S03002309: Moderate
+S03002310: High
+S03002315: Good
+S03002380: High
+S03002405: Good
+S03002406: Good
+S03002407: Good
+S03002425: High
+S03002440: Good, High
+S03002536: High
+S03002564: High
+S03002810: High
+S03002900: Good, High
+S03003790: Good, High
+S03004095: High
+S03004232: High
+S03004280: High, Good
+S03004310: Moderate, Good
+S03004349: Good, High
+S03004985: Moderate
+S03005200: High, Good
+S03005210: Good, High
+S03005284: High
+S03005539: Good, High
+S03005747: High
+S03005999: Good
+S03006000: Good, High
+S03006109: Good
+S03006120: Good
+S03006215: High
+S03006241: High
+S03006268: High
+S03006271: High, Good
+S03006272: 
+S03006275: High
+S03006354: High
+S03006390: High
+S03006410: High
+S03006475: High
+S03006540: Good
+S03006590: High
+S03006870: High
+S03006900: High
+S03007000: Good, High
+S03007023: 
+S03007351: Moderate
+S03007383: Good, High
+S03007571: Moderate
+S03007800: Good
+S03008267: Good, Moderate
+S03008306: Moderate
+S03008459: Good
+S03008483: Good
+S03008505: Good, Moderate
+S03008671: High
+S03008672: High
+S03008714: Good
+S03008833: Poor, Moderate
+S03008848: Moderate, Good
+S03008950: Moderate
+S03009000: Good
+S03009650: Good
+S03010070: Moderate, Good, High
+S03010196: Good
+S03010670: Good, Moderate
+S03010930: Good, High
+S03011080: High
+S03011175: Moderate, Good
+S03011300: Good
+S03011390: Good
+S03011620: Moderate, Good
+S03011740: Good, High
+S03011760: High, Good
+S03011780: Moderate
+S03011840: Good
+S03012050: Good
+S03012100: Good
+S03012280: Good
+S03012310: Good
+S03012355: Good, High
+S03012380: High, Good
+S03012450: High
+S03012660: Good
+S03012680: Good, High
+S03012710: Good, Moderate
+S03013212: Good, High
+S03013290: Good
+S03013300: Good
+S03013345: Good
+S03013372: Good
+S03013550: Good, High
+S03013615: Moderate, Good
+S03013660: Good, Moderate
+S03013677: Good
+S03013705: Good, Poor
+S03013740: Good
+S03013930: Good
+S03014000: Good
+S03014030: High
+S03014130: High
+S03014140: High
+S03014170: High
+S03014245: High
+S03014299: High
+S03014320: High
+S03014330: High
+S03014470: Good
+S03014550: High
+S03014695: High
+S03014846: Good, Moderate
+S03014907: 
+S03014927: Good
+S03014940: High
+S03014986: High
+S03015000: High
+S03015005: Good
+S03015514: High
+S03016191: Moderate, Good
+S03016240: High
+S03016285: High
+S03016310: High
+S03016488: High
+S03016498: High
+S03016840: Good, Moderate, High
+S03017000: High
+S03017556: Good, Moderate
+S03017900: High, Good
+S03018140: Good
+S03018150: Good
+S03018196: High
+S03018242: Good, High
+S03018248: Good, High
+S03018342: Moderate, Good, High
+S03018431: Moderate, Good
+S03018531: Good
+S03018541: Moderate, Good
+S03018652: High
+S03018675: Good
+S03018791: Good, High
+S03018857: High
+S03018860: Good
+S03018940: Good
+S03018947: Good
+S03018951: Good
+S03018997: High
+S03019795: Good, High
+S03020000: Moderate, Good
+S03020126: High
+S03020145: Good, High
+S03020240: High
+S03020477: High
+S03020490: High
+S03020591: Good
+S03020650: Good, Poor, High
+S03021000: Good, High
+S03021230: High
+S03021531: High
+S03021588: Good
+S03021700: Good
+S03021917: High
+S03022000: High, Good
+S03022087: Moderate
+S03022104: Poor
+S03022114: Good
+S03022140: High
+S03022229: High
+S03022330: Good
+S03022464: Good
+S03022505: Good, Moderate
+S03022589: 
+S03022667: Moderate
+S03022718: Moderate, Good
+S03022790: Moderate
+S03022840: Good
+S03022859: Good
+S03022896: Good
+S03023000: Good, Moderate
+S03023025: 
+S03023700: Moderate, Good
+S03024230: Good, High
+S03024245: Good, High
+S03024251: Moderate
+S03024255: Moderate
+S03024285: Good, High
+S03024294: 
+S03024300: Good, Moderate
+S03024330: Good, High
+S03024333: Good
+S03024343: High
+S03024355: Moderate
+S03024392: High, Good
+S03024426: Moderate
+S03024468: Good
+S03024493: Good
+S03024510: 
+S03024522: Poor
+S03024523: Poor
+S03024530: Good
+S03024545: Good
+S03024547: Moderate
+S03024550: Good, Moderate
+S03024560: Poor, Moderate, Good
+S03024581: Good
+S03024597: Moderate
+S03024725: Good
+S03024736: 
+S03024840: Moderate, Good, Poor, High
+S03024885: Good, High
+S03024922: High
+S03025020: Moderate
+S03025045: Good
+S03025140: Moderate, High
+S03025163: Good
+S03025165: Good
+S03025238: Good, High, Moderate
+S03025249: High, Moderate
+S03025331: High
+S03025368: High, Good
+S03025440: 
+S03025492: Moderate, Good
+S03025524: Good
+S03025548: High
+S03025549: Good
+S03025550: Good
+S03025551: Good
+S03025570: High, Good
+S03025902: High
+S03025919: High
+S03025938: Good
+S03026000: Moderate, Good
+S03026179: High
+S03026382: Good
+S03026529: Good, High
+S03026565: High
+S03027000: High, Good, Moderate
+S03027490: Moderate, Good
+S03027491: Moderate, Good
+S03027549: Moderate, Good
+S03027697: Good
+S03027790: Moderate, Good
+S03027807: Good, Moderate
+S03027840: Moderate, Good
+S03027844: Moderate, Poor
+S03027845: Good
+S03027847: High
+S03027999: Moderate
+S03028000: Moderate, Good
+S03028239: Moderate
+S03029000: Good, Moderate
+S03029140: Moderate, Good
+S03029225: Good
+S03029290: Good
+S03029470: Good
+S03029500: 
+S03029530: Good, Moderate
+S03029549: Good
+S03029630: Good
+S03029710: Moderate, Good
+S03029798: Good
+S03029865: Good, High
+S03029890: High, Good
+S03029910: Good, High
+S03030000: Good, Moderate
+S03030155: Good
+S03030163: Good, High
+S03030457: Moderate, Good
+S03030550: Good, High
+S03030602: High
+S03031040: High, Good
+S03031191: 
+S03032000: Moderate, Good
+S03032210: Good
+S03032224: High
+S03032240: High
+S03032375: Bad, Good
+S03032550: High
+S03032610: Good
+S03032620: Good
+S03032660: Poor
+S03032675: Good, Moderate, High
+S03032695: High, Moderate, Good
+S03032731: 
+S03032780: 
+S03032791: Moderate
+S03032826: Poor
+S03032827: Moderate, Poor
+S03032862: Moderate, Good
+S03032904: Good
+S03032942: Good
+S03032959: Moderate, Good
+S03033000: Good, Moderate
+S03033010: Good
+S03033028: Moderate
+S03033030: Good
+S03033038: High, Good
+S03033050: Good
+S03033090: Good
+S03033120: 
+S03033150: Moderate
+S03033151: Good
+S03033200: High, Good
+S03033220: Bad
+S03033240: High, Good
+S03033249: Good
+S03033273: Poor
+S03033280: Good
+S03033305: High, Good
+S03033306: High, Good
+S03033395: Moderate
+S03033456: Good
+S03033470: Moderate, Good
+S03033535: Good
+S03033544: Good
+S03033610: High
+S03033660: High, Good
+S03033830: Good
+S03034112: Moderate
+S03034127: Moderate, Good
+S03034254: 
+S03034285: Poor
+S03034370: Poor, Moderate
+S03034435: Moderate
+S03034440: Moderate
+S03034465: 
+S03034480: Moderate
+S03034494: Moderate
+S03034690: Good, Moderate
+S03034720: Moderate, Good, High
+S03034790: Good
+S03034813: 
+S03034961: Good
+S03035000: Moderate
+S03035105: Moderate
+S03035113: Moderate
+S03035394: High
+S03035422: High
+S03035455: Good, High, Moderate
+S03035570: High, Good
+S03035667: Good
+S03035770: Good, Moderate
+S03035840: Good, High
+S03036000: Moderate
+S03036030: High, Good
+S03036064: Good
+S03036070: High, Good, Moderate
+S03036153: Good
+S03036214: Poor, Moderate
+S03036280: Good
+S03036325: Moderate
+S03036329: Good
+S03036332: 
+S03036339: Moderate
+S03036361: Good
+S03036402: Good
+S03036445: Moderate, High
+S03036475: Good
+S03036490: Good
+S03036496: Good
+S03036510: Good, High
+S03036630: 
+S03036638: Good, High
+S03036650: Moderate, Good
+S03036697: High
+S03036710: Good
+S03036800: Good
+S03036885: Moderate, Good
+S03036900: Moderate
+S03036920: Good
+S03036970: Good, High
+S03037480: Good, High
+S03037550: Good
+S03037576: 
+S03037650: Good, High, Moderate
+S03037660: Good
+S03037890: Good
+S03038385: Good, Moderate
+S03038425: Poor, Moderate
+S03038630: Good
+S03038700: Good
+S03038810: Good
+S03038997: Good, High
+S03039000: Good, High, Moderate
+S03039110: Good
+S03039130: 
+S03039240: 
+S03039290: Good
+S03039390: Moderate, Good, High
+S03039444: Good
+S03039673: 
+S03039940: Good, High
+S03040250: High, Good, Moderate
+S03040450: High
+S03040485: Good, High
+S03040520: Moderate
+S03040639: Good
+S03040791: Moderate
+S03041000: Moderate, Poor, Good
+S03041165: Good
+S03041180: Moderate
+S03041247: Good, Moderate
+S03041285: Good
+S03041348: Good
+S03041530: Good
+S03041600: Good, Moderate
+S03041669: Good
+S03041680: Good
+S03041975: Good
+S03042190: Good
+S03042450: Good
+S03042460: Good
+S03042518: Good
+S03042590: Good
+S03043280: High
+S03043450: Good, High
+S03043850: Good, High
+S03044000: Good
+S03044170: Good
+S03044490: High
+S03044580: Good
+S03044690: High, Good
+S03044880: Good, High
+S03044917: High
+S03045000: Good
+S03046200: Good, Moderate
+S03046684: Good
+S03047279: Good
+S03047445: Good, High
+S03047627: Good
+S03047680: Good
+S03047685: Good
+S03047740: Good
+S03048000: Moderate, Good
+S03048290: Good
+S03048347: Good
+S03049198: Moderate, Good
+S03049850: High
+S03050000: Good, Moderate
+S03050200: Poor, Moderate
+S03051240: Moderate, Good
+S03051250: 
+S03051395: Good
+S03051490: Good
+S03051500: Good, Moderate
+S03051520: Good
+S03051580: Good
+S03051590: Moderate, Good
+S03051747: High
+S03051750: Good
+S03051765: Good
+S03051840: Moderate, Good
+S03051947: Moderate
+S03052014: Good, Moderate
+S03052030: Moderate
+S03052040: Good
+S03052094: Good
+S03052105: Moderate, Good
+S03052134: Good
+S03052145: Moderate, Good
+S03052215: Good, Moderate
+S03052245: Good, Moderate
+S03052325: Moderate, Good
+S03052338: Moderate
+S03052450: Poor, Moderate, Good
+S03052465: Moderate
+S03052656: Good, Moderate
+S03052760: Moderate
+S03052785: Moderate
+S03052823: Moderate, Good
+S03052825: Moderate
+S03052845: Moderate
+S03052895: Moderate
+S03053000: Moderate, Good
+S03053220: Good, Moderate
+S03053275: Moderate, Good
+S03053605: Moderate
+S03053710: High
+S03053750: Good
+S03053777: Good
+S03053999: High, Good
+S03054000: Good, Moderate
+S03054220: Good, Moderate
+S03054600: Good
+S03055000: Good, Moderate
+S03055369: Good, Moderate
+S03055380: High
+S03055490: Good
+S03056010: Good
+S03056024: Good
+S03056030: 
+S03056105: Good
+S03056115: Good
+S03056135: High
+S03056160: Moderate, Good
+S03056210: Good
+S03056260: 
+S03056633: Good, High
+S03056740: Good
+S03056746: High, Good
+S03057000: Good, Moderate
+S03057230: Moderate
+S03057340: Good, Moderate
+S03057490: Moderate
+S03057640: Good
+S03057650: Good
+S03057720: Good, Moderate
+S03058150: Good, Moderate
+S03058280: Good
+S03059000: Good, Moderate
+S03059880: Good, Moderate
+S03061000: Good, Moderate
+S03061660: Moderate, Good
+S03063000: Moderate, Good
+S03063650: Moderate, Good
+S03064385: Good
+S03065050: Moderate, Good
+S03065250: Good
+S03065380: Moderate, Good
+S03065460: Good, Moderate
+S03065960: High, Good, Moderate
+S03066000: Good, Moderate
+S03068100: High, Good
+S03068280: Moderate, Good
+S03068303: Good
+S03068310: Moderate, Good
+S03068560: Good
+S03068800: Good
+S03068950: Good
+S03069000: Good, Moderate
+S03069325: Poor, Moderate, Good
+S03070440: Moderate, Good
+S03071017: Moderate, Good
+S03071080: Good, Moderate
+S03071394: Good
+S03071550: Moderate, Good
+S03071770: Good
+S03072200: Poor, Good, Moderate
+S03073000: Good, Moderate, Poor
+S03073350: Moderate
+S03074214: Good
+S03074800: Moderate
+S03075000: Good, Moderate
+S03075260: Good, Moderate
+S03075379: Moderate
+S03075400: Moderate, Good
+S03075860: Moderate
+S03075890: Good, High, Moderate
+S03076000: Moderate, Good
+S03076002: Moderate
+S03076047: Moderate, Good
+S03076148: Good, Moderate
+S03076220: Moderate
+S03076443: Moderate, Good
+S03076493: Moderate
+S03076899: Good, Moderate
+S03077000: Good, Moderate, Poor
+S03077596: Good
+S03077645: Good
+S03077900: Good
+S03077910: Good, Moderate
+S03078060: Good
+S03078110: Good, Moderate
+S03078274: Moderate
+S03078385: Good
+S03078510: Good, Moderate
+S03078600: Moderate, Good
+S03078630: Moderate, Good
+S03078832: Moderate
+S03079270: Good, Moderate
+S03079430: Good
+S03079622: Good, Moderate
+S03079850: Good, Moderate
+S03079967: Poor
+S03079994: Good
+S03080025: Good, Moderate
+S03080660: Moderate, Good
+S03081000: Moderate, Good
+S03081001: Moderate
+S03081016: 
+S03081250: Good, Moderate
+S03082000: Moderate, Good
+S03082560: Moderate, Good
+S03082719: Moderate
+S03082758: Poor, Bad
+S03082781: Moderate, Poor
+S03082805: 
+S03083125: Moderate, Good
+S03083450: Moderate, Good
+S03084470: Moderate, Good
+S03085000: Moderate
+S03085533: Good
+S03085558: Good, Moderate
+S03085575: High, Good
+S03085584: Moderate
+S03085590: Good
+S03085607: Moderate
+S03085608: Moderate, Good
+S03085630: Good, High
+S03085651: Good
+S03085669: High
+S03085670: Poor
+S03085688: Good, Moderate
+S03085700: Good
+S03085730: Good
+S03085763: Good
+S03085769: Good
+S03085805: Good
+S03085825: Good
+S03085837: Good, Moderate
+S03085855: Good
+S03085857: High
+S03085908: High
+S03085920: Good
+S03085922: Good
+S03085929: Good
+S03085945: Good, High
+S03085960: Good
+S03085977: Good
+S03085998: High
+S03086100: Good, Moderate, High
+S03086340: High
+S03086440: Good
+S03086621: Poor
+S03087000: Moderate, Good
+S03087545: High
+S03088029: High
+S03088255: High
+S03088283: High
+S03088302: High
+S03088345: High, Good
+S03088360: Good, High
+S03088395: High, Good
+S03088410: Good
+S03088460: High, Good
+S03088545: Good, High
+S03088630: High
+S03088800: High, Good
+S03088882: Good
+S03088890: Good, High
+S03088895: Good
+S03089215: High
+S03089225: High
+S03089295: Good
+S03090000: Good
+S03090010: Good
+S03090050: High, Good
+S03090258: High
+S03090260: High, Good
+S03090380: Good, High
+S03090405: Good, High
+S03090413: Good, High
+S03090452: High
+S03090470: Good, High
+S03090500: Good
+S03090600: High
+S03090652: Moderate
+S03090689: Good, High
+S03090745: Poor
+S03090780: Good
+S03090904: Good
+S03090923: Moderate, Good
+S03091000: High, Good
+S03092250: Good
+S03092356: High, Good
+S03092500: Good, Moderate
+S03092811: Good
+S03093145: Good
+S03093190: Good
+S03093300: Good
+S03093395: Good
+S03093445: High, Good
+S03093540: Good, High
+S03093572: Good
+S03093900: High, Good
+S03094356: 
+S03094390: High, Good
+S03094405: Good, High
+S03094660: High
+S03094700: High
+S03095000: High
+S03095190: Good
+S03095249: Good, High
+S03095300: Good, High
+S03095400: Good
+S03095620: Good
+S03095825: High, Good
+S03095945: Good, High
+S03096000: Good, High
+S03096010: Moderate, Good
+S03096025: High, Good
+S03096028: Good, High
+S03096100: Good, High
+S03096125: Good
+S03096156: High
+S03096185: Poor, Moderate
+S03096255: Good, High
+S03096310: Good, Moderate
+S03096332: Good
+S03096343: Good
+S03096351: Moderate, Good
+S03096400: Moderate, Good
+S03096583: Good, Moderate
+S03096650: Good
+S03096690: Good, Moderate
+S03096706: Good
+S03096867: High
+S03096898: High, Good
+S03097000: High, Good
+S03097020: Good
+S03097150: Good
+S03097235: Good, High
+S03097552: Good
+S03097571: Good, Moderate
+S03097611: Good
+S03097690: Good
+S03097700: Good
+S03097790: Good
+S03097795: High
+S03098000: High, Good
+S03098045: Moderate, Good
+S03098190: High
+S03098291: High
+S03098690: High
+S03098695: High
+S03098745: High
+S03098845: High
+S03098850: High
+S03099205: High, Good
+S03099330: Good, High
+S03099445: Good
+S03099490: Good, High
+S03099545: High
+S03099750: High
+S03099799: High
+S03099870: Good
+S03099875: Good
+S03099950: Good, High
+S03100440: High
+S03101000: Good, High
+S03101140: Moderate, High
+S03101340: Good
+S03101600: Moderate, Good
+S03101740: High, Good
+S03102000: Good, High, Moderate
+S03102920: Good
+S03103115: Good
+S03103132: Good, Moderate
+S03103140: Good
+S03103150: Good
+S03103160: Good
+S03103198: High, Good
+S03103370: Good, High
+S03103440: High, Good
+S03103490: Good
+S03103802: Moderate, High
+S03103816: High, Good
+S03103970: High, Good
+S03104000: Good
+S03104360: High
+S03104415: High
+S03104450: High, Good
+S03104505: Moderate
+S03104528: Moderate, Good
+S03104543: Good
+S03104810: Good
+S03104840: Good
+S03104899: Good
+S03105000: Good
+S03105125: Good
+S03105142: Good, Moderate
+S03105285: 
+S03105305: Good
+S03105355: Moderate
+S03105371: Good
+S03105380: Moderate, Good
+S03105382: Good, Moderate
+S03105455: 
+S03105462: Good
+S03105500: Good, High
+S03105585: 
+S03105710: Moderate
+S03105760: 
+S03105790: Good
+S03105834: Good
+S03105865: Good
+S03105902: Good
+S03105918: Moderate, Good
+S03105932: Good
+S03105946: Good
+S03106204: Good
+S03106690: Good
+S03107000: Good, High, Moderate
+S03107295: Good
+S03107455: Good
+S03107457: Good
+S03107889: Good
+S03108050: Good
+S03108098: Good, High
+S03108280: Good
+S03108380: Good
+S03108647: Good
+S03108660: Bad, Moderate
+S03108694: Good
+S03108850: Moderate, Good
+S03108890: Good
+S03109000: Good, Moderate
+S03109019: Moderate
+S03109340: Good
+S03109590: Moderate
+S03109660: Good
+S03109805: Moderate
+S03109840: Good
+S03109935: Poor, Good
+S03110155: Moderate
+S03110160: Moderate
+S03110855: Moderate
+S03110863: Moderate, Good
+S03111000: Moderate, Good
+S03111142: Poor
+S03111203: Bad
+S03112000: Moderate, Good
+S03112295: Moderate
+S03112480: Good, Moderate
+S03112535: Good, Moderate
+S03112539: Good
+S03112565: Good, Moderate
+S03112638: Good
+S03112665: Good
+S03112710: Good
+S03112740: Good
+S03112769: Good
+S03112779: Good, Moderate
+S03112805: Good
+S03112870: Good
+S03112875: Good
+S03112885: Good
+S03112965: Good
+S03113000: Good
+S03113040: Good
+S03113140: High
+S03113179: Good, High
+S03113210: High, Good
+S03113218: Moderate, Good
+S03113248: High
+S03113265: Good, Moderate
+S03113280: Good
+S03113295: Good
+S03113310: Good
+S03113340: High, Good
+S03113490: Good
+S03113495: Good
+S03113546: Good
+S03113610: Good, Moderate
+S03113653: Good, Moderate
+S03113710: Good
+S03113816: Moderate, Good
+S03113895: Moderate, Poor
+S03113980: Moderate, Good
+S03114000: Good, Moderate
+S03114145: Moderate, Good
+S03114290: Moderate, Good
+S03114350: Moderate, Good
+S03114386: Moderate, Good
+S03114395: Moderate, Good
+S03114630: Good
+S03114690: Good
+S03114735: Good
+S03114825: Good
+S03114900: Good
+S03115000: Good
+S03115060: Good
+S03115095: Good
+S03115125: Good, Moderate
+S03115460: Good
+S03115490: Good
+S03115616: Good
+S03115630: Good
+S03115700: Good, Moderate
+S03115758: High, Good
+S03115770: Good, High
+S03115789: Good
+S03115798: Good, High
+S03115816: Moderate, Good
+S03115840: Good
+S03115860: Good, High, Moderate, Poor
+S03115915: Good
+S03115930: Moderate
+S03115950: Moderate, Good
+S03115955: Moderate, Good
+S03115986: Good
+S03115990: Good, Moderate
+S03116187: Moderate, Good
+S03116192: Good, High
+S03116260: Good
+S03116398: Moderate, Good
+S03116600: Moderate
+S03116680: Good, Moderate
+S03116720: Good
+S03116820: Good
+S03117138: Good, High
+S03117302: Good
+S03117310: Good
+S03117440: Good, Moderate
+S03117565: Good, Moderate, Poor
+S03117800: Good
+S03117905: Good
+S03118000: Poor, Good, Moderate
+S03118270: Good
+S03118300: Good, Moderate
+S03118545: Good, Moderate
+S03118890: Good
+S03118962: Good
+S03119000: Good
+S03119560: 
+S03119590: Good
+S03119670: Good
+S03120000: Good
+S03120685: Moderate, Good
+S03120800: Good, Moderate
+S03120900: Moderate
+S03122008: Good, Moderate
+S03122999: Moderate, Poor
+S03125000: Poor, Moderate
+S03125500: Moderate
+S03125925: Good, Moderate, Poor
+S03126000: Moderate
+S03126055: Moderate, Good
+S03126088: Good
+S03126511: Moderate
+S03126704: Moderate, Good
+S03127001: Moderate
+S03127235: Poor, Moderate
+S03127370: Moderate, Good
+S03127550: Good, Moderate
+S03128000: Moderate
+S03128190: High
+S03128220: Good, High
+S03128270: High
+S03128379: Good, Moderate
+S03128500: Moderate, Good
+S03128640: Poor, Good
+S03128732: Moderate
+S03128745: Moderate
+S03128760: Moderate, Good
+S03128774: Good
+S03128837: Good, Moderate
+S03128845: 
+S03128880: Moderate, Good
+S03128907: Good
+S03128935: Good, Moderate
+S03128960: Good, Moderate
+S03128987: Good
+S03129020: Moderate, Good
+S03129053: Good
+S03129105: Good
+S03129170: High
+S03129175: Good
+S03129180: Moderate, Good
+S03129380: Poor, Moderate
+S03129440: Moderate
+S03129730: Moderate, Good
+S03129817: Moderate, Good
+S03130270: Moderate, Good
+S03130490: Good, Moderate
+S03131000: Moderate, Good
+S03131800: Good
+S03132000: Good
+S03132054: Good
+S03132095: Moderate
+S03132260: Moderate, Good
+S03132330: Moderate, Poor
+S03132555: Moderate, Good
+S03132615: Good
+S03132620: Moderate, Good
+S03132690: Moderate
+S03132733: Moderate
+S03132736: Good, Moderate
+S03132775: High, Good
+S03132827: Moderate, Good
+S03132909: Bad, Good
+S03132976: Moderate, Good
+S03133000: Moderate, Good
+S03133040: Good, Moderate
+S03133140: Moderate, Poor
+S03133155: Moderate, Good
+S03133415: Good
+S03133435: Good
+S03133474: Good, Moderate
+S03133595: Moderate, Good
+S03133670: Good
+S03133690: Good
+S03133797: Good
+S03133850: Good
+S03133890: Good
+S03133908: Moderate
+S03133937: Good, Moderate
+S03134000: Good, Moderate
+S03134226: Moderate
+S03134560: Moderate, Good
+S03134595: Good
+S03134618: Good
+S03134708: Moderate
+S03134727: Good
+S03134730: Good
+S03134790: Good
+S03134800: Good, Moderate
+S03135000: Good, Moderate
+S03135360: Good
+S03135860: Moderate, Good
+S03135940: Good
+S03136000: Good, Moderate
+S03136600: Good, Moderate
+S03136840: Good, Moderate
+S03137000: Moderate, Good
+S03137290: Good, Moderate
+S03137570: Moderate, Good
+S03137623: Good, Moderate
+S03137685: Moderate, Good
+S03137830: Good
+S03138000: Moderate, Good
+S03138390: High, Good, Moderate
+S03138485: Good
+S03138550: Poor, Good
+S03138728: Good
+S03138800: Good, Moderate
+S03139015: Poor
+S03140325: Good
+S03140358: Good
+S03140400: Good
+S03140490: Good
+S03141000: Good, Moderate
+S03141490: Moderate, Good
+S03141730: Good
+S03141820: Good
+S03141906: Good, Moderate
+S03141950: Moderate, Good
+S03141970: Good
+S03141984: Moderate, Good
+S03142025: Moderate
+S03142340: Moderate
+S03142424: Good, Moderate
+S03142520: Moderate, Good
+S03142640: Good
+S03142880: Good
+S03143000: Moderate, Good
+S03143100: Moderate
+S03143225: Good, Moderate
+S03143373: Good
+S03143560: Good
+S03143810: Moderate, Good
+S03143835: Moderate
+S03143867: Good
+S03143887: Moderate, Good
+S03144115: High, Good
+S03144245: Good
+S03144270: Good
+S03144280: Moderate, Good
+S03144325: Moderate, Good
+S03144380: Good
+S03144410: Good
+S03144440: Good, Moderate
+S03144475: Good, Poor, Moderate
+S03144595: High
+S03144639: Good, High
+S03144675: Good, High
+S03144735: Moderate, Good
+S03144895: Poor, Good, Moderate
+S03144945: Good, High
+S03145000: Good, High, Moderate
+S03145020: Good
+S03145185: Moderate
+S03145275: Moderate, Good
+S03145290: Good
+S03145455: Good, Moderate
+S03145490: Good
+S03145609: Good
+S03145665: Moderate, Good
+S03145675: Good
+S03145847: Good, Moderate
+S03145865: Good, High
+S03145880: Good
+S03145931: Good, Moderate
+S03145985: Good, Moderate
+S03146000: Good, Moderate
+S03146185: Good
+S03146300: Moderate
+S03146445: Moderate, Poor
+S03146498: Good, Moderate
+S03146579: Good, Moderate
+S03146695: Poor, Moderate
+S03146715: Good
+S03146818: Moderate
+S03146890: Moderate, Good
+S03146947: High
+S03147380: Good
+S03147595: Poor, Moderate
+S03147888: Good
+S03148220: Moderate, Good
+S03148650: Bad, Good, Moderate
+S03148880: Moderate
+S03149013: Moderate, Good
+S03149029: Good
+S03149035: Moderate
+S03149043: Good
+S03149077: Good
+S03149081: Moderate, Good, High
+S03149104: 
+S03149122: Good
+S03149158: Good, Moderate
+S03149162: Good
+S03149166: Good
+S03149172: High
+S03149176: Moderate, Good
+S03149198: Good
+S03149289: Good
+S03149315: Good
+S03149330: Good
+S03149353: Moderate, Good
+S03149385: Good
+S03149398: Good
+S03149420: Good, Moderate
+S03149440: Good
+S03149465: Good
+S03149487: Moderate, Good
+S03149570: Moderate, Good
+S03149630: Good, Moderate
+S03149742: Good, High
+S03149830: High
+S03149859: High
+S03149889: Moderate, Good
+S03149900: Good
+S03149906: High, Good
+S03150000: Moderate, Good
+S03150890: Moderate, Good, High
+S03151139: Good
+S03151190: Good, Moderate
+S03151265: Good
+S03151300: Good
+S03151410: Moderate
+S03151615: Good
+S03151710: High
+S03151800: Good
+S03151810: Good, High
+S03151910: Good
+S03152000: Good, Moderate
+S03152440: Good, Moderate
+S03152830: Moderate, Good
+S03152930: Good
+S03152931: Poor, Moderate
+S03153000: Good, Moderate
+S03153139: Good
+S03153363: Good
+S03153370: Moderate, Good
+S03153710: Good
+S03153765: Good
+S03153770: Good
+S03153900: Good
+S03153950: Good
+S03154000: Moderate, Good
+S03154470: Good, Moderate
+S03154550: Good
+S03154640: Good
+S03154745: Moderate
+S03154840: Good, Moderate
+S03155040: Good, High
+S03155290: Good, Moderate
+S03155345: Moderate, Good
+S03155470: Moderate, Good
+S03155600: Good
+S03155792: Good
+S03156000: Good, Moderate
+S03156150: High
+S03156151: Good, Moderate
+S03156155: High
+S03156172: Good, High
+S03156175: High
+S03156295: Moderate, Good
+S03156310: Good
+S03156344: Good, High
+S03156350: Good, High
+S03156352: High, Good
+S03156380: Good, High
+S03156438: Moderate, High
+S03156510: Good, High
+S03156540: Good
+S03156547: Good, High
+S03156580: Good, High
+S03156695: Good
+S03156724: Good
+S03156838: Good, High
+S03156910: Good
+S03156940: Good, Moderate
+S03156961: Moderate, Good
+S03156995: Good, Moderate
+S03157040: Moderate, Good
+S03157418: High
+S03157485: Good, High
+S03157680: Good
+S03157880: Good
+S03157950: Good, Poor
+S03158350: High
+S03158900: Good
+S03159118: Good
+S03159490: High, Good
+S03159680: Good, High
+S03159785: High
+S03159795: Good
+S03159915: Moderate
+S03160000: Good, High
+S03160360: Good, Moderate
+S03160900: Moderate, Good
+S03161020: Moderate, Good
+S03161090: 
+S03161145: Good, Moderate
+S03161230: Good, High
+S03161258: Good
+S03161335: Good
+S03161435: Good
+S03161540: Good
+S03161579: Moderate, Good
+S03161695: Moderate
+S03161747: Moderate, Good
+S03161765: Moderate, Good
+S03161850: Good
+S03161881: Good
+S03162000: Good, Moderate
+S03162240: Good
+S03162325: Moderate, Good
+S03162365: Good, Moderate
+S03162430: Moderate
+S03162900: Good
+S03163000: Good, Moderate
+S03163300: Good, Moderate
+S03163400: Good
+S03163742: Good
+S03163750: Good, Moderate
+S03163805: Good, Moderate
+S03164130: Good
+S03164178: Good, Moderate
+S03164180: Moderate, Good
+S03164184: Good, Moderate
+S03164218: Moderate, Good
+S03164250: Good
+S03164285: Moderate
+S03164330: Moderate, Good
+S03164714: Good
+S03164900: Moderate
+S03165011: High, Good
+S03165020: Good
+S03165200: Good, High
+S03165295: Good
+S03165339: Good
+S03165387: Good
+S03165390: Good
+S03165560: Good
+S03165685: Good
+S03165895: Good
+S03166050: Good, Moderate
+S03166490: Moderate, Good
+S03166680: Good
+S03166945: Good, Moderate
+S03167000: Good
+S03167249: 
+S03167350: Poor, Moderate
+S03167740: Good
+S03167820: Moderate, Good
+S03168035: Good, Moderate
+S03168230: Good
+S03168337: Moderate, Good
+S03168435: Moderate, Good
+S03168690: Moderate, Good
+S03168890: Good, Moderate
+S03168995: Moderate
+S03170100: Moderate, Good
+S03171085: Moderate
+S03171304: Moderate, Good
+S03171770: Moderate, Good
+S03171880: Good, Poor
+S03171885: High, Good
+S03172000: Good
+S03172150: Good, High
+S03172380: Good
+S03172385: Good
+S03172392: High
+S03173000: Moderate, Poor, Good
+S03173008: Good, Moderate
+S03173273: High
+S03174000: Moderate
+S03174615: Good
+S03174678: Moderate
+S03174695: Moderate, Good
+S03174712: Good
+S03174715: Good
+S03174748: Good, Moderate
+S03174795: Moderate
+S03174815: Moderate
+S03174825: Poor, Moderate
+S03174837: Good
+S03174875: Moderate
+S03175000: Good
+S03175500: Good
+S03176360: Good
+S03176470: Good
+S03176473: Moderate
+S03176680: Good
+S03176689: Good
+S03176745: Good, Moderate
+S03176825: Good, High
+S03176850: Good, Moderate
+S03176880: Good, Moderate
+S03176945: Good, Moderate, Poor
+S03177400: Good
+S03177540: High, Good
+S03177720: Good
+S03177745: Good
+S03177760: Good
+S03177889: Moderate
+S03178240: Good
+S03178319: Moderate, Poor
+S03178325: Moderate, Poor
+S03178348: Moderate
+S03178469: Moderate, Good
+S03178520: Good, Moderate
+S03178660: High, Good, Moderate
+S03178692: High
+S03178835: Good, Moderate, Poor
+S03178870: Good
+S03179000: Good, Moderate
+S03179690: Good, Moderate
+S03179740: Good, Moderate
+S03180100: Good, Moderate
+S03181000: Good, Moderate
+S03182000: Moderate, High
+S03182100: Good
+S03182406: Moderate
+S03182411: Good
+S03182415: Good, Moderate
+S03182446: Good, Moderate
+S03183200: Good, Moderate
+S03184850: Moderate
+S03185161: Good
+S03185620: Good, Moderate
+S03185950: Good, High
+S03185964: Moderate
+S03186660: Moderate
+S03186682: 
+S03186700: Moderate
+S03186820: Good
+S03187000: Moderate, Good
+S03187600: Good, Moderate
+S03188010: Moderate
+S03188450: Moderate
+S03188500: Moderate
+S03188590: Bad, Moderate, Good
+S03189000: Moderate, Good, Poor
+S03189073: Moderate
+S03189120: Good
+S03189167: Moderate
+S03189168: Good, Moderate
+S03189181: Good
+S03189210: Moderate, Good
+S03189265: Good
+S03189300: Good, Moderate
+S03189313: Good, Moderate
+S03189315: Moderate, Good
+S03189328: Moderate
+S03189395: Moderate, Good
+S03189398: Good, Moderate
+S03189460: Poor
+S03189490: Good, Moderate
+S03189515: Poor, Bad
+S03189545: Moderate, Poor
+S03189615: Good, Moderate
+S03189642: Moderate, Good, Poor
+S03189652: Poor, Moderate
+S03189675: Moderate
+S03189828: Good
+S03189875: Moderate
+S03189900: Moderate, Poor
+S03189918: Moderate
+S03189927: Good
+S03189975: Good, Moderate
+S03189985: High, Good
+S03190080: Good, Poor
+S03190300: Good, Moderate, Poor
+S03190412: Good, Moderate
+S03190470: Moderate
+S03190489: Moderate
+S03190545: High, Moderate
+S03190610: Poor, Bad, Moderate
+S03190621: Good, Moderate
+S03190636: Moderate, Good
+S03190650: Moderate
+S03190685: Good
+S03190719: Good, Moderate
+S03190725: Moderate
+S03190735: Moderate, Good
+S03190790: Moderate, Good
+S03190870: 
+S03190895: Good
+S03190922: Good
+S03191000: Moderate
+S03191001: Good
+S03191350: Good
+S03191700: Good, Moderate
+S03192378: Good, Moderate
+S03192400: Good
+S03193000: Good, Moderate
+S03193298: Moderate
+S03193441: Good
+S03193448: Good
+S03193510: Good
+S03193520: Good, Moderate
+S03193880: Good, Moderate
+S03194080: Good, Moderate
+S03194180: Moderate, Poor
+S03194250: Moderate
+S03194280: Moderate
+S03194350: Good, Moderate
+S03194415: 
+S03194540: High
+S03194543: Good
+S03194620: High, Good, Moderate
+S03194725: Good, Moderate
+S03194775: Good, High
+S03194880: Good, High
+S03195348: Moderate, High
+S03195417: Good
+S03195610: Good
+S03196000: Good
+S03196080: Good, Moderate
+S03196400: Good
+S03196450: Moderate, Good
+S03197000: Good, Moderate
+S03197204: Good, Moderate
+S03197430: Moderate, Good
+S03198530: Good
+S03198750: Good
+S03199200: Good, Moderate
+S03200070: Good
+S03200435: Good, Moderate, High
+S03200500: Good
+S03201000: Good, Moderate
+S03201202: Good
+S03201215: Good
+S03201230: Good
+S03201250: High
+S03201260: Good, Moderate
+S03201386: Good
+S03201388: Good
+S03201400: Good
+S03201502: Good
+S03201540: Moderate
+S03201548: Good
+S03201650: Good
+S03202250: Good
+S03203040: Good
+S03203050: Good
+S03203275: Good
+S03203472: 
+S03203485: Good
+S03203660: Good
+S03203750: Moderate, Good, High
+S03204000: Poor, Good, Moderate, High
+S03206000: Good, High
+S03206150: Moderate, Poor, Good
+S03206350: Poor, Moderate, Good
+S03207020: Bad, Good, Moderate
+S03207220: Good, Moderate
+S03207235: Good
+S03207285: High
+S03207335: Moderate, Good
+S03207490: Good, Moderate
+S03207610: Good
+S03207710: Good
+S03207750: Good, Moderate, Poor
+S03207865: Poor, Good
+S03208000: Good, Moderate
+S03208483: Good
+S03208520: Good, Moderate
+S03209000: Good
+S03209485: High, Good
+S03209538: Moderate
+S03210050: Good
+S03210200: Good
+S03210300: Good
+S03210327: Good
+S03210423: Good
+S03210572: Good
+S03210600: Good
+S03210660: Good, High
+S03210716: Moderate
+S03210815: Moderate, Good
+S03211000: Good, Moderate
+S03211430: Good, Moderate
+S03211950: Moderate, Good
+S03212090: Good
+S03212150: High, Good
+S03212230: Good
+S03212234: Good
+S03212250: Good
+S03212361: Good
+S03212362: Moderate, Good
+S03212600: Moderate, Good
+S03212980: High, Good
+S03213000: Good, Moderate
+S03213185: Good, Moderate
+S03213230: Good, Moderate
+S03213291: High, Good
+S03213480: Good, Moderate
+S03213505: Good
+S03213830: Good
+S03214000: Moderate, Good, Poor
+S03214170: Good
+S03214240: Good, Moderate
+S03214600: Good
+S03215000: Good, Moderate
+S03215172: Good
+S03215193: Good
+S03215320: Good
+S03215380: Good
+S03215440: Good
+S03215470: Good
+S03216000: Good, Moderate
+S03216130: 
+S03216150: 
+S03216160: Good
+S03216180: 
+S03216250: High, Good, Moderate
+S03216305: Good
+S03216310: Good, High
+S03217000: Good, Moderate
+S03217400: Good, Moderate
+S03218070: Good, Moderate
+S03218150: Good, Moderate
+S03219000: Moderate, Good
+S03219015: Good, Moderate
+S03219030: Good
+S03219263: Good
+S03219300: Good
+S03219392: Good, High
+S03219420: Good
+S03219428: Good
+S03219430: Good, Moderate
+S03219450: Good, Moderate
+S03219550: Moderate, Good
+S03219780: Good, Moderate
+S03219880: Good
+S03221290: Good, Moderate, Poor
+S03221320: Good
+S03221530: High, Good
+S03221560: Good
+S03221625: Good, Moderate
+S03221700: Good, Moderate
+S03221790: Good
+S03221792: Good
+S03221795: Moderate, Good
+S03221860: Good, High
+S03221876: Good, Poor, Moderate
+S03221940: Good
+S03222000: Good, Moderate
+S03222135: Poor, Good
+S03222228: Good
+S03222246: Good
+S03222275: Moderate, Good
+S03222327: Good
+S03222328: Good
+S03222329: Moderate
+S03222331: Good
+S03222345: Good
+S03222380: Good
+S03222415: Good
+S03222418: Good, Moderate, High
+S03222430: Good, Moderate
+S03222450: Good, Moderate
+S03222690: Moderate
+S03222780: Good
+S03222885: Good
+S03223200: Good
+S03223240: Good
+S03223500: Good
+S03224400: Moderate, Good
+S03224407: Good, High
+S03224955: Good
+S03224975: Good
+S03224990: Good
+S03225015: Good
+S03225030: Good, High
+S03225040: Good
+S03225062: Good
+S03225150: Good, Moderate
+S03225315: Moderate
+S03225340: Good
+S03225350: Good, High
+S03225450: Good, Moderate
+S03225460: Good
+S03225645: Good
+S03225865: Moderate, Good
+S03226300: Good, Moderate
+S03226488: Good
+S03226590: Good
+S03226640: Good
+S03226660: Good
+S03226695: Good
+S03226720: Good
+S03226835: Good
+S03227010: Good
+S03227100: Good, Moderate
+S03227296: Good
+S03227495: Good
+S03227623: Good
+S03227690: Good, Moderate
+S03227725: High
+S03227770: Good, Moderate
+S03228000: Good, Moderate
+S03228020: Good
+S03228050: Good
+S03228120: Good
+S03228200: Good, Moderate
+S03228520: Good
+S03228690: Good, Moderate
+S03228880: 
+S03228965: Good, Moderate
+S03229000: Good, Moderate
+S03229215: Good
+S03229300: Moderate
+S03229400: Good
+S03230000: Moderate, Good
+S03230200: High
+S03230560: Good
+S03230790: Good
+S03230855: Good
+S03230920: Good, Moderate
+S03231065: High, Good
+S03231260: Moderate
+S03231400: Good, Moderate
+S03231429: Good
+S03231490: Good, Moderate
+S03231740: Good, Moderate
+S03231748: 
+S03232050: Moderate, Good
+S03232520: Good
+S03233700: Good
+S03233740: High, Good
+S03233795: Good, Moderate
+S03233815: Good
+S03233825: Good
+S03233896: Good, Moderate
+S03233980: Good, Moderate
+S03234100: Good
+S03234215: Good
+S03234275: Good
+S03234338: Good, Moderate
+S03234346: Good
+S03234370: Good, Moderate
+S03234620: Good, Moderate
+S03235670: Good
+S03235690: High, Good
+S03235695: Good
+S03235750: Good, Poor
+S03236050: Good, Moderate
+S03236260: Good
+S03236690: Good
+S03237050: Good, Moderate
+S03237052: Good
+S03237150: Good
+S03237540: Good
+S03237800: Moderate
+S03239010: Poor
+S03239050: Good, Moderate
+S03239100: Good
+S03239390: Good
+S03239439: Moderate, Good
+S03239520: Good, Moderate
+S03240000: Moderate, Good
+S03240100: High, Moderate, Good
+S03240320: 
+S03240960: Moderate, High
+S03241170: High, Good, Moderate
+S03241231: Moderate
+S03241327: Moderate
+S03241330: Moderate, Good
+S03241510: Good
+S03241813: Moderate
+S03241814: Moderate
+S03241920: Moderate
+S03241957: Moderate, Poor, Good
+S03242000: Moderate
+S03242420: Moderate, High
+S03242520: High
+S03242610: Moderate
+S03242750: Moderate
+S03242800: Moderate, Good
+S03243000: Moderate
+S03243350: Moderate, Good
+S03244000: Good, Moderate
+S03244300: Good
+S03244460: High, Good
+S03244626: Good
+S03244725: Good
+S03244910: 
+S03245100: Good
+S03245545: Good, Moderate
+S03245570: Moderate
+S03245597: Good, Moderate
+S03245640: Good, Poor
+S03245665: Moderate, Good
+S03245698: Good
+S03245735: Good
+S03245736: Moderate
+S03245795: Good
+S03245840: Moderate, Good
+S03246220: Good, High, Moderate
+S03246300: Good
+S03246490: Poor
+S03246525: Moderate
+S03246680: Moderate
+S03246920: Good, Moderate
+S03247140: Good
+S03247160: 
+S03247218: Moderate
+S03247228: Good, Moderate
+S03247252: Good
+S03247275: Moderate, Good
+S03247405: Moderate
+S03247410: Moderate, Good
+S03247415: Moderate, Good
+S03247440: Moderate
+S03247475: Poor, Moderate, Good
+S03247550: Good, Moderate
+S03247700: Moderate
+S03247760: Poor
+S03248100: Moderate, Good
+S03249595: Moderate, Good
+S03250572: Moderate
+S03250575: Moderate
+S03250585: Moderate
+S03250690: Moderate
+S03250720: Moderate
+S03250773: Moderate
+S03250797: Good, Moderate
+S03250820: Good, Moderate
+S03250952: Good, Moderate
+S03250975: Poor, Moderate
+S03251190: Moderate, Good, Poor
+S03251715: Moderate, Good
+S03252500: Moderate
+S03252555: Moderate
+S03252755: Poor, Moderate
+S03252763: Moderate
+S03253190: Moderate
+S03253250: 
+S03253410: Good
+S03253490: Moderate, Good
+S03253780: Good, Moderate, High
+S03253820: Moderate
+S03254035: Moderate, Poor, Good
+S03254080: High, Good
+S03254170: Moderate
+S03254230: Moderate
+S03254250: Good
+S03254370: Poor, Moderate, Good
+S03254510: Good, Moderate, Poor
+S03254530: Good
+S03254600: Moderate
+S03254620: Moderate
+S03254730: Moderate
+S03254770: Good, Moderate, Poor
+S03254870: Moderate
+S03254920: Moderate, Good, Poor
+S03254929: Good
+S03254933: Moderate
+S03254935: Moderate, Poor
+S03255180: Good, Moderate
+S03255580: Moderate, Good
+S03255628: Moderate
+S03255650: Moderate
+S03255690: Moderate
+S03255788: Good
+S03255910: Moderate, Good
+S03255920: Bad, Moderate
+S03256600: Good
+S03257335: Moderate
+S03257410: Good, Moderate
+S03257500: Poor, Moderate
+S03257800: Good, Poor, Moderate
+S03257920: Good
+S03258000: Moderate
+S03258025: Moderate
+S03258235: Good
+S03258240: Good
+S03258260: Good
+S03258300: Good, Moderate
+S03258420: Good, Moderate
+S03258500: Good
+S03258850: Moderate
+S03259550: Good
+S03259700: Good
+S03259850: Good
+S03260000: Poor, Good, Moderate
+S03261785: Moderate
+S03262000: Moderate, Poor
+S03262430: Poor, Moderate, Good
+S03262780: 
+S03263100: Moderate
+S03263400: Good
+S03264000: Good, Moderate
+S03264050: Good, Moderate
+S03264150: Moderate
+S03264250: Good, Moderate
+S03264275: Poor
+S03264375: Poor
+S03264430: High
+S03264520: Good
+S03264560: Moderate, Good
+S03264840: Good, Moderate
+S03264920: Moderate
+S03264940: Moderate, Good
+S03264965: Moderate, Good, Poor
+S03265000: Moderate
+S03265385: Moderate
+S03265470: Moderate
+S03265575: Moderate, Poor
+S03265600: Moderate, Good, Poor
+S03265710: High, Good, Moderate
+S03265820: Moderate
+S03265993: Good, Moderate, Bad
+S03265996: Moderate
+S03266200: Moderate
+S03266350: Good
+S03266826: Good, Moderate
+S03266920: Moderate
+S03266975: Moderate, Poor, Good
+S03266990: Moderate
+S03267530: High, Good
+S03267850: Moderate, Poor, High
+S03268250: Moderate
+S03268850: Good
+S03268890: Moderate
+S03269000: Moderate, Good
+S03269120: Good
+S03269250: Good, Moderate
+S03269295: Moderate
+S03269438: Good, Poor, Moderate
+S03269640: Good
+S03270390: Good, Moderate
+S03270450: Moderate
+S03270530: Good, Moderate
+S03270740: Poor
+S03270840: Good, Moderate
+S03270900: Good, Poor, Moderate
+S03271000: Moderate, Poor, Good
+S03271085: Good
+S03271215: Good
+S03271260: Moderate
+S03271280: Moderate
+S03271565: Good, Moderate
+S03271590: Good, Moderate
+S03271615: Good
+S03271654: High
+S03271657: High
+S03271661: Good
+S03271730: High
+S03271785: Good
+S03271820: Good, Moderate
+S03271840: Moderate, Poor
+S03271920: Moderate
+S03271965: Moderate
+S03272060: 
+S03272235: Poor
+S03272400: Good, Moderate
+S03272550: Moderate
+S03272685: Good, Moderate, High, Poor
+S03273158: Poor
+S03273266: Good
+S03273345: Moderate, Good
+S03273550: Good, Moderate
+S03273800: Moderate
+S03274000: Moderate, Good
+S03274420: Moderate, Good, Poor
+S03274440: Moderate, Good
+S03276025: High, Good
+S03276194: High, Good
+S03276495: Good
+S03276786: Good, High
+S03276970: High
+S03276988: Moderate, High, Good
+S03277173: Good
+S03277367: Good, Moderate
+S03277420: Moderate, Good
+S03277563: Good
+S03277588: High, Good
+S03277600: Moderate, Good
+S03277651: Good
+S03277658: Good, Moderate
+S03277728: Good, Moderate
+S04000100: High
+S04000200: High
+S04000300: High
+S04000350: High
+S04000580: High, Good
+S04000600: High, Good
+S04000640: Good, High, Moderate
+S04000650: High
+S04000700: Good, Poor, High
+S04000800: Moderate, High
+S04000850: Good, Moderate
+S04000920: Moderate, Good, Poor, High
+S04000948: Good, High
+S04001005: Bad, Moderate, Poor
+S04001900: Moderate, Poor
+S04001940: Moderate, Poor, Good
+S04001945: Moderate, Poor
+S04001950: Moderate, Poor
+S04001990: Bad, Moderate, Poor
+S04002010: Poor, Moderate, Bad
+S04002100: Poor, Moderate
+S04002200: Bad, Poor, Moderate
+S04002300: Good, Moderate
+S04002400: Moderate, Poor, Bad
+S04002530: Bad, Poor
+S04002800: Moderate, Poor
+S04002860: High, Good, Poor, Moderate
+S04002865: Good
+S04002870: Good, High
+S04002920: Moderate
+S04002945: Good
+S04002950: Good, Moderate
+S04002980: Good, High
+S04003010: Good, High
+S04003040: Moderate, Good, High
+S04003060: Good, Moderate
+S04003160: Moderate, Good, High
+S04003170: Moderate
+S04003200: High, Good
+S04003235: Good
+S04003240: Moderate, Good, Poor
+S04003270: High, Good
+S04003275: High, Moderate, Good, Poor
+S04003278: Good, Poor
+S04003300: Moderate, Good
+S04003340: Good, High, Moderate
+S04003350: High, Good
+S04003353: Good
+S04003355: Good, High
+S04003395: High, Moderate
+S04003400: Good, Moderate, Poor
+S04003500: Good, High
+S04003645: Good, Moderate, High
+S04003650: Moderate, Bad
+S04003700: Good
+S04003800: Moderate, Good
+S04003900: Good, High, Moderate
+S04004070: Moderate, Good
+S04004100: Moderate, Poor, Good
+S04004200: Moderate, Bad, High
+S04004520: Good, Moderate
+S04004530: Moderate
+S04004559: Good, Moderate
+S04004750: Moderate, Good, High
+S04004805: Bad, Poor
+S04004825: Good
+S04004900: Poor, Moderate
+S04005520: Moderate
+S04005530: Bad, Moderate
+S04006000: Moderate, Poor, Bad, High
+S04006500: High, Good, Moderate
+S04007050: Poor
+S04007150: Bad
+S04007180: Bad
+S04007900: Poor, Moderate
+S04008000: Poor, Bad, Moderate
+S04008100: Moderate, Good
+S04008400: Moderate, Good
+S04008500: Poor, Moderate
+S04009000: Moderate, Poor
+S04009050: Moderate, Poor
+S04009080: Poor, Moderate
+S04009130: Moderate
+S04009200: Moderate, Poor
+S04009250: Moderate, High, Good
+S04009280: Good, High
+S04009300: Moderate, Good
+S04009330: Moderate
+S04009350: Moderate, Good, High
+S04009415: Good
+S04009420: Good, Moderate
+S04009430: Moderate
+S04009440: Poor, Moderate
+S04009480: Moderate
+S04009600: Moderate, Poor
+S04009850: Moderate, Poor
+S04009940: Moderate
+S04009980: Moderate, Poor
+S04009995: Moderate
+S04010000: Moderate, Poor, Bad
+S04010130: Moderate, Poor
+S04010180: Poor, Moderate
+S04010200: Moderate
+S04010250: High
+S04010350: Good, High
+S04010390: Good, Moderate
+S04010410: Moderate
+S04010450: Moderate
+S04010780: Good, High
+S04010850: Moderate
+S04010870: Moderate
+S04010875: Moderate
+S04010900: Moderate
+S04010902: High
+S04011100: Good, High, Moderate, Poor
+S04011120: Moderate, Good
+S04011700: Moderate, Good, High
+S04012020: Moderate
+S04012040: Moderate
+S04012050: Moderate, Poor
+S04012150: Good, Moderate
+S04012180: Moderate
+S04012200: Good, Moderate, Poor
+S04012400: Poor, Moderate
+S04012600: Moderate, Good
+S04012870: Moderate
+S04013000: Moderate, Poor, Good
+S04013400: High
+S04013500: High, Good
+S04013700: Moderate, Good
+S04013975: Moderate, Good
+S04013978: Moderate, Good
+S04014040: Poor, Moderate
+S04014048: Poor, Moderate
+S04014050: Moderate, Poor
+S04014060: Poor, Moderate
+S04014080: Moderate
+S04014090: Good
+S04014092: Good, High
+S04014096: Moderate
+S04014097: Moderate, Poor
+S04014500: Good, Moderate
+S04014900: Moderate, Poor
+S04015000: Moderate, Poor, Bad
+S04015040: Moderate, Poor
+S04015050: Moderate, Good, Poor
+S04015100: Poor, Good
+S04015160: Moderate
+S04015190: Poor
+S04015200: Good
+S04015299: Moderate
+S04015300: Poor, Bad, Moderate
+S04015325: Good, Moderate
+S04015350: Moderate, Poor
+S04015380: Moderate, Good
+S04015390: Good, High
+S04015400: Moderate, Poor
+S04015600: Poor, Moderate, Bad
+S04015880: Poor
+S04015970: Poor
+S04016300: Poor, Bad
+S04016330: Moderate, Poor
+S04016500: Good
+S04016555: Poor
+S04016625: Moderate, Good
+S04016650: Moderate
+S04016800: Poor, Moderate, Good
+S04016805: Moderate
+S04016825: High, Moderate, Good, Poor
+S04016840: Poor, Moderate
+S04016900: High, Good
+S04016980: Good, High
+S04017000: Moderate, Bad, Poor
+S04017030: Poor, Moderate
+S04017100: Moderate
+S04017250: Poor, Moderate, Bad
+S04017595: Moderate
+S04017620: Poor
+S04018100: Poor
+S04018250: Poor, Moderate
+S04018290: Poor
+S04019000: Poor, Bad
+S04019190: Moderate, Good
+S04019350: Moderate, Good
+S04019580: Bad
+S04019620: Moderate
+S04019675: Moderate
+S04019700: Poor, Moderate
+S04020010: Moderate, Poor
+S04021000: Moderate, Poor, Bad
+S04021250: Moderate, Poor
+S04021600: Poor, Moderate
+S04021800: Moderate, Good
+S04022000: Good, High
+S04022050: Moderate
+S04022150: High, Good
+S04022180: High, Good
+S04022200: Moderate, High, Good
+S04022210: High
+S04022300: Moderate, Poor
+S04022500: Good
+S04022780: Poor, Moderate
+S04022990: Moderate
+S04023000: Moderate, Good
+S04023025: Moderate
+S04023080: Moderate
+S04023100: Moderate, Poor
+S04023130: Poor, Moderate
+S04023135: Moderate
+S04023140: Moderate, Good
+S04023160: Moderate
+S04023195: Moderate, Good
+S04023200: Moderate
+S04023300: Moderate
+S04023310: Moderate, Good
+S04023350: Moderate, Good
+S04023400: Moderate, Poor
+S04023450: Moderate, Poor
+S04023500: Good
+S04023520: Moderate
+S04023640: Moderate
+S04023680: Good, Moderate
+S04023700: Moderate
+S04023730: Moderate, Good
+S04023780: Good, Moderate
+S04023900: Good
+S04024000: Moderate, Poor
+S04024050: Moderate
+S04024060: Moderate, Good
+S04024070: Moderate
+S04024100: Moderate
+S04024250: Moderate, Poor
+S04024300: Moderate, Good
+S04024510: Moderate, Good
+S04024515: Good
+S04024516: Good
+S04024520: Good
+S04024625: Moderate
+S04024645: Good
+S04024660: Moderate
+S04024800: Good
+S04025010: Good, High
+S04025040: High, Good
+S04025060: Good
+S04025100: Good, Moderate
+S04025570: Moderate, Good
+S04026000: Poor, Moderate, Good
+S04026020: Moderate
+S04026066: Moderate
+S04026400: High
+S04026420: High, Good
+S04026500: High
+S04026900: High, Good
+S04026950: 
+S04027050: Moderate, Poor
+S04027100: High
+S04027200: High, Good
+S04027210: Good, High
+S04027215: Moderate, High
+S04027225: Good, High
+S04027265: Good
+S04027290: High, Good
+S04027295: Moderate
+S04027350: Good, High
+S04027360: Good, Moderate, Poor
+S04027370: Good, Moderate, High
+S04027380: High
+S04027430: Poor, Moderate
+S04027440: Moderate, Poor
+S04027500: High, Good
+S04027560: Moderate, Bad, Good, Poor
+S04027600: High, Good, Moderate
+S04027610: Moderate, Poor
+S04027650: Good, High
+S04027670: High, Moderate, Good
+S04027710: Moderate
+S04027730: Good, High
+S04027732: Moderate, Poor
+S04027740: Good, High, Moderate
+S04027795: Moderate, Good
+S04027800: High, Good
+S04027810: Good, High
+S04027840: High, Moderate, Good
+S04027845: Moderate
+S04027850: Moderate, Good, High, Poor
+S04027870: Good, Moderate
+S04027880: High, Good
+S04027900: Good, Moderate
+S04027920: Poor, Bad
+S04027940: Good, Moderate
+S04027950: Good, Moderate, High
+S04028400: High, Moderate, Good
+S04028410: Good
+S04028420: Good
+S04028425: Good
+S04028450: High, Good
+S04028470: Moderate
+S04028480: Good
+S04028500: Good, Moderate, Poor, High
+S04028530: Good, Moderate, High
+S04028560: Good, Moderate
+S04028600: Moderate, Good
+S04028650: Poor, Moderate
+S04028700: Moderate
+S04028800: High, Good, Moderate
+S04028980: Moderate
+S04029050: Poor, Moderate, Good, High
+S04029450: Moderate
+S04029625: High, Good
+S04029675: Moderate, Poor, Good
+S04029700: Moderate
+S04029780: Moderate
+S04029800: Moderate
+S04029960: Bad, Moderate, Poor
+S04030000: Moderate, Poor, High, Good
+S04030020: Good, Poor, Moderate
+S04030025: Good, High
+S04030100: Poor, Moderate
+S04030210: Bad, Moderate
+S04030500: Moderate
+S04030600: Moderate, Poor
+S04030900: Moderate
+S04030905: Poor
+S04031000: Good, Poor, Moderate, High
+S04032050: Moderate
+S04032090: Moderate
+S04032100: Moderate, Good
+S04032800: Moderate, Poor
+S04033050: Moderate
+S04033090: Moderate, Good
+S04033300: Moderate, Poor
+S04034000: Poor, Moderate, Good
+S04034400: Moderate
+S04034600: Moderate
+S04034650: Poor, Moderate
+S04036300: High, Good
+S04036500: Poor, Moderate, Bad
+S04037010: Moderate, Good
+S04037300: Moderate
+S04037400: Good, Moderate, High
+S04037420: Moderate, High
+S04037800: High
+S04037900: Good, High, Moderate
+S04038020: Moderate
+S04038150: Moderate, Good
+S04038800: Good, High
+S04039000: Good, Moderate, High
+S04039150: Moderate, Good
+S04039160: Good
+S04039200: Moderate, Good
+S04039300: Good
+S04040000: Moderate, Poor
+S04040100: High
+S04040150: Good, High
+S04040300: Good
+S04040350: Moderate
+S04040355: Moderate
+S04040400: Good
+S04040550: Poor, Moderate, Good
+S04040800: Poor, Bad
+S04040895: Moderate, Good
+S04041000: Moderate
+S04041050: Moderate
+S04041060: Good
+S04041100: Moderate, Good
+S04041195: Moderate, Good
+S04041200: 
+S04041300: Moderate
+S04041350: Good
+S04041500: Good
+S04041630: Poor, Moderate
+S04041675: Moderate, Good
+S04041680: Moderate, Poor
+S04041700: Moderate
+S04041710: High, Moderate, Good
+S04041750: Good, Moderate, High
+S04041753: Moderate, Good
+S04041755: Good, Moderate, High
+S04041760: Moderate, Good, Poor
+S04041770: Moderate, Good
+S04041773: Poor, Good
+S04041775: Good, Moderate
+S04041777: Moderate
+S04041780: Good, High
+S04041800: Good, Moderate, Poor
+S04041850: Bad, Poor
+S04041890: Moderate
+S04041900: Moderate, Good
+S04041950: Good
+S04042080: Moderate
+S04042100: Moderate, Good
+S04042500: Moderate, Poor
+S04043100: Poor, Moderate, Good
+S04043200: Poor, Moderate
+S04043230: Good
+S04043300: Moderate, Good
+S04043500: Poor
+S04043600: Moderate
+S04043800: Poor, Moderate
+S04043990: Moderate, Good
+S04044000: Moderate, Poor
+S04044200: Good, Moderate
+S04044400: Moderate, Poor
+S04044600: Poor, Moderate
+S04044700: Moderate, Bad
+S04044800: 
+S04044850: Good
+S04045900: Moderate, Poor
+S04045950: Good, Moderate
+S04046150: Moderate
+S04046295: Good, Moderate
+S04046350: Moderate, Good
+S04046500: Good
+S04046545: Good, High
+S04046590: Good, High
+S04046600: Good, High
+S04046621: High, Good
+S04046800: Poor, Good, Moderate
+S04046850: Good, Moderate, High
+S04046960: Good, High
+S04047205: Good
+S04047280: Poor
+S04047350: Good
+S04047650: Good
+S04047700: Good, Moderate
+S04047900: Good
+S04048000: Moderate, Poor, Good, High
+S04048550: Good, Moderate, High
+S04049250: Moderate, Good
+S04049500: Good
+S04049625: Moderate
+S04049770: Moderate, Poor
+S04049800: Poor, Moderate
+S04049850: Moderate, Poor, High, Good
+S04050000: Moderate, High, Good
+S04050100: Moderate, Good
+S04050200: Moderate
+S04050400: Moderate, Good
+S04051125: Moderate
+S04051250: Moderate, Good, High, Poor
+S04051345: Good, Moderate
+S04051400: Moderate, Good, High
+S04051500: Good
+S04051587: Good, High
+S04051600: Good, Moderate
+S04051650: Moderate, Good
+S04051750: Moderate, Poor
+S04051780: Moderate
+S04051850: Moderate, Poor, Good, High
+S04051900: Good
+S04052025: Moderate
+S04052125: Good, Moderate
+S04052150: Moderate
+S04052190: Poor
+S04052220: Moderate
+S04052265: Moderate, Good
+S04052300: Moderate
+S04052350: Moderate, Good
+S04052390: Poor, Moderate
+S04052400: Moderate, Poor
+S04052420: Moderate
+S04052460: Moderate
+S04052470: Moderate
+S04052500: Moderate
+S04052520: Moderate
+S04052590: Moderate, Good
+S04052600: Poor, Bad
+S04052650: Good, Moderate
+S04052705: Moderate
+S04052725: Moderate, Poor
+S04052750: Moderate, Poor
+S04052760: Moderate
+S04052770: Poor
+S04052800: Moderate, Poor
+S04053000: Moderate, Poor, High, Good
+S04053320: Moderate, Good
+S04053350: Moderate
+S04053370: Good
+S04053400: Good
+S04053500: Good, Moderate
+S04053560: Moderate, Good
+S04053790: Good
+S04053800: Good, Moderate
+S04054000: Moderate
+S04054400: Good, Moderate
+S04054990: Moderate
+S04055800: High
+S04055810: Good
+S04055900: Moderate, Good
+S04056000: Moderate, Poor, High, Good
+S04057000: Moderate, Poor
+S04057040: Moderate
+S04057200: Moderate, Good
+S04057700: Good, Moderate, Poor, Bad
+S04057720: Moderate, Poor
+S04057725: Poor
+S04057730: Moderate, Poor, Good
+S04057740: Poor, Moderate
+S04057750: Poor, Moderate, Bad
+S04057770: Bad, Moderate
+S04057800: Moderate, Poor
+S04057880: Poor, Moderate, Good
+S04058250: Moderate
+S04058400: Moderate
+S04058500: Moderate, Poor
+S04059000: Moderate, Good, Poor
+S04059050: Moderate
+S04059160: Poor, Bad, Moderate
+S04059200: Moderate, Poor
+S04059350: Moderate
+S04059370: Poor, Moderate
+S04060000: Moderate, Poor
+S04060160: Moderate
+S04060200: Moderate
+S04060375: Moderate
+S04060500: Poor, Bad, Moderate
+S04060700: Moderate, Poor
+S04060800: Moderate, Poor
+S04060900: Poor, Moderate
+S04060995: Moderate
+S04061000: Poor
+S04061300: Poor, Moderate
+S04061390: Bad, Poor, Moderate
+S04061400: Poor, Bad
+S04061600: Poor
+S04062000: Poor, Bad, Moderate
+S04062100: Poor, Moderate
+S04062300: Poor, Moderate
+S04063420: 
+S04063510: Poor, Bad
+S04063520: Moderate
+S04063525: Moderate, Bad
+S04063530: Moderate, Poor
+S04063550: Moderate, Good
+S04063560: Good
+S04064000: Moderate, Poor
+S04064050: Good
+S04064720: Bad
+S04065000: Moderate, Poor, Good
+S04065100: Good
+S04065710: Good, High
+S04065800: High, Good, Moderate
+S04066200: Good
+S04066500: High, Good
+S04066700: Good, High
+S04066730: Good, High
+S04066760: High, Good
+S04066850: Good
+S04066860: Good
+S04066950: Good
+S04066975: Good
+S04067000: Moderate
+S04067200: Good
+S04067210: Good, Moderate
+S04067240: Moderate, Good
+S04067283: Moderate, Good, Poor
+S04067300: Moderate, Good
+S04067307: Moderate
+S04067313: Poor, Moderate
+S04067319: Moderate, Good
+S04067350: Good, High
+S04067400: Good
+S04067625: High, Good
+S04067700: Good, High, Moderate
+S04068010: Good, Moderate
+S04068200: Good, Moderate, High, Poor
+S04068270: Good, Moderate
+S04068348: Moderate, Good
+S04068390: Moderate
+S04068400: Moderate
+S04068410: Moderate, Good
+S04068420: Moderate
+S04068440: Good, High
+S04068470: Moderate, Good
+S04068483: High
+S04068550: Moderate, Good, Poor
+S04068598: Good, Moderate
+S04068800: Moderate, Poor, Good
+S04068880: Moderate
+S04068900: High, Good
+S04068918: Good, High
+S04068923: Moderate
+S04068925: Good, High
+S04068927: Moderate
+S04068970: Moderate
+S04068990: Moderate
+S04069800: Moderate
+S04070000: Moderate, Poor
+S04070208: Moderate, Good
+S04070211: Good
+S04070215: Good, Moderate
+S04070221: Good
+S04070230: Good, Moderate
+S04070235: High, Good
+S04070240: Good, Poor
+S04070260: Good, Moderate
+S04070280: Good
+S04070290: Moderate, Good
+S04070300: Moderate, Good, Poor
+S04070350: Moderate, Good
+S04070380: Good
+S04070395: Moderate, Good, High
+S04070425: 
+S04070500: Good
+S04071500: Good, Moderate
+S04071750: Moderate, Poor
+S04072000: Moderate, Good
+S04072150: Good
+S04072200: Good
+S04072700: Good
+S04072840: Moderate
+S04072875: Moderate, Good
+S04072950: Moderate, Good
+S04073500: Good, High
+S04074000: Moderate, Poor
+S04074100: Good
+S04074200: Moderate, Good
+S04074215: Good
+S04074230: Good
+S04074290: Good
+S04074300: Good, Moderate
+S04074350: Good
+S04074380: Moderate, Good
+S04074430: Good, Moderate
+S04074450: Moderate, Good
+S04074600: Moderate, Good
+S04074647: Good, Moderate
+S04074700: Moderate, Good
+S04074770: Good, Moderate, High
+S04074790: Good, Moderate
+S04074900: Moderate, Good
+S04074920: High, Good
+S04075000: Good, Moderate, Poor
+S04075150: Moderate
+S04075500: Moderate, Good, High, Poor
+S04075700: High, Good, Moderate
+S04075840: High
+S04075850: High
+S04075882: Good, High, Moderate
+S04075883: High
+S04075885: High
+S04075887: High
+S04075890: Good, High
+S04075990: Moderate, Good
+S04076000: Good, High
+S04076100: High
+S04076350: High, Moderate, Good
+S04076400: Good, High
+S04076420: Good, High, Poor
+S04076980: Moderate, Good
+S04077000: Moderate, Good
+S04077100: Good, High
+S04077200: High, Good
+S04077450: Good
+S04077500: High, Good
+S04077700: Good, High
+S04078050: Good
+S04078100: Good, High
+S04078800: Moderate, Good
+S04078900: Good, Moderate
+S04079050: High, Good
+S04079200: Good, High
+S04079210: Good, High, Moderate
+S04079480: Good, Moderate
+S04079600: Good, Moderate
+S04079620: Moderate, Poor
+S04079700: Good, High, Moderate
+S04079750: Moderate, Good, High
+S04079775: Good, Moderate, High
+S04079800: High, Good, Moderate
+S04079820: High, Good
+S04080500: High
+S04080830: Good, Moderate, Poor
+S04080900: Good, Moderate
+S04080950: Moderate
+S04081300: Moderate, Good, High, Poor
+S04081340: Moderate
+S04082000: Good, Moderate
+S04082090: Poor, Moderate
+S04082150: Good, Moderate
+S04082175: Moderate, Good
+S04082190: Moderate
+S04082205: Good
+S04082220: Good, Moderate
+S04082340: Good
+S04082375: Good, High
+S04082390: Good
+S04082400: Good
+S04082410: Good
+S04082450: Good
+S04082500: Moderate, Good
+S04082540: Good
+S04082545: Good
+S04082550: Good, High, Moderate
+S04082600: High, Good
+S04082650: Good, High
+S04082700: Good, High
+S04082720: Good, Moderate
+S04082740: Good, Moderate
+S04082750: Good, Moderate
+S04082760: Good
+S04082790: Good
+S04082800: Good
+S04082870: Good
+S04082920: Good, Moderate
+S04082930: Good
+S04083000: Moderate, Good
+S04084200: Good, Moderate
+S04084650: High, Good, Moderate
+S04085180: Good, Moderate
+S04085500: Good, Moderate
+S04086060: Good, Moderate, High
+S04086100: Good
+S04086320: Moderate, Good
+S04086380: Good, High
+S04086500: Moderate, Good
+S04086550: High, Good
+S04086800: Moderate, Good, High
+S04086950: Poor, Moderate
+S04086980: High
+S04087000: Good, Moderate, High
+S04087250: Poor
+S04087300: Moderate
+S04087600: Good, Moderate
+S04087700: Moderate, Good
+S04088000: Good, High, Moderate
+S04088200: Moderate, Good
+S04088300: Moderate, Good
+S04088500: Poor, Moderate
+S04089000: Moderate, Good, Poor
+S04089100: Moderate, Poor
+S04089200: Moderate, Poor
+S04089300: Moderate, Poor
+S04089350: Moderate
+S04089400: Moderate
+S04089450: Good
+S04089475: Moderate, Poor
+S04089500: Moderate
+S04089550: Good
+S04089600: Moderate
+S04090000: Good, Moderate, Poor
+S04090100: Poor, Moderate, Bad
+S04090400: Moderate, Good
+S04090500: High, Good, Moderate
+S04090800: Moderate, Good
+S04090900: Moderate, Good
+S04091250: Good, Moderate
+S04091400: Good, Moderate
+S04092000: Good, Moderate, Poor, High
+S04092400: Moderate
+S04092500: Moderate
+S04092550: High, Moderate
+S04092800: Moderate, Good
+S04093200: Good, Moderate, Poor
+S04093250: Moderate, Good
+S04093500: Good, Moderate, Poor
+S04093510: Moderate, Good
+S04093560: High
+S04093800: High, Moderate, Good
+S04094200: Poor, High, Good, Moderate
+S04095000: Moderate, Poor
+S04095090: Good, Moderate
+S04095100: Good, Poor, Moderate
+S04095190: Moderate, Good
+S04095900: Moderate, Good
+S04096100: Moderate, Good
+S04096105: Moderate, Good, High
+S04096175: Good, Moderate
+S04096200: Good
+S04096250: Good
+S04096340: Good, High
+S04096345: Moderate, Poor
+S04096360: Moderate, Poor
+S04096400: Moderate
+S04096430: Good, Moderate
+S04096450: Moderate, Good
+S04096500: Moderate
+S04096590: Moderate, Good
+S04096645: Good, Poor, Moderate
+S04096665: Moderate, Good
+S04096690: Good
+S04096700: Moderate
+S04096730: Good, Moderate
+S04096735: Moderate
+S04096738: Good, Moderate
+S04096745: Moderate, Good
+S04096755: Good
+S04096770: Good
+S04096790: Good
+S04096800: Good, Moderate
+S04097000: Moderate, Good
+S04097025: Good
+S04097050: Good, Moderate
+S04097060: Good, Moderate
+S04097100: Good, Moderate
+S04097200: Moderate, Poor
+S04097550: Moderate, Good
+S04097600: Poor, Moderate, Good
+S04097620: Good
+S04097705: Good
+S04097740: Moderate
+S04097750: Good
+S04097850: Moderate, Good
+S04097900: Moderate
+S04098100: Good
+S04098200: Moderate, Poor
+S04098500: Moderate
+S04098530: Moderate
+S04098890: Good, Moderate
+S04098950: Poor, Moderate
+S04099100: Moderate
+S04099400: Moderate
+S04099550: Moderate, Good
+S04099560: Good
+S04099570: Moderate
+S04099600: Good, Moderate, High
+S04099650: Good, High
+S04099700: Moderate, Poor
+S04099950: Moderate
+S04099960: Moderate, Good
+S04100000: Moderate
+S04100390: Moderate
+S04100500: Good, Poor, Moderate
+S04100900: Moderate, Poor
+S04100915: Moderate
+S04100925: Moderate, Poor
+S04100940: Moderate
+S04100960: Moderate, Poor
+S04100970: Moderate
+S04100980: Moderate, Poor
+S04101250: Moderate, Good
+S04101400: Good, Moderate
+S04101500: Moderate, Good
+S04101700: Good, High
+S04101990: Good
+S04102070: Good
+S04102100: Good
+S04102330: Good, Moderate
+S04102350: Moderate, Good
+S04102400: Good, Moderate
+S04102500: Good, Moderate, Poor
+S04102550: Moderate, Good
+S04102990: Moderate
+S04103200: Good, Moderate, High
+S04103480: Good, High
+S04103500: Good, Moderate
+S04103550: Good, Moderate
+S04103600: Moderate, Good
+S04103910: Good, Moderate
+S04103935: Good, Moderate
+S04103950: Moderate, Good
+S04103960: Moderate, Good
+S04104100: Good
+S04104200: Good, Moderate
+S04104350: Moderate, Good
+S04104500: Moderate, Good
+S04105550: Moderate
+S04105602: Moderate
+S04105606: Moderate
+S04105620: Good, Moderate
+S04105640: Moderate, Good
+S04105645: Moderate
+S04105680: Moderate, Good
+S04105693: Moderate, Good
+S04105700: Moderate
+S04105800: Good, High
+S04106000: Good, Moderate
+S04106065: Moderate, Good
+S04106380: Good
+S04106500: Good
+S04106690: Good
+S04106800: Good, Moderate
+S04107200: Moderate, Good
+S04107390: Good
+S04107500: Good
+S04108000: Moderate, Good
+S04108050: Moderate, Good
+S04108060: Good, Moderate
+S04108150: Good
+S04108170: Good
+S04108200: Moderate, Good
+S04108285: Good, Moderate
+S04108290: High
+S04108340: Moderate, Good
+S04108360: Good, Moderate, High
+S04108370: Good
+S04108400: Good, Moderate
+S04108410: Moderate
+S04108425: Good, Moderate
+S04108440: Moderate, Good
+S04108450: Good
+S04108453: High, Good
+S04108457: Good
+S04108466: Good
+S04108467: Good, Moderate
+S04108490: Good, Moderate
+S04108492: Good
+S04108500: Good, Moderate
+S04108530: Good, Moderate
+S04108685: Good
+S04108710: Good, Moderate
+S04108736: Good, Moderate
+S04108800: Good, Moderate
+S04108900: Moderate, Good
+S04109605: Good, Moderate
+S04110000: Good, Moderate
+S04110700: Good, Moderate
+S04110740: Good
+S04110750: Good
+S04110790: Good, Moderate
+S04111000: Moderate, Good
+S04111500: High
+S04112200: Good, Moderate
+S04112300: Good, High
+S04112700: Good, Moderate
+S04113050: Moderate, Good
+S04113100: Good
+S04113200: Moderate, Good
+S04113205: 
+S04113250: Moderate
+S04113720: Good
+S04113750: Good
+S04113800: Moderate
+S04114100: Good
+S04114500: Good, Moderate
+S04115200: Good, Moderate
+S04115500: Good, Moderate
+S04115525: Good
+S04115540: Good, Moderate
+S04115550: Good
+S04115580: Moderate, Good
+S04115675: Good
+S04115750: Good
+S04115760: Good, Moderate
+S04115900: Good
+S04116000: Good
+S04116400: Good
+S04116800: Good, Moderate
+S04116960: Good
+S04116970: Good
+S04117450: Good
+S04117750: Good
+S04117800: Moderate, Good
+S04118000: Good, Moderate
+S04118600: Moderate, Good
+S04119000: Moderate, Poor
+S04119020: Good
+S04119070: Good
+S04119105: Moderate, Good
+S04119125: Moderate
+S04119140: Good
+S04119160: Moderate
+S04119170: Moderate, Good
+S04119180: Good
+S04119205: Moderate, Good
+S04119220: Good, Moderate
+S04119255: Good, Moderate
+S04119300: Good, Moderate
+S04119750: Good
+S04120000: Good
+S04120400: Good, High, Moderate
+S04120500: Good, Moderate
+S04121400: Good, Moderate
+S04122070: Good
+S04122100: Good, Moderate
+S04122120: Moderate
+S04122300: Good
+S04122990: Moderate
+S04123000: Moderate, Poor, Good
+S04123100: Moderate, Good, High
+S04123250: Good, Moderate
+S04123275: Moderate
+S04123300: Moderate, Poor
+S04123400: Good, Moderate, Poor
+S04123495: Moderate
+S04123710: Poor, Moderate
+S04123750: Moderate
+S04123755: Good, Moderate
+S04123760: Good, High, Moderate
+S04123785: 
+S04123800: Good, Moderate
+S04123825: Good, Moderate, High, Poor
+S04123900: Moderate
+S04123950: Moderate, Good
+S04123980: Moderate, Good, Poor
+S04124200: Moderate, Poor
+S04124850: Moderate
+S04124875: Moderate
+S04124985: Moderate, Good
+S04125350: Good, Moderate
+S04125400: Moderate, Good
+S04125450: Moderate, Good
+S04125500: Moderate, Good
+S04125670: Moderate
+S04125740: Good
+S04125800: Good, Poor, Moderate
+S04126295: Good, Moderate, Poor, High
+S04126500: Moderate
+S04126800: Moderate, Good
+S04127000: Good, Moderate, Poor
+S04127550: Good
+S04127970: Good, Moderate
+S04128050: Good
+S04128230: Good
+S04128490: Moderate
+S04130000: Good, Moderate
+S04130500: Moderate, Good
+S04131050: Good, Moderate
+S04131100: Moderate, Good
+S04131200: Good, Moderate
+S04131250: Moderate
+S04131300: Moderate, Good
+S04131400: Good, Moderate
+S04131445: Moderate, Good
+S04131470: Moderate, Poor, Good
+S04131500: Good, Moderate, Poor
+S04131550: Moderate, Good
+S04131600: Poor, Moderate
+S04132000: Moderate, Good
+S04132050: Moderate, Poor
+S04132400: Good, Moderate
+S04132500: Moderate, Good
+S04132800: Good, Moderate
+S04132900: Moderate
+S04133000: Moderate, Good
+S04133010: Moderate
+S04133075: Good
+S04133200: Moderate, Good
+S04133550: Good, Moderate, Poor
+S04133600: Good, High
+S04133650: Good, Moderate
+S04133800: Good, Moderate
+S04133960: Moderate, Good
+S04134000: Moderate, Good
+S04134010: Moderate, Good
+S04134200: Good, Moderate
+S04134690: Good, Moderate
+S04134700: Moderate, Good, High
+S04134750: Moderate
+S04134800: Moderate, Good
+S04134890: Moderate
+S04134895: Good, Moderate
+S04134900: Moderate, Good
+S04134920: Poor, Moderate
+S04134960: Moderate, Good
+S04134970: Moderate, Good
+S04135000: Moderate, Poor
+S04135400: Moderate, Poor
+S04135900: Moderate, Good
+S04136300: Moderate, Poor, Good
+S04136400: Moderate
+S04136600: Moderate, Poor
+S04136910: Moderate, Good, High
+S04137025: Moderate
+S04137050: Poor, Moderate
+S04137695: Moderate, Good
+S04137900: Moderate, Poor
+S04137993: Moderate
+S04137995: Moderate, Poor
+S04138000: Moderate
+S04139050: Moderate, Poor
+S04139100: Moderate, Good, High
+S04139250: Moderate
+S04139280: Moderate, Poor, Good
+S04139300: Moderate
+S04139500: Moderate
+S04140000: Moderate
+S04140020: Moderate
+S04140100: Moderate
+S04140500: Moderate, Good
+S04140700: Moderate
+S04141295: Moderate, Good
+S04142300: Moderate
+S04143000: Moderate
+S04143150: Moderate, Good
+S04143190: Moderate
+S04143400: Moderate
+S04143500: Moderate, Good, Poor
+S04143550: Moderate
+S04143600: Moderate
+S04143700: Moderate
+S04143800: Moderate
+S04143900: Good, Moderate
+S04144000: Moderate
+S04144500: Moderate, Poor
+S04145000: Moderate
+S04146000: Poor, Moderate, Good
+S04146100: Moderate
+S04146350: Moderate
+S04146400: Moderate
+S04146500: Moderate, Good, Poor
+S04146600: Moderate
+S04146650: Moderate
+S04146655: Poor, Moderate
+S04146670: Moderate
+S04146690: Good
+S04146750: Good
+S04146825: Moderate, Good, High
+S04146840: Good, High
+S04146920: High
+S04146950: Moderate, Good
+S04147200: Moderate
+S04147350: Moderate
+S04148250: Moderate
+S04148525: 
+S04148560: Moderate
+S04148570: Moderate, Good
+S04148575: Moderate
+S04148580: Moderate
+S04148587: Good, Moderate
+S04148590: Moderate
+S04148750: Moderate
+S04148800: Moderate
+S04148820: Moderate
+S04148850: Moderate
+S04149350: Moderate, Good
+S04149400: Moderate
+S04149680: Moderate
+S04149950: Poor
+S04150500: Moderate, Poor, Good
+S04150515: Poor
+S04150640: Bad, Poor
+S04150690: 
+S04150800: Poor, Moderate
+S04150830: Moderate
+S04150850: Moderate
+S04150870: Moderate
+S04150900: Moderate
+S04150940: Moderate
+S04150970: Moderate
+S04151500: Moderate, Poor
+S04152000: Moderate, Poor
+S04152500: Moderate, Good
+S04153010: Moderate
+S04153100: Moderate
+S04153160: Moderate
+S04153200: Moderate
+S04153300: Moderate, Good
+S04153500: Moderate
+S04153600: Good, Moderate
+S04153675: Moderate, Good
+S04153700: Moderate, Good
+S04153800: Moderate, Good
+S04153900: Moderate, Good
+S04154020: Moderate
+S04154040: Moderate, Poor
+S04154050: Good, Moderate
+S04154060: Moderate
+S04154130: Moderate
+S04154160: Moderate, Good
+S04154200: Moderate, Good
+S04154230: Good, Moderate
+S04154240: Moderate
+S04154280: Moderate, Poor
+S04154290: Moderate, Poor
+S04154400: Moderate
+S04154500: Moderate
+S04154600: Moderate
+S04154800: Moderate, Poor
+S04155500: Moderate, Poor
+S04155600: Good, Moderate
+S04156410: Moderate
+S04156430: Moderate
+S04156520: Good, Moderate
+S04158000: Good, Moderate
+S04158050: Good, Moderate, Poor
+S04158100: Moderate, Poor
+S04158800: High, Moderate, Good
+S04158860: Good
+S04158900: Good
+S04158950: Good, Moderate
+S04158990: Good
+S04159100: Good
+S04159150: Good
+S04159200: Moderate, Good
+S04159210: Moderate, Good, High
+S04159250: Good, High
+S04159300: Good
+S04159500: Good, Moderate
+S04159900: Good, Moderate
+S04159999: Good, Moderate
+S04160050: Good
+S04160070: Good
+S04160100: Good
+S04160160: Good
+S04160170: Moderate, Good
+S04160190: Good, Moderate
+S04160197: High, Good
+S04160200: High
+S04160225: High, Good
+S04160250: Good, Moderate
+S04160260: Moderate
+S04160280: Good
+S04160300: Good, Moderate
+S04160340: Good, Moderate
+S04160365: Good, High
+S04160400: Moderate, Good, Poor, High
+S04161500: Moderate, Good
+S04161575: Moderate
+S04161595: Moderate, Poor, High, Good
+S04161710: Moderate, Bad, Good
+S04162000: Moderate
+S04162160: Moderate, Good
+S04162200: Moderate, Good
+S04162290: Good
+S04162300: Moderate, Good, Poor
+S04162520: Moderate, Good
+S04162958: Moderate, Good
+S04162995: Moderate
+S04163000: Moderate
+S04163025: Moderate
+S04163050: Good, High, Moderate
+S04163465: Good
+S04163480: Good, Moderate, Poor
+S04163500: Poor, Moderate
+S04164005: Good, Moderate
+S04164200: Good
+S04164550: 
+S04164600: High
+S04164700: Moderate
+S04164758: Moderate, Good
+S04164800: Good
+S04164825: Moderate, Poor
+S04164850: Good, Moderate, Poor
+S04164870: Moderate
+S04164950: Moderate, Poor
+S04165050: Good, Moderate
+S04165100: Moderate, Good
+S04165200: Good, Moderate
+S04165225: Good, Moderate
+S04165700: Moderate
+S04165800: Moderate, Good, High
+S04165890: Good, Moderate
+S04165905: Good, Moderate
+S04165910: Good
+S04166095: Moderate, Poor
+S04166250: Moderate
+S04166800: Moderate, Good
+S04166850: 
+S04166875: Good
+S04166885: Good
+S04166950: Good, Moderate
+S04167000: Good, Moderate
+S04167010: Moderate
+S04167050: Good, Moderate
+S04167100: High
+S04167300: Good, Moderate
+S04167420: Moderate
+S04167600: Good, Moderate
+S04167675: Moderate
+S04167700: Good, Moderate
+S04167750: Good, Moderate
+S04167815: Good, High, Moderate
+S04167855: Moderate
+S04167990: Good
+S04168050: Moderate, Poor
+S04168140: Moderate, Poor
+S04168210: Moderate, Good
+S04168250: Good, Moderate
+S04168990: 
+S04170000: Moderate
+S04170500: High, Good
+S04170700: High, Good, Moderate
+S04171010: Moderate, Good
+S04171020: Good
+S04171050: Moderate, Bad
+S04171160: Moderate, Good
+S04171180: Moderate
+S04171300: Good
+S04171385: Good
+S04171400: Moderate
+S04171430: Good
+S04171450: Moderate, Good
+S04171550: High
+S04171670: Moderate, Good
+S04171710: Good
+S04171750: Good, Moderate
+S04171859: Good
+S04171860: High, Good
+S04171870: Good
+S04172020: Moderate
+S04172030: Moderate, Good
+S04172060: Moderate, Good
+S04172100: Good
+S04172180: Good, Poor, Moderate
+S04172200: Good
+S04172300: Good
+S04172360: Good
+S04172370: Moderate, Good
+S04172500: Good, Moderate
+S04172570: Moderate, Poor
+S04172578: Moderate, Poor
+S04172580: Good, Moderate
+S04172620: Good
+S04172700: Good
+S04172890: Good, Moderate
+S04172950: Good
+S04172990: Good
+S04173000: Good
+S04173083: Good, High, Moderate
+S04173100: Good
+S04173130: Good
+S04173160: Good, Moderate
+S04173200: Good
+S04173370: Good
+S04173390: Good, Moderate
+S04173405: Good, High, Moderate
+S04173710: Good
+S04173720: Good
+S04173737: Good, Moderate
+S04174000: Moderate, Good, Poor
+S04174250: Moderate, Poor
+S04174285: High, Good
+S04174438: Good, Moderate
+S04174480: Moderate, Good
+S04174520: Good, Moderate, Poor
+S04174550: Moderate, Good
+S04174660: Good, Moderate
+S04174670: Moderate, Good
+S04174730: Good, Moderate
+S04174740: Good, Moderate
+S04174760: Moderate, Good
+S04174770: Moderate, Good, Poor
+S04175100: Moderate, Poor
+S04175120: Moderate
+S04175450: Moderate, Good
+S04175500: Good, Moderate, High
+S04176000: Moderate, Good
+S04176480: Good, Moderate
+S04176560: Moderate
+S04177050: Moderate, Good, High
+S04177250: Good, High
+S04178000: Moderate, Good, Poor
+S04178103: High, Good
+S04178110: Good, Moderate
+S04178127: Moderate, Poor
+S04178250: Good
+S04178360: High
+S04178455: High, Good
+S04178490: High
+S04178650: High
+S04178750: Good
+S04179000: Good, Moderate
+S04179010: Good
+S04179150: Good, Moderate
+S04179160: High
+S04179180: High
+S04179210: High
+S04179300: High
+S04179350: Good
+S04179435: Good, Moderate
+S04179500: Moderate, Good, High, Poor
+S04179530: High, Good
+S04179565: High
+S04179645: Good
+S04179652: High
+S04179678: Moderate, Good
+S04179690: Moderate, Good, High, Poor
+S04180100: High
+S04180900: High, Good, Moderate
+S04180920: High
+S04181025: Good
+S04181960: High
+S04182000: High
+S04182580: High
+S04182990: High, Good
+S04183550: High
+S04184040: Moderate
+S04184195: High
+S04184830: High, Good
+S04184949: High
+S04184950: High, Good, Poor
+S04186100: Good
+S04186700: Good, High, Moderate
+S04187200: High
+S04187500: High, Good
+S04187525: Good, High
+S04187600: High
+S04187710: High
+S04188000: Good, High, Moderate
+S04189200: High, Poor
+S04190000: Good, High
+S04190550: High, Good
+S04190650: Good, Moderate, High
+S04190655: High
+S04190660: Good, Moderate
+S04190670: High
+S04190690: Good, High
+S04190700: Moderate
+S04190720: High, Good
+S04190740: Moderate
+S04190745: Good
+S04190750: Moderate
+S04190770: Moderate
+S04190780: Moderate, Good
+S04190842: High
+S04190850: Good
+S04190852: High
+S04190860: Good, High
+S04191100: Moderate, High
+S04191150: Moderate
+S04191390: High
+S04191410: High, Good, Moderate
+S04191980: Moderate, Good, High
+S04192100: Good
+S04192550: High, Good
+S04192800: Moderate, Good
+S04192830: Moderate, Good
+S04192900: Good
+S04192950: Moderate, Good
+S04193500: Good, High
+S04193800: High, Good
+S04194000: Good, High, Moderate
+S04194200: High, Good
+S04194500: Moderate, Good
+S04194520: Moderate
+S04194600: High
+S04194665: Good
+S04194772: High
+S04195000: Good, High
+S04195190: Good, High
+S04195300: Moderate, Good
+S04195305: High, Good
+S04195400: High, Good
+S04195420: High
+S04195600: High, Good
+S04195680: Good
+S04195700: Good
+S04195790: High, Moderate
+S04195950: Good, Moderate
+S04196000: Poor, Moderate
+S04196008: Moderate, Good
+S04196046: Moderate
+S04196095: Good
+S04196100: Good, Moderate
+S04196280: Good, High
+S04196299: High
+S04196300: Good
+S04196380: High, Good
+S04196449: Good, Moderate
+S04196500: High
+S04196550: Moderate, Good
+S04196600: High
+S04196655: Good, High
+S04196732: High
+S04196950: Moderate, Good
+S04197510: Good, Poor, Moderate, High
+S04197600: Good, Moderate
+S04197640: Good, High
+S04197700: Good, Moderate
+S04197818: Good, High
+S04198010: Good, Moderate
+S04198390: Moderate, High
+S04198500: Good, High, Moderate
+S04198600: Moderate
+S04199078: Moderate, Good, High
+S04199130: Poor
+S04199200: Moderate
+S04199370: High
+S04199401: Good, Moderate
+S04199414: Good
+S04199490: Moderate, Good
+S04199600: Moderate, Good
+S04199865: Good, High
+S04200499: Moderate, Poor
+S04200595: Good, Moderate
+S04201000: Moderate, Poor, Good
+S04201051: Good, Moderate
+S04201170: Moderate, Good
+S04201185: Good, Moderate
+S04201350: Moderate
+S04201550: Moderate
+S04201990: Moderate, Good
+S04204000: Moderate
+S04204300: Moderate, Poor, Bad
+S04205500: Good, Moderate
+S04205550: Good
+S04205605: Moderate, Poor
+S04205620: Moderate
+S04205990: Moderate, Good
+S04206000: Good, Moderate
+S04206300: Moderate
+S04206400: Good
+S04206950: Poor
+S04207000: Moderate
+S04207400: Moderate, Good
+S04208010: Moderate
+S04208100: Good, Moderate
+S04208350: Moderate
+S04208395: Moderate, Poor, Good
+S04208590: Moderate, Poor
+S04208630: Good, Moderate
+S04208727: Moderate
+S04208735: Moderate, Good
+S04209000: Moderate, Poor
+S04209100: Moderate
+S04209990: Moderate
+S04209995: Moderate, Good
+S04210020: Moderate, Poor
+S04210050: Moderate, Poor
+S04210200: Moderate, Poor
+S04210300: Good, Moderate
+S04210750: Good, Moderate
+S04210800: Good, Moderate
+S04210900: Moderate, Good
+S04211000: Moderate, Bad, Poor
+S04211320: Good, Moderate
+S04211550: Good, Moderate
+S04211950: Moderate, Poor
+S04212100: Good, Moderate
+S04212200: 
+S04212390: Moderate
+S04212400: Moderate
+S04212700: Good, Moderate
+S04212800: Moderate, Good
+S04212900: Moderate
+S04213000: Moderate
+S04214000: Poor, Moderate
+S04214295: Good, Moderate
+S04214495: Moderate
+S04214500: Poor, Moderate
+S04214510: Moderate
+S04214520: High
+S04215000: Moderate
+S04215050: Moderate
+S04215100: Moderate
+S04215195: Moderate, Good
+S04215198: Moderate, Poor
+S04215485: Moderate, Good, Poor
+S04215500: Moderate
+S04215503: High, Moderate, Good
+S04215520: Moderate
+S04215600: Moderate, Good
+S04215635: Good, Poor
+S04215660: Moderate
+S04215680: Moderate
+S04215750: Poor, Moderate
+S04215800: Moderate, Poor
+S04215840: Poor
+S04215970: Moderate, Good
+S04216000: Moderate
+S04216050: High, Moderate
+S04217100: High, Good, Moderate
+S04217400: High, Good
+S04217445: Good
+S04300000: High, Good
+S04301000: Moderate
+S04301001: 
+S04304000: Moderate, Good
+S04304001: Moderate
+S04304002: Good, Moderate
+S04304011: Moderate
+S04304013: Good
+S04304014: Moderate
+S04306002: Good, Moderate
+S04307016: Good
+S04308000: Good
+S04310000: Moderate
+S04310001: Moderate, Good
+S04311000: Good, Moderate
+S04311002: Moderate, Good
+S04311003: High
+S04311025: Moderate
+S04312007: Good
+S04312009: 
+S04312010: Good
+S04313000: Moderate
+S04315001: Moderate
+S04316000: Moderate, Good
+S04316001: Moderate
+S04319000: Bad, Moderate
+S04322000: High, Good
+S04323000: Good
+S04325000: Good
+S04325001: Good
+S04325006: Moderate, Good
+S04332000: Good
+S04332001: Moderate, Good
+S04334000: Moderate
+S04335001: High
+S04335002: High
+S04337000: High
+S04338000: Good, High
+S04338001: High
+S04338002: High
+S04338003: Good
+S04338004: Good, High
+S04338005: Good, High
+S04338006: 
+S04339000: High
+S04339001: Good
+S04339002: High
+S04339003: Moderate, Poor
+S04340003: High
+S04341001: Good
+S04341002: Good, High
+S04341006: Good
+S04341007: High
+S04341009: High, Good
+S04344000: High
+S04344001: Good, Moderate
+S04345000: High
+S04345001: High
+S04345002: High
+S04345003: High
+S04346001: High
+S04347000: Good
+S04347001: Poor, Good
+S04347003: High
+S04349000: Good, High
+S04349004: High
+S04349005: High
+S04353000: High, Moderate
+S04353001: High
+S04353002: Good
+S04353003: Good
+S04353004: Good
+S04354000: High
+S04354003: 
+S04355000: High
+S04355001: High
+S04355002: High
+S04355003: Good
+S04355004: High
+S04357001: High
+S04357002: Good, High
+S04357003: Moderate, Good
+S04360000: High
+S04360001: High
+S04360004: High
+S04360005: High
+S04364000: Good
+S04364001: High
+S04366000: High, Good
+S04370003: Moderate
+S04370006: Moderate, Poor
+S04371000: 
+S04371001: Good, High
+S04371002: Moderate, Good
+S04371007: Good, Moderate
+S04371008: Moderate, Good
+S04372004: Moderate
+S04373006: Moderate
+S04373016: Moderate
+S04373017: Moderate
+S04373018: Moderate
+S04373019: Moderate
+S04374000: Poor, Moderate
+S04374002: Moderate, Good
+S04374005: Moderate
+S04374006: Good
+S04375000: Good
+S04375001: Moderate
+S04375008: Moderate
+S04376000: Moderate, Good
+S04376001: Moderate, Poor
+S04376004: Moderate
+S04376005: Moderate, Good
+S04376006: Moderate
+S04376007: Moderate, Poor
+S04377001: High, Good
+S04377002: Moderate
+S04377010: Moderate, Poor
+S04379000: Poor, Moderate
+S04379005: Moderate
+S04380000: High
+S04381000: Good
+S04381001: High
+S04391000: Moderate
+S04391003: Moderate
+S04391004: Poor
+S04392001: 
+S04392002: 
+S04392004: High
+S04393000: High
+S04400000: High
+S04400001: High
+S04400002: Good
+S04400004: High
+S04400005: Good, Moderate
+S04401000: Good
+S04401001: Moderate, Poor
+S04401004: Moderate, Poor, Good
+S04401005: Moderate
+S04402000: Moderate
+S04402001: Moderate, Good, Poor
+S04402002: Poor
+S04402004: Good
+S04402005: Moderate
+S04402006: Bad, Moderate
+S04402007: Poor
+S04402010: Moderate, Poor
+S04402015: Moderate, Poor
+S04402023: Poor, Moderate
+S04403000: Moderate
+S04403001: Moderate, Poor
+S04403002: Moderate
+S04403003: Moderate, Poor
+S04403004: Bad
+S04403005: Moderate
+S04403006: Moderate, Good
+S04403007: Bad
+S04403008: Poor, Moderate
+S04403009: Poor
+S04403011: Poor
+S04403012: Poor
+S04403013: High
+S04403016: Moderate
+S04404000: Good, Moderate
+S04404002: Moderate
+S04404005: High
+S04404006: Good
+S04404007: Poor, High
+S04404014: 
+S04404016: Moderate, Poor
+S04404018: High
+S04404020: High
+S04404021: High
+S04404024: High
+S04404026: High
+S04405000: Moderate, Poor, Bad
+S04405001: Moderate, Good
+S04405002: Moderate
+S04405004: Moderate
+S04405007: Poor
+S04405008: 
+S04405009: High
+S04405010: Good
+S04405011: Good, Moderate
+S04405012: Good
+S04405013: Good
+S04405014: High, Good
+S04405015: Moderate
+S04405016: Good
+S04405017: Moderate
+S04405018: Moderate
+S04405019: Bad
+S04405020: Good
+S04405022: Moderate
+S04405023: Moderate
+S04405024: Poor
+S04405025: Bad
+S04405026: Moderate
+S04405027: 
+S04405028: Moderate, Poor
+S04405053: Moderate
+S04405055: Moderate
+S04405056: Moderate
+S04406000: Good
+S04406001: Moderate
+S04406005: Moderate
+S04406006: Moderate, Good
+S04406011: Good, Moderate
+S04406054: Good
+S04406055: Moderate
+S04406057: Poor
+S04406060: Moderate
+S04406061: Moderate, Poor
+S04406063: Poor
+S04406064: Moderate
+S04406071: Poor
+S04406072: Poor
+S04406073: Moderate
+S04406080: Poor
+S04406085: Moderate
+S04406087: Poor
+S04406089: Moderate
+S04406090: Moderate
+S04406091: Poor
+S04407001: Moderate
+S04407002: Good
+S04407007: Good
+S04407008: Poor
+S04407009: Good, Moderate
+S04407010: Poor
+S04407012: Moderate, Good
+S04407013: Moderate
+S04407016: Poor
+S04407020: High
+S04407021: Moderate
+S04408004: High
+S04409023: Good
+S04410000: Moderate, Good
+S04410002: Good
+S04410006: Good
+S04410026: Bad
+S04411000: Poor
+S04411001: Moderate, Poor
+S04411003: Good, Moderate
+S04411004: Moderate
+S04411005: Moderate
+S04412000: High, Good
+S04412008: High
+S04412010: Moderate
+S04412011: Moderate
+S04412012: Moderate, Good
+S04412013: Moderate, Good
+S04413004: Moderate
+S04413006: Good
+S04413007: Good
+S04413008: 
+S04413010: Moderate
+S04413012: Moderate
+S04413013: Poor, Bad
+S04413016: Moderate
+S04413030: Poor
+S04413032: Poor, Moderate
+S04413034: Good
+S04414000: High
+S04414002: Moderate, Good
+S04414013: Moderate
+S04414014: Moderate
+S04414015: Poor
+S04414016: Poor
+S04415002: Good
+S04415003: Good
+S04415006: Moderate
+S04415008: Good, Moderate
+S04415009: High
+S04415010: 
+S04415011: 
+S04415012: Moderate
+S04415013: Good
+S04415014: Moderate
+S04415015: Good
+S04415017: Moderate
+S04415018: Moderate
+S04415019: Moderate
+S04415035: Good
+S04415036: High
+S04415037: Moderate
+S04415038: Moderate
+S04415040: High
+S04415041: Good
+S04415042: Good
+S04415043: High
+S04415044: High
+S04416008: 
+S04416009: Moderate
+S04416010: Moderate
+S04416011: 
+S04416012: Moderate
+S04416013: Moderate
+S04416014: Moderate
+S04416015: Moderate
+S04417000: Moderate
+S04417001: Good
+S04417002: High
+S04417003: High, Moderate
+S04417004: 
+S04417005: Moderate
+S04417006: Moderate
+S04417008: Moderate
+S04417009: Good
+S04417012: Good
+S04417014: Moderate
+S04417017: Moderate
+S04417019: Moderate
+S04417022: Good, Moderate
+S04417024: Good, Moderate
+S04417028: Good
+S04417029: High
+S04417045: Moderate
+S04417046: Moderate
+S04417047: Moderate
+S04417048: Moderate
+S04418000: Poor
+S04418001: Poor
+S04418002: Moderate
+S04418003: Moderate
+S04418004: Good
+S04418008: Moderate
+S04418009: Moderate
+S04419003: Poor
+S04419004: 
+S04419005: High
+S04419006: Good
+S04419008: Good
+S04420000: High
+S04420001: Moderate
+S04420002: Moderate
+S04420003: High
+S04420004: High
+S04420005: High
+S04420006: Moderate
+S04420011: Poor
+S04421001: High
+S04421002: Poor, Moderate
+S04422000: Moderate
+S04422001: Good
+S04422002: Moderate
+S04422004: Good
+S04422005: High, Moderate
+S04422006: Moderate, Poor
+S04422007: Good, High
+S04422008: Moderate
+S04422015: High
+S04422018: Good
+S04422019: Good
+S04422020: Poor
+S04422021: Poor
+S04423000: High
+S04423001: 
+S04423002: High
+S04423003: Moderate, Good
+S04423004: Moderate
+S04423005: Moderate
+S04423007: Good, Moderate
+S04423011: Poor
+S04423012: Moderate
+S04423015: 
+S04423021: Poor
+S04424000: Moderate
+S04424001: Poor
+S04424002: Moderate
+S04424003: Moderate, Good
+S04424009: Moderate
+S04424012: Good, Moderate
+S04424013: Poor
+S04424014: Moderate
+S04425000: Moderate
+S04425001: Moderate, Good
+S04425003: Good, Moderate
+S04425004: Good
+S04425005: Poor, High
+S04425007: High, Good, Moderate
+S04425008: Good, High
+S04425009: Good
+S04426000: Good
+S04426001: Poor, Moderate
+S04426004: Moderate
+S04426005: Moderate
+S04426007: Moderate
+S04426008: Poor
+S04426012: Moderate
+S04426013: Moderate
+S04426015: Moderate
+S04426016: 
+S04426017: Moderate
+S04426018: Moderate
+S04426019: Moderate
+S04426020: Good
+S04426021: Moderate
+S04426022: Moderate, Good
+S04426023: Moderate
+S04426024: Good, Moderate
+S04426025: Poor, Moderate
+S04426029: 
+S04426030: Moderate
+S04426031: Moderate
+S04426032: Moderate
+S04426033: Moderate
+S04426034: Good
+S04426041: Good
+S04426042: Moderate
+S04426043: Poor
+S04426044: Moderate
+S04426045: Poor
+S04426061: Moderate
+S04426062: 
+S04426073: Moderate
+S04426075: Moderate
+S04426077: Good
+S04426079: High
+S04426089: Poor
+S04426090: Moderate
+S04426091: Moderate
+S04427000: Poor, Moderate
+S04427001: Moderate
+S04427002: Moderate, Good
+S04427005: Bad, Moderate
+S04428000: Moderate, Good
+S04428002: Good
+S04428003: Good
+S04428004: High, Good
+S04428005: Good
+S04428006: Moderate
+S04428008: Moderate, Good
+S04428009: High
+S04428010: Good, Moderate
+S04428039: High
+S04429000: Moderate
+S04429003: Moderate
+S04429004: Moderate
+S04429005: Moderate
+S04429007: Moderate
+S04429013: Good
+S04429014: Good
+S04429015: 
+S04429018: Good
+S04429022: Good
+S04430002: Moderate
+S04430006: Good
+S04430007: Good
+S04430008: Good
+S04430009: Moderate
+S04430012: Moderate
+S04430014: Moderate
+S04430015: Good
+S04430016: Good
+S04430017: Good
+S04430019: Good
+S04430020: Good
+S04430021: Moderate
+S04430022: Good
+S04431000: Good
+S04431001: Moderate, Good
+S04431002: Good
+S04431006: 
+S04431007: Moderate
+S04431008: Good
+S04431009: Moderate, Poor
+S04431018: 
+S04431019: Moderate
+S04431020: Good
+S04431021: Good
+S04431022: Moderate
+S04431023: Moderate
+S04431025: Poor
+S04431026: Good
+S04431027: Good
+S04431028: 
+S04431029: 
+S04431031: High
+S04431032: Moderate
+S04431033: Moderate
+S04431034: Good
+S04431035: Good
+S04431036: Good
+S04432000: 
+S04432001: Moderate
+S04432004: Moderate
+S04432009: Moderate
+S04433002: Good, High, Moderate
+S04433003: Moderate
+S04433004: Moderate
+S04433006: Moderate
+S04433010: 
+S04433011: Poor
+S04433012: High
+S04433013: Moderate
+S04433014: Bad
+S04433015: Moderate
+S04433016: Moderate
+S04433017: Good
+S04433018: Poor
+S04433019: Good
+S04433020: Moderate
+S04433024: Moderate
+S04433025: Moderate
+S04433027: Poor
+S04433028: Moderate
+S04433029: Moderate
+S04433032: High
+S04433033: Poor
+S04434000: Good
+S04434002: Good
+S04434004: Good
+S04434005: Moderate
+S04434023: Moderate
+S04434024: Moderate
+S04434025: Moderate
+S04434026: Good
+S04435002: Good
+S04435003: Good
+S04435006: Moderate
+S04435010: Good
+S04435011: Moderate
+S04436003: Poor
+S04436004: Poor
+S04436005: Poor
+S04436006: Moderate
+S04436007: Good
+S04436008: Poor
+S04436009: Good
+S04440002: Good
+S04440003: Moderate, Good
+S04440005: Moderate
+S04440007: High
+S04440008: High
+S04440014: Good
+S04440016: Good
+S04440017: Moderate
+S04440024: High
+S04440025: Good
+S04440026: High
+S04441005: Good
+S04441007: Good
+S04441008: Moderate
+S04441010: Good
+S04442002: 
+S04442008: Good
+S04442016: Moderate
+S04442017: 
+S04443000: Moderate
+S04443001: Moderate
+S04443002: Moderate
+S04443003: Moderate
+S04444001: Good
+S04444003: Moderate, Good
+S04444004: Good
+S04445000: Moderate, High
+S04445002: Moderate
+S04445004: Good
+S04445006: Moderate
+S04445007: Good
+S04446001: Poor
+S04447000: Moderate
+S04447001: Moderate
+S04447002: Poor
+S04448000: Moderate
+S04448001: Good
+S04448002: Good
+S04448003: High
+S04448004: Good
+S04448005: Poor
+S04448006: Moderate
+S04448007: Good
+S04448008: Good
+S04448009: Good
+S04448020: High, Moderate
+S04448022: Good
+S04448033: High
+S04449000: Moderate, Good
+S04449001: Good
+S04449002: Moderate, Good
+S04449003: Good
+S04449004: Good, Moderate
+S04449005: Moderate, Good
+S04449008: Good
+S04449015: Good, Moderate
+S04449017: Good
+S04451001: Moderate
+S04451003: Poor, Bad
+S04451004: Moderate
+S04451005: Bad
+S04452008: High, Moderate
+S04452010: Moderate
+S04452011: Moderate
+S04452012: Moderate
+S04452017: Moderate
+S04452018: Moderate
+S04452019: Moderate
+S04452022: Poor
+S04453000: Moderate
+S04453001: Moderate
+S04453002: Moderate, Good
+S04453003: Poor
+S04453007: Moderate
+S04453009: Moderate
+S04453011: Moderate
+S04453012: Moderate
+S04453014: Moderate
+S04453019: Poor
+S04453020: Moderate
+S04453021: Poor
+S04453023: Moderate
+S04453024: Moderate
+S04453025: Moderate
+S04453026: Moderate
+S04453027: 
+S04453028: Bad
+S04453029: 
+S04453030: Poor
+S04453031: Moderate
+S04454007: Moderate
+S04454008: Moderate
+S04454010: Moderate
+S04454012: Moderate
+S04454014: High
+S04454016: Poor
+S04454017: Moderate
+S04454018: 
+S04454019: Moderate
+S04454020: Good
+S04454021: High
+S04454025: Moderate
+S04454026: Moderate
+S04454027: Moderate
+S04454028: Poor
+S04455000: High
+S04455001: Good, Poor
+S04455002: Good
+S04455008: Good
+S04455010: Good
+S04455011: Good
+S04455012: Moderate
+S04455013: 
+S04455014: Good
+S04456000: 
+S04456002: High
+S04456003: Moderate, High
+S04457000: Good
+S04457001: Good
+S04457002: Good
+S04457003: Moderate, Good
+S04460001: Moderate, Good
+S04460012: High
+S04461003: Moderate
+S04461007: 
+S04461008: Good
+S04461009: 
+S04462000: Moderate
+S04462001: Good
+S04462002: Good
+S04463002: High
+S04463009: Moderate
+S04463010: Poor
+S04464001: Poor
+S04465000: Good
+S04465002: Moderate, Good
+S04465003: Good
+S04465004: Good
+S04465005: Good
+S04465007: Good
+S04465008: 
+S04465009: Good
+S04466000: Good
+S04466001: Good, Moderate
+S04466002: Good
+S04467002: Moderate
+S04467003: Moderate
+S04470004: Moderate
+S04470005: Moderate
+S04471000: Good
+S04472007: Moderate, Good
+S04473007: Good
+S04473008: Moderate
+S04473009: High, Moderate
+S04473010: Good
+S04473011: Good
+S04473012: Good
+S04473013: Good, High, Moderate
+S04473014: 
+S04473016: Moderate
+S04473017: Good
+S04473018: Good
+S04474000: Moderate, Good
+S04474005: Good
+S04474007: Moderate
+S04474011: Good
+S04475000: Moderate, Poor
+S04475001: Good, Moderate
+S04475002: High
+S04475003: 
+S04475004: Good
+S04475005: Moderate, Good
+S04475006: Good
+S04475007: High, Good
+S04475011: Good
+S04475017: Moderate
+S04475018: Good
+S04475019: Good
+S04475026: Good, Moderate
+S04475027: Good, Moderate
+S04475028: Moderate, Good
+S04475029: Moderate, Good
+S04475030: Poor
+S04475031: Moderate
+S04475033: Good
+S04476000: High
+S04476001: Good
+S04500000: High
+S04500001: High
+S04500002: High
+S04500003: High, Good
+S04500004: Moderate, Good
+S04500006: High, Good, Moderate
+S04500007: High
+S04500008: High
+S04500010: High
+S04500012: Good, High
+S04500030: High
+S04500031: High
+S04501000: High, Good
+S04501001: High
+S04501002: High
+S04501003: High
+S04501004: Good
+S04502000: High
+S04502001: High
+S04502002: High
+S04502007: High
+S04503000: Good
+S04503002: High
+S04503003: Good, High
+S04504000: Moderate, Good
+S04504005: Poor
+S04504008: High
+S04504009: Good
+S04504012: Good
+S04504015: Moderate
+S04504016: Moderate
+S04504018: Good
+S04504019: Poor
+S04504020: Good
+S04504021: Moderate
+S04505000: Moderate
+S04505004: Moderate
+S04505025: Good
+S04505026: Moderate
+S04505027: Moderate
+S04506000: Poor
+S04506015: Moderate
+S04506017: 
+S04506019: Good
+S04506020: Good
+S04506021: Good
+S04506022: 
+S04506023: Moderate
+S04507010: Good
+S04509000: Moderate
+S04511000: High
+S04512001: Good
+S04512002: Good
+S04521000: High, Good
+S04522000: Good
+S04522001: Good
+S04522002: Poor, Moderate, High, Good
+S04522003: Good, Moderate
+S04522005: High
+S04522006: Good
+S04522007: Good
+S04523000: Good
+S04523007: High
+S04524000: Good, Moderate
+S04524001: Good
+S04524002: 
+S04524003: Good
+S04524004: Moderate
+S04524005: Good
+S04524006: Moderate
+S04524007: Good
+S04524008: Good
+S04532000: Good
+S04532001: Good
+S04541000: Moderate
+S04541003: 
+S04541004: Moderate
+S04542000: Moderate
+S04542003: Good
+S04542005: Good, Moderate
+S04542008: 
+S04543000: Moderate, Poor
+S04543001: Moderate
+S04544000: Moderate
+S04544001: Moderate
+S04545000: Moderate
+S04545001: Good
+S04545002: Good, High
+S04545003: Good
+S04545004: Moderate, Good, Poor
+S04545005: Good
+S04546001: Good
+S04546002: Moderate
+S04546003: Good
+S04547001: Good, High
+S04547004: High, Good
+S04547005: Good
+S04550001: Moderate, Good
+S04553000: 
+S04553002: Good
+S04554003: Good
+S04555001: Good
+S04555002: High
+S04555003: Poor
+S04558000: Good
+S04560003: Moderate
+S04560004: Moderate
+S04562000: Good
+S04562003: Good
+S04562004: Good
+S04562009: 
+S04562015: Good
+S04563000: Good
+S04563001: Good
+S04563002: High
+S04563027: Moderate
+S04563028: Moderate
+S04570000: Good
+S04570001: Moderate, Poor, Good
+S04570002: Moderate
+S04570003: Good, High
+S04570004: Good, High
+S04570005: Good
+S04570007: Moderate
+S04570019: Moderate, Good
+S04570022: Moderate
+S04570038: Moderate, Good
+S04570039: Moderate, Good
+S04570040: Good
+S04570042: Good, Moderate
+S04572006: Moderate
+S04572010: Poor
+S04572014: Good
+S04580000: Moderate, Good
+S04581004: Good
+S04581005: High
+S04581006: Good
+S04581007: Good
+S04581018: Good
+S04581019: Moderate
+S04581020: Moderate
+S04581021: Moderate
+S04581034: Good
+S04581035: Good
+S04581036: Moderate
+S04581037: Moderate
+S04583002: Good
+S04583005: Moderate
+S04583006: Moderate
+S04583008: Moderate
+S04583011: Moderate
+S04583013: Good
+S04583014: Moderate
+S04583015: Moderate
+S04583016: Moderate
+S04583017: Good
+S04583018: Moderate
+S04584000: Moderate
+S04587001: Moderate
+S04590003: High
+S04590006: Good
+S04590011: Moderate
+S04590012: Good
+S04591000: Good, Moderate, High
+S04591001: Moderate, Poor
+S04591007: Good
+S04591010: High
+S04591012: Good
+S04592000: Good
+S04592001: Good
+S04592008: Moderate
+S04600000: Good
+S04600001: Poor, Moderate
+S04600002: Moderate
+S04600007: Good
+S04600008: Good, Moderate
+S04600011: Good
+S04600012: 
+S04600013: Good
+S04601001: High
+S04601002: Moderate
+S04601003: Good
+S04601004: Good
+S04602000: Good, Moderate
+S04602002: Moderate
+S04602003: Good, Moderate
+S04602005: Moderate, Good
+S04602008: Good
+S04602009: Good
+S04602010: Moderate
+S04602011: 
+S04602012: Moderate
+S04602013: Good
+S04602014: Good
+S04603001: Good
+S04603002: Moderate
+S04603003: Good
+S04603005: Good
+S04603007: Good
+S04603009: Good
+S04604000: Good
+S04604001: Good, Moderate
+S04604002: Good
+S04604003: 
+S04604004: Good
+S04604005: 
+S04604006: Poor
+S04604007: Moderate, Good
+S04604008: Good
+S04604009: Good
+S04605000: Good
+S04605001: Good, Moderate
+S04605002: Moderate
+S04605003: Good
+S04605005: Moderate
+S04605007: Moderate, High
+S04606000: Good
+S04606001: Moderate
+S04606002: 
+S04606003: Good
+S04606004: Good
+S04606008: 
+S04606010: Good
+S04606013: Good, High
+S04606014: Good
+S04606015: Moderate
+S04606016: Moderate
+S04606018: Good, High
+S04606019: Good
+S04606024: Good
+S04606025: 
+S04606026: Good
+S04607003: Good
+S04610001: Good
+S04610004: Good, Moderate
+S04610005: Moderate
+S04610006: Moderate
+S04610007: Moderate
+S04610008: Moderate
+S04611003: Good, Moderate
+S04611004: Good
+S04611005: Good
+S04611007: Good
+S04611008: Good
+S04611010: Good
+S04611012: Moderate
+S04611031: Good
+S04612000: Good
+S04612001: Good
+S04612002: Good
+S04612011: Good
+S04613000: Good, Moderate
+S04613001: Good
+S04613003: Good
+S04613004: Good
+S04613005: Good
+S04613006: Good
+S04613007: Good, High
+S04613008: Good
+S04613009: Good
+S04613012: Moderate, Good
+S04613013: Good
+S04613018: High
+S04613019: Good
+S04613024: 
+S04614000: Good
+S04614002: Good
+S04614003: Moderate, Good
+S04614004: Good
+S04614005: Good
+S04614006: Good
+S04614007: Moderate
+S04614008: Good
+S04615001: Moderate, Good
+S04615003: Good, Moderate, High
+S04615004: Moderate, Good
+S04615005: Good, Moderate
+S04615007: Moderate, Good
+S04615008: Moderate
+S04615009: Moderate
+S04615011: Moderate
+S04615012: Good
+S04630000: Moderate
+S04630002: 
+S04630003: Moderate
+S04630007: 
+S04630008: Good
+S04630009: Moderate, Good
+S04630011: Moderate
+S04630017: Moderate
+S04630018: Moderate
+S04630019: 
+S04631000: Moderate
+S04631003: Moderate
+S04631004: Good
+S04631005: 
+S04631019: Moderate
+S04632001: Good
+S04632002: Moderate, Good
+S04632004: Moderate
+S04632005: Moderate
+S04632006: Moderate
+S04632008: Moderate
+S04632009: Moderate
+S04632010: Moderate, Good
+S04632011: Poor
+S04632016: Moderate
+S04632026: Good
+S04632044: Moderate
+S04632046: Moderate
+S04632047: Moderate
+S04632048: Good
+S04632049: Moderate
+S04632050: Good
+S04633000: Good
+S04633002: Good
+S04633003: Good
+S04633004: Moderate, Good
+S04633005: Good
+S04633007: Moderate
+S04633008: Moderate
+S04633009: Good
+S04633023: Good
+S04633025: Moderate
+S04633026: Moderate
+S04634002: Good, Moderate
+S04634005: Moderate
+S04634006: Moderate
+S04635000: Moderate
+S04635002: Good
+S04635005: Good
+S04635007: Moderate, Good
+S04635011: Good
+S04635012: Moderate
+S04635017: Moderate
+S04635018: High
+S04636002: Moderate
+S04636005: Good
+S04636007: Good, Moderate, Poor
+S04637001: 
+S04637010: Moderate
+S04637024: Moderate
+S04637026: Moderate
+S04650000: Good
+S04651000: Moderate, Good
+S04652000: Good
+S04652001: Moderate, Good
+S04652002: Good
+S04652004: Good
+S04652005: Good, Moderate
+S04653000: Good, Poor, Moderate
+S04654000: Good, Poor, Moderate
+S04660000: Moderate
+S04660001: Moderate
+S04660007: Moderate
+S04660011: 
+S04660012: 
+S04660013: 
+S04661002: Moderate
+S04661008: Moderate, Good
+S04661015: Moderate
+S04661016: Moderate, Good
+S04662009: 
+S04662010: Good
+S04662015: 
+S04663001: Moderate
+S04663018: High
+S04663019: Moderate
+S04663024: Moderate
+S04663025: Good
+S04663026: Poor, Moderate
+S04671000: Moderate
+S04671001: Moderate
+S04671002: Moderate
+S04671003: Poor
+S04671004: Moderate
+S04672001: Moderate, Good
+S04673000: Poor, Moderate
+S04673001: Good
+S04674000: Moderate
+S04681012: Moderate
+S04682000: Moderate
+S04682001: Moderate
+S04682003: Moderate
+S04682004: Moderate
+S04682005: Moderate
+S04682006: Poor
+S04682007: Moderate
+S04683001: Moderate
+S04683002: Good
+S04684000: Good
+S04701001: Poor
+S04702003: Good
+S04710001: Moderate
+S04710002: 
+S04712000: Moderate
+S04712005: Moderate
+S04712008: Moderate, Good
+S04712021: Moderate, Poor
+S04712022: Moderate
+S04721000: Moderate
+S04721001: Moderate, Good
+S04721002: Moderate, Poor
+S04730000: Poor, Good
+S04730001: Good, Moderate
+S04730005: Moderate
+S04732000: Good
+S04733000: Poor
+S04734000: Moderate
+S04734001: Moderate
+S04734002: Good
+S04734003: Moderate
+S04735000: 
+S04735001: Moderate
+S04735002: Good
+S04740000: Moderate, Good
+S04740001: Good
+S04740002: Good
+S04740008: Good
+S04741000: Good
+S04741001: Good, Moderate
+S04741002: High, Poor, Good
+S04750000: Moderate
+S04750002: Good
+S04751001: Moderate, Good, Poor
+S04760004: Good
+S04760011: Good
+S04771001: Good, Moderate, High
+S04771004: Moderate, Good
+S04781000: 
+S04782005: 
+S05000150: Poor, High, Good
+S05000245: Moderate, Good
+S05000247: Good, High
+S05000249: Good, Moderate
+S05000250: Good, High, Moderate
+S05001500: Poor, Bad
+S05001510: High, Good
+S05001600: Good, Moderate, High
+S05001800: High, Good
+S05002500: Good, High
+S05002610: Moderate, Good, High
+S05002650: Good
+S05002800: High, Good
+S05003000: Good
+S05003780: Good
+S05003800: Good, High
+S05003900: High, Good
+S05004000: Good, High
+S05004100: High
+S05004225: High
+S05004230: Good, Moderate
+S05004250: Good, High
+S05004500: Good
+S05005000: Good, Moderate, High
+S05005200: Good, Moderate
+S05005350: Good, Moderate
+S05005400: Moderate, Good
+S05005600: Good
+S05005605: Good, Moderate, Poor
+S05005610: Poor, Moderate
+S05005622: Good
+S05005950: Good
+S05006100: Good, Moderate, High
+S05006200: High
+S05006880: Good, High, Poor
+S05006895: Good
+S05006900: Moderate, Good
+S05007100: Good
+S05007280: Good
+S05007290: Good
+S05007300: Good
+S05007400: Good
+S05007600: Good, Moderate
+S05007700: Good
+S05007830: Good
+S05007895: Good
+S05007900: Good, Moderate
+S05007905: Good
+S05007920: Good, Moderate
+S05007925: Good
+S05007930: Good
+S05007931: Good
+S05007935: High, Good
+S05007940: Good
+S05007950: Good, High
+S05007955: Good, High
+S05007958: Good
+S05007985: 
+S05008000: Moderate, Good, Poor
+S05009000: Moderate, Good
+S05009846: Good
+S05009850: Good, Moderate, High
+S05010000: Good, Moderate
+S05010850: Moderate, Good
+S05010950: Good, High
+S05010960: Good
+S05010985: Good, High
+S05011000: Good, Moderate
+S05011400: Good
+S05011490: Good
+S05011500: Moderate, Good, High
+S05011600: Moderate, Good
+S05011700: Good
+S05011705: Good, High
+S05011710: Good, High
+S05011720: Good
+S05011722: High, Good
+S05011724: High, Good
+S05011725: Good, High
+S05011727: Good
+S05011730: Good, High
+S05011750: Good
+S05012000: Good
+S05012200: High, Good, Moderate
+S05012500: Good
+S05012550: High, Good
+S05012680: Good
+S05012700: High, Good
+S05013000: Moderate, Good
+S05013100: Good
+S05013150: Good
+S05013175: Good, Moderate
+S05013200: Good, Moderate
+S05013210: Good
+S05013650: Good, Moderate
+S05013700: High, Good, Poor
+S05013875: Good
+S05013880: Moderate, Good
+S05013900: Moderate, Good
+S05014100: Good, High
+S05014195: Good, High
+S05015000: Good, Moderate
+S05015055: Good
+S05015060: Good, High
+S05015100: High, Good
+S05015250: Good, High
+S05015300: Moderate, Poor, Good
+S05015320: Good, High
+S05015700: Good
+S05015800: High, Good
+S05015810: Good
+S05015900: Good, Moderate
+S05015950: Good, Moderate
+S05015980: Good, Moderate, High
+S05016100: Good, High
+S05016500: Good
+S05017060: Good, High
+S05018000: Good, Moderate
+S05018150: Good, High
+S05018400: Good, High
+S05018650: Good, High
+S05018700: Good, High
+S05018750: High
+S05018800: Good, High
+S05018900: Good
+S05018950: High, Moderate, Good
+S05019000: Good, Moderate
+S05019930: Good, High
+S05019940: Good
+S05020000: Moderate, Good
+S05020100: Good, Moderate
+S05020200: Moderate, Good, High
+S05020890: Good, Poor
+S05020900: Good, High
+S05020990: High, Good
+S05021000: Good, Moderate
+S05021045: Good
+S05021100: Good, High, Moderate
+S05021120: Good, High
+S05021480: High
+S05021500: Moderate, Good, High
+S05021650: Good, Moderate
+S05021700: Poor, Moderate, Good
+S05021750: High, Good, Moderate
+S05021800: Good, Poor, Moderate
+S05021810: High, Good, Moderate
+S05021900: Good, Moderate
+S05022000: Good, Moderate
+S05022020: Good, High
+S05022040: Good
+S05022080: Good, Moderate
+S05022100: Good, High, Moderate
+S05022120: High, Good
+S05022245: Good, High, Moderate
+S05022250: Good, High
+S05022260: Good
+S05022285: Good
+S05022300: Good
+S05022400: Good
+S05022440: Good
+S05022450: Poor, Moderate, High, Good
+S05022705: High, Good
+S05023000: Good, Moderate
+S05023050: Poor, High, Good
+S05023100: Good
+S05023180: Good
+S05023200: Good, Moderate, High
+S05023250: Good
+S05023960: Poor, Moderate, High
+S05023961: Good
+S05024000: Good, Moderate
+S05024180: Good, High, Moderate
+S05024200: Moderate, Good, High
+S05024245: Good, Moderate, High
+S05024250: Moderate, Good
+S05024275: Moderate
+S05024300: Moderate, Good, High
+S05024305: Good, Moderate, High
+S05024306: Moderate
+S05024309: Good, High, Moderate
+S05024950: Poor
+S05024994: Good, Moderate, High
+S05025000: Good, Moderate
+S05025010: Good, Moderate
+S05025050: Good
+S05025055: Moderate, Good, High
+S05025595: Moderate, Good
+S05025598: Moderate, Good
+S05025600: Moderate, Good
+S05025650: Good
+S05025680: Good, Moderate
+S05025790: Good
+S05025800: Poor, Moderate
+S05025820: Good, Moderate
+S05025830: Good, Moderate
+S05025835: Moderate
+S05025900: Moderate, Good
+S05025940: Moderate, Good
+S05026000: 
+S05027010: Good, Moderate
+S05027040: Good
+S05028110: Moderate, Good
+S05028900: Moderate, Good
+S05029000: Moderate, Good
+S05029200: Moderate, High, Good
+S05029500: High, Good, Moderate
+S05029650: Moderate, Good
+S05029730: Good, Moderate
+S05029750: Good, Moderate
+S05029760: Moderate
+S05029800: Moderate, Poor
+S05029820: High
+S05029850: Moderate, High, Good
+S05029870: Moderate, Good
+S05029900: Good
+S05029960: High, Good
+S05029980: High, Good
+S05030000: Good, Moderate, Poor
+S05030500: High
+S05030600: Good, Moderate, High
+S05030700: Good, High
+S05031000: Moderate, Good
+S05031050: Good, Moderate
+S05031100: Good, High
+S05031120: Good, High
+S05031300: Good
+S05031350: Good, High
+S05031380: Good
+S05031600: Good, High
+S05031820: Moderate, Good, High
+S05031850: Good, High, Moderate
+S05031900: Moderate, Good, High
+S05032100: Good
+S05032800: Good, Moderate
+S05033190: Moderate, Good
+S05033200: Good, High
+S05033220: Good
+S05033300: High, Good
+S05033350: Good, High
+S05033380: Good
+S05033400: High, Good, Moderate
+S05033500: Good, Moderate
+S05033505: Good
+S05033510: Good
+S05033515: Good
+S05033520: Good, High
+S05033525: Good, High
+S05033530: High, Good
+S05033560: Good, High
+S05033570: Good, High
+S05033580: High, Good
+S05033590: High, Good
+S05033650: High, Good
+S05033685: High, Good
+S05033700: Good, High, Moderate
+S05033800: Good, High
+S05033850: Good, High
+S05034700: High, Good, Poor
+S05034850: Good, High
+S05034855: Good, High
+S05035000: Poor, Moderate, High, Good
+S05035200: Good, High
+S05035300: Good, Moderate, High
+S05035400: Good, High
+S05036000: Moderate
+S05036500: Moderate, Good
+S05036700: Moderate
+S05037000: Moderate
+S05038000: Moderate, Good
+S05038090: Good, High
+S05038100: Good, Moderate
+S05039000: Good, Moderate, Poor
+S05039150: Good
+S05039200: Good, Moderate
+S05040100: Good, High
+S05041000: High, Good, Moderate
+S05042000: Good, High, Moderate
+S05042050: Moderate, Good, High
+S05042060: Moderate, Good, High
+S05042070: Good, High, Moderate
+S05042071: Moderate, High, Good
+S05042072: Good, High, Moderate
+S05042073: High
+S05042074: High
+S05042080: Moderate, Good
+S05042085: Moderate, Poor
+S05042095: Moderate, Good, High
+S05042930: Moderate, Poor, Good
+S05042950: High, Good
+S05043000: Moderate, Good, High
+S05043050: Moderate, Good, High
+S05043300: Moderate, Poor, Good
+S05044000: Good, Moderate, High
+S05044200: Moderate, Good, High
+S05044232: Good, Moderate
+S05044300: Good, High, Moderate
+S05044310: Moderate
+S05045100: Good, Moderate
+S05045110: Good
+S05045120: Good
+S05045128: Good
+S05045130: Good, Moderate
+S05045170: Good, Moderate
+S05045185: Moderate
+S05045200: Good, Moderate
+S05045250: Good, Moderate
+S05046000: Good, Moderate, High
+S05046100: Good
+S05046110: Good
+S05046300: Good
+S05046305: Good
+S05046700: Good, High
+S05046740: Good, Moderate
+S05046800: Good, Moderate
+S05047000: Moderate, High, Good, Poor
+S05047200: Good, High
+S05047300: High, Good
+S05047450: High
+S05047500: Good, High
+S05047510: Moderate
+S05047550: Good, Moderate
+S05047600: Moderate, Good
+S05047710: Moderate, Good, High
+S05047720: Good
+S05048000: Good, High
+S05048010: High, Good
+S05048015: High, Good
+S05048210: Good, High, Moderate
+S05049000: Moderate, Good
+S05049220: Good, High
+S05049860: High
+S05049950: High, Moderate, Good
+S05050000: Moderate, Good, High, Poor
+S05050010: Good, Moderate
+S05050800: Good, Moderate
+S05051000: High, Good, Moderate
+S05051100: Good, High
+S05051120: Good, High, Moderate, Poor
+S05051200: Good, Moderate, High
+S05051300: Good
+S05051350: Good, High
+S05051500: Moderate
+S05051520: Moderate, Good
+S05052000: Good, High, Moderate
+S05052100: Moderate, Bad
+S05052540: High
+S05052550: High
+S05052700: Moderate
+S05053000: Good, Moderate, High
+S05053010: Good, Moderate, High
+S05053030: Moderate, Good
+S05053060: Moderate, Good
+S05053080: Good
+S05053085: Good, Moderate
+S05053086: Bad, Poor
+S05053090: Moderate, Good, Poor
+S05053100: High, Good, Moderate
+S05053110: Moderate, Good, Poor
+S05053910: Good, High, Moderate
+S05053920: High, Good
+S05053925: Moderate, High, Good
+S05053930: Good, High, Poor, Moderate
+S05053950: Good, High
+S05053960: Good, Moderate, High
+S05053975: Good, High
+S05054010: High
+S05054020: High
+S05054030: Good, High, Moderate
+S05054060: High, Moderate, Good
+S05054190: Good, Moderate
+S05054200: High, Good
+S05054550: Moderate, Good
+S05054600: Good, Moderate, High
+S05055000: High
+S05055105: Good, High, Moderate
+S05055150: High
+S05055200: High
+S05055550: High
+S05055555: High
+S05055570: High
+S05055600: High
+S05055700: Good
+S05055800: High, Poor, Moderate, Bad
+S05055900: Moderate, Good
+S05055910: Moderate
+S05055920: Moderate, Good, Poor
+S05055930: Good, High, Moderate
+S05055940: Good, High, Moderate
+S05055950: Good, High, Moderate
+S05055960: Moderate, Good
+S05055965: High, Good
+S05055970: High, Good, Moderate
+S05056000: Good, High
+S05056600: High, Good, Moderate
+S05056700: High
+S05056800: Good, Moderate, High
+S05056850: High, Good, Moderate
+S05056900: 
+S05056990: Good, Moderate
+S05057000: High, Good
+S05057050: High, Good
+S05057097: High
+S05057098: High, Good, Moderate
+S05057099: High
+S05057105: High
+S05057150: High
+S05057180: High, Moderate, Good
+S05058100: Good, Moderate, High
+S05058105: High
+S05058120: Good, High
+S05058600: Good, High
+S05058918: Good
+S05058922: Good, High
+S05058935: Good, Poor, Moderate, High
+S05058938: High
+S05059000: High, Good
+S05060000: Good, Moderate, High
+S05060200: High, Good
+S05060400: High, Good, Moderate
+S05060500: Good
+S05060900: High, Good
+S05060920: High
+S05060926: High
+S05060930: High, Good, Moderate
+S05060950: Good, High
+S05061000: High, Good
+S05061050: High, Moderate, Good
+S05061090: Good
+S05061100: Moderate, Good
+S05061110: Good
+S05061130: Good, High, Moderate
+S05061200: Good
+S05061228: Good
+S05061229: Good, Moderate
+S05061230: High, Good
+S05061240: High
+S05061245: Good
+S05061300: Good, Moderate
+S05061400: Good, High
+S05061500: High, Good
+S05061900: Moderate, Good, High
+S05061915: Good, Moderate
+S05061940: Good
+S05061942: Good, High, Moderate
+S05061945: Moderate, High, Good
+S05061950: High
+S05061980: Moderate
+S05062010: Moderate, Good
+S05062015: Moderate
+S05062930: Moderate, Good
+S05063000: Good, Moderate, High
+S05063150: Good, High
+S05063350: High
+S05063400: High
+S05063800: Moderate, Good
+S05063900: Moderate, Poor, High
+S05063950: Moderate, Poor
+S05063980: Moderate, Poor
+S05063985: Moderate, Good
+S05063990: Moderate, High, Good
+S05064000: Moderate, Poor, Good, High
+S05064120: Moderate, Poor, Good
+S05064600: High, Good
+S05064750: Moderate, Good, High
+S05065000: High, Good
+S05065500: High
+S05066000: Good, Moderate, High
+S05066090: Good, High
+S05067000: High, Good
+S05067800: High, Good
+S05067950: High, Good
+S05068020: High, Good
+S05068030: High, Good
+S05068032: Good, High, Moderate
+S05068080: Good, High
+S05068090: High
+S05068110: 
+S05068120: High, Good, Moderate
+S05068140: High, Good, Moderate
+S05068145: High, Moderate, Good
+S05068150: Good, Moderate
+S05068170: High, Good, Moderate, Poor
+S05068180: Good
+S05068270: Good, High, Moderate
+S05068300: Good, High
+S05068350: Good, High
+S05068355: High, Good
+S05068367: High
+S05068368: High
+S05068369: High, Good
+S05068371: High, Good
+S05068400: High
+S05068410: High
+S05068420: High, Good, Moderate
+S05068460: High, Good
+S05068470: Good, Moderate, High
+S05068475: High
+S05068480: Moderate, Poor
+S05068485: High
+S05068500: Good, Moderate
+S05068505: Good, Moderate, Poor
+S05068510: Moderate, Good
+S05068530: Moderate
+S05068600: Moderate, Good
+S05068630: Good, Poor, Moderate
+S05068640: High, Good
+S05068645: High, Good
+S05068655: High
+S05068660: Moderate, Good
+S05068680: Good, High
+S05068700: Good, High
+S05068750: High, Good, Moderate
+S05068760: Good, Moderate, High
+S05068850: High
+S05068885: Good, Moderate
+S05068890: High, Poor, Good
+S05068905: High
+S05068912: Moderate, Good
+S05068915: Moderate, Good, High
+S05068916: High, Moderate, Good
+S05068920: Good, Moderate, High
+S05068927: Good, High, Moderate
+S05068938: Good
+S05068948: High
+S05068955: High, Good
+S05068960: Good, High
+S05068995: High, Good
+S05069000: High, Good
+S05069200: High
+S05069220: High, Good
+S05069230: High
+S05069245: Good, High
+S05069250: High, Good
+S05069310: Good, High
+S05069350: High, Good
+S05069400: Moderate, Poor, Good
+S05069450: High, Good
+S05069750: High, Good, Moderate
+S05069800: High
+S05069900: High, Good
+S05069910: High, Good
+S05069940: High
+S05069970: High
+S05069972: High, Good, Moderate
+S05069975: Good, Moderate, High
+S05069978: High, Good, Moderate
+S05069980: High, Moderate, Good
+S05071280: Good, Moderate
+S05071300: Good, High, Moderate
+S05072000: Good, Moderate
+S05072050: Good, Moderate, Poor
+S05072140: Good, Moderate
+S05072150: Good, Moderate
+S05073100: 
+S05073800: Bad, Moderate, Poor, High
+S05073903: Good
+S05074000: Moderate, Good
+S05074100: Moderate
+S05074260: Good
+S05074420: Good, Moderate
+S05074430: Moderate
+S05074460: High, Moderate
+S05074500: Poor, Good, Moderate
+S05074580: Good, Bad, Moderate
+S05074600: Good, Moderate
+S05074638: Good
+S05074640: Poor
+S05074700: Good, Moderate
+S05074710: Moderate, Good
+S05074750: Good, Moderate, Poor
+S05074800: Moderate
+S05074840: High
+S05074900: Moderate, Good
+S05074920: High
+S05075200: Good
+S05075250: Good
+S05075650: High, Good
+S05075700: Moderate, Good
+S05075800: Good, High
+S05075900: High, Moderate, Good
+S05076000: 
+S05076010: Good, Moderate, Poor
+S05076050: Good
+S05076450: Good, Moderate, High
+S05076600: Moderate, Good
+S05076800: High, Good, Moderate
+S05077000: Moderate, Good
+S05077350: High, Good
+S05077370: High, Good
+S05077560: High
+S05077600: High
+S05077650: Good, Moderate
+S05077700: Poor, Good, Moderate
+S05077850: Good, High, Poor
+S05077900: Moderate, Good
+S05077945: High, Good
+S05077950: Moderate, Good
+S05077970: Moderate
+S05077995: Moderate, Good
+S05078820: Good, Moderate
+S05078900: Moderate, Good
+S05078910: Moderate, Good
+S05079000: Good, Moderate
+S05079050: Good, Moderate
+S05079100: Moderate, Good, Bad
+S05079200: Good, Moderate
+S05079450: High, Good, Moderate
+S05079800: Good
+S05080055: Good
+S05080430: Good, Moderate, Poor
+S05080650: Good
+S05080700: Good, Moderate
+S05080710: Moderate, Good
+S05080725: Moderate, Good
+S05080735: Moderate, Good
+S05080742: Moderate, Good
+S05080745: Good, High
+S05080850: Good, Moderate
+S05080890: Poor, Moderate, Good
+S05080900: Good, Moderate
+S05080960: Good, Moderate
+S05080990: Moderate
+S05081000: Moderate, Poor
+S05081980: Moderate, Good
+S05082000: Good, Moderate
+S05083000: Moderate, Good
+S05083200: Good, Moderate
+S05083300: Moderate, Poor, Good
+S05083400: Moderate, Poor
+S05083575: Good, Moderate
+S05083580: Poor, Moderate, Good, Bad
+S05083582: Good, Moderate
+S05083585: Good, Moderate
+S05083586: Good, Moderate
+S05083587: Moderate, Good
+S05083650: Moderate, Good
+S05083700: Good, High, Moderate
+S05084000: Moderate
+S05084985: Good
+S05085000: Moderate, Good
+S05085050: Good
+S05085350: Moderate, Good
+S05085540: Good
+S05085545: Good
+S05085600: Good, Moderate
+S05085900: Good
+S05085950: High, Good
+S05086000: Good, Moderate, High, Poor
+S05086250: Moderate, Good
+S05086255: Good
+S05086270: Good
+S05086280: Good, High
+S05087000: Good, Moderate
+S05087400: Good, High
+S05087880: Good, Moderate
+S05088120: Good, Moderate, High
+S05088130: Good, High
+S05088382: Good, High
+S05088400: Good, Moderate
+S05088433: High, Good
+S05088450: High, Good
+S05088452: Good, High
+S05088470: Good
+S05088490: High
+S05089000: Moderate, Good
+S05089050: Moderate, Good
+S05089060: High
+S05089080: High, Good
+S05089090: High
+S05089990: High
+S05090000: Moderate, Good, High, Poor
+S05090050: Moderate, High, Good
+S05090065: Good, Moderate, High
+S05090067: Moderate, High
+S05091000: Moderate, Good, Poor, High
+S05091020: Good, Moderate, High
+S05091063: Moderate, Poor
+S05091070: High, Moderate, Good
+S05091076: Moderate
+S05091090: Good, High, Moderate
+S05091210: High, Good
+S05091230: Moderate
+S05091231: Moderate
+S05091250: Moderate
+S05091275: Good
+S05091280: Good
+S05091310: Moderate
+S05091400: Moderate, Good
+S05091450: Moderate
+S05091520: Moderate, Good, High
+S05091540: Good, Moderate
+S05091560: Moderate, Good, High
+S05091600: Good, Moderate, High
+S05091670: High
+S05091725: Good, Moderate
+S05091760: Moderate
+S05092000: Moderate, Good, High
+S05092060: Good, Moderate
+S05092200: Moderate, Good, High
+S05092975: Good
+S05092980: Good, Moderate
+S05093000: Moderate, Poor, Good
+S05093300: Moderate, Poor, Good, High
+S05093550: Moderate, Poor, Bad
+S05093700: Moderate, Good
+S05093750: Moderate
+S05094810: Moderate, Good, High
+S05094820: Poor, Moderate, Good
+S05094825: Good, Moderate
+S05094880: Good, Moderate, High
+S05095000: Moderate, High, Good
+S05095100: Moderate, Good
+S05095110: Moderate
+S05095120: Moderate, Good, High
+S05095150: Moderate, Good
+S05095160: Good, Moderate
+S05095170: Moderate, Good, High
+S05095300: High, Moderate
+S05095305: Good, Moderate, High
+S05095980: Good, Moderate
+S05095985: Moderate, Good
+S05095995: Good, Moderate
+S05096000: High, Good, Moderate
+S05096010: Moderate, Good, High
+S05096030: Good, High, Moderate
+S05096050: Good, High
+S05096060: Good, High
+S05096080: Moderate, High, Good
+S05096085: High
+S05096090: Poor, Moderate, Good, High
+S05096100: Good, High
+S05096355: High, Good
+S05096360: Good, Moderate, High
+S05096365: High
+S05096370: Moderate
+S05096400: High, Moderate, Good
+S05096407: High
+S05096410: Good, High
+S05096445: Good, Moderate, High
+S05096450: Good, Moderate, High
+S05096480: Good, High, Moderate
+S05096490: Moderate, Poor
+S05096805: Good, High
+S05096810: High
+S05096812: Moderate
+S05096815: High
+S05096820: Good
+S05096825: Good
+S05096827: High
+S05096830: High
+S05096850: High
+S05096860: High
+S05096995: Good, Moderate
+S05097000: Moderate, Poor, Bad
+S05097200: Moderate, Poor
+S05097280: Moderate, Poor
+S05097500: Moderate, Good, Poor
+S05097510: Poor
+S05097550: Moderate
+S05097650: High
+S05097750: High, Good
+S05097760: Good
+S05097800: Moderate, Good, High
+S05097840: Poor, Bad
+S05097860: Moderate, Good, High
+S05097900: Moderate, Poor, Good
+S05098000: Good, Poor, Moderate, High
+S05098050: Bad, Poor
+S05098060: High, Moderate
+S05098700: Good
+S05098750: Good
+S05098800: High, Good, Moderate, Poor
+S05098850: Good, Moderate, High
+S05099000: Moderate, Good, Poor, High
+S05099120: High, Good
+S05099150: High, Good, Moderate
+S05099170: High, Good
+S05099300: Moderate
+S05099980: High, Good
+S05100000: Good, High, Moderate
+S05100080: Good, Moderate, High
+S05101000: Moderate, High, Good, Poor
+S05101200: Moderate, Good
+S05101350: High, Good
+S05101400: Good, High
+S05101405: Good, High
+S05101420: High, Good, Poor
+S05101500: Moderate, Good
+S05101600: Moderate, High, Good
+S05101700: Moderate, Good, High
+S05101900: High, Good
+S05102000: Good, High, Moderate
+S05102010: High, Good
+S05102030: Good, High
+S05102100: Good, High, Moderate, Poor
+S05102120: Good, Moderate, High
+S05102150: High, Good
+S05103000: Good, High
+S05103990: Moderate
+S05104000: Moderate, Good, Poor
+S05104315: Good, Moderate
+S05104320: Moderate
+S05104325: Good
+S05104500: Good, Moderate
+S05104900: Good
+S05105000: Good, Moderate
+S05105800: Moderate, Good, Poor
+S05105950: Good
+S05106000: Good, Moderate
+S05106200: Good
+S05106240: Good
+S05106245: Good, High
+S05106330: Good, Moderate
+S05106350: Moderate, Good
+S05106400: Good, High
+S05106430: Good, Moderate
+S05106500: Good
+S05106520: Good, High
+S05106600: Good
+S05106750: Good
+S05106760: Good, High
+S05106820: High, Good
+S05106850: Good, Moderate
+S05106855: Moderate, Good
+S05106900: Good, Moderate
+S05106950: Good, Moderate
+S05107000: Moderate, Good
+S05108000: Moderate
+S05108050: Good
+S05108100: Good
+S05108145: Good, Moderate
+S05108150: Moderate
+S05108180: Moderate, Good
+S05108190: Good, Moderate
+S05108195: Good, High
+S05108200: Moderate, Good
+S05109000: Moderate, Good
+S05109020: Good, Moderate, High
+S05109900: Good, Moderate, High
+S05110000: High, Moderate, Good
+S05111000: High, Good
+S05111039: High, Good
+S05111040: Good, High
+S05111100: High
+S05111300: Moderate, Good, Poor
+S05111340: Moderate, Good
+S05111360: High, Good
+S05111370: Good, Moderate, Poor
+S05111390: Good, Moderate, High
+S05111500: Moderate, Poor
+S05111530: Good, Moderate
+S05111550: Good
+S05111595: Moderate, Good
+S05111600: Good
+S05111602: Good, Moderate
+S05111608: Good
+S05111610: Good
+S05111620: Good, Moderate
+S05111635: Good, Moderate
+S05111650: Good, High
+S05111950: Moderate, Poor
+S05112000: Moderate, Poor, Good
+S05112210: Bad, Moderate, High, Good
+S05113000: Moderate
+S05114000: Moderate, Good
+S05114400: Good, Moderate
+S05114490: Moderate, Good
+S05114500: Moderate, Good
+S05114800: Good
+S05114820: Good, Moderate
+S05114910: Moderate
+S05115000: Moderate, Good, Poor
+S05115150: Good, High
+S05115185: Moderate, Good
+S05115200: High, Good, Moderate
+S05115550: Good, Moderate
+S05115600: High, Good, Moderate
+S05115950: Good
+S05116050: Good, Moderate
+S05116055: Good
+S05116070: Good, High
+S05116100: High, Good
+S05116530: Moderate, Poor, Bad
+S05116532: Moderate, Good
+S05116600: Good, Moderate
+S05116650: Good
+S05116990: Moderate, Good
+S05117000: Moderate, Poor
+S05117110: Moderate, Poor, Good
+S05117430: Good
+S05117450: Good
+S05117500: Good, High
+S05117530: Good
+S05117580: High, Good
+S05118000: Good
+S05118700: Good, Moderate
+S05118703: Good, Moderate
+S05118705: Good
+S05118706: 
+S05118707: Good, Moderate
+S05118710: Good, Moderate
+S05118750: Good, Moderate
+S05118760: Good, Moderate, High
+S05118785: High
+S05118795: High
+S05118840: Moderate
+S05118880: Moderate
+S05118900: Good, Moderate
+S05118930: Good, Moderate
+S05118950: Moderate, Poor
+S05118990: Good
+S05119000: Moderate
+S05119030: Good, Moderate
+S05119040: Good
+S05119050: Moderate, Good
+S05119056: Moderate, Good
+S05119065: Moderate, Good, Bad
+S05119068: Good
+S05119070: Good
+S05119080: Moderate, Good
+S05119105: Good, High
+S05119108: Good, High
+S05119750: Poor, Moderate
+S05119902: Moderate, Good
+S05120000: Moderate, Poor, Bad
+S05120005: Good, Moderate
+S05120010: Moderate, Good
+S05120013: Good
+S05120015: Good, Moderate
+S05120016: Good, High
+S05120020: Moderate
+S05120025: Good, Moderate, Poor
+S05120040: Good, High
+S05120050: Good, High, Moderate
+S05120070: Moderate, High, Good
+S05120085: Good
+S05120090: Good, High
+S05120091: High, Good
+S05120092: Good
+S05120093: Good
+S05120094: Good
+S05120095: Good, High
+S05120096: Good
+S05120097: Good, High
+S05120100: Moderate, Good, High
+S05120143: High
+S05120150: Good, High
+S05120194: Moderate, Good, Poor
+S05120850: Moderate, Poor
+S05121000: Moderate, Good, Poor
+S05121350: Good, High
+S05121400: Good, High
+S05122000: Good, Moderate
+S05122720: Good, High
+S05122850: Good, High
+S05122895: Good, Moderate
+S05122950: Moderate, Poor, Good
+S05123000: Moderate, Poor
+S05123020: Good
+S05123950: Poor, Moderate
+S05124000: Moderate, Poor
+S05124050: Moderate, Poor
+S05124185: Good
+S05124190: High, Moderate, Good
+S05124200: Moderate, Poor
+S05124250: Moderate, Good, High
+S05124270: Good, Moderate, High
+S05124940: Good, Moderate
+S05125000: Poor, Good, Moderate
+S05125050: Moderate, Good, High
+S05125100: Good, High
+S05125150: Moderate, Poor
+S05125200: Moderate, Poor, Good
+S05125230: Moderate, Poor, Good, High
+S05125235: Moderate, Good
+S05125255: Good, Moderate
+S05125260: Moderate, Poor, Good
+S05125265: Moderate
+S05125280: Poor, Moderate
+S05125300: Poor, Moderate
+S05125387: 
+S05125400: Moderate, Poor
+S05125405: Moderate, Poor
+S05125407: Moderate, Good, High
+S05125410: Moderate, Good, Poor
+S05125420: Moderate, Good
+S05125430: Good, Moderate
+S05125450: Moderate, Good, Poor, Bad
+S05125455: Good, Moderate, Bad, Poor
+S05125457: Poor, Moderate
+S05125500: Moderate
+S05125510: Good, Moderate, Poor, High
+S05125540: Moderate, Good
+S05125545: Moderate, Poor
+S05125600: Moderate, Poor
+S05125650: Poor, Moderate
+S05125700: Moderate, Poor
+S05125750: High, Good, Moderate
+S05125780: Moderate, Good, High
+S05125785: High
+S05125800: Good, Moderate, High
+S05125858: Good
+S05125860: Good, High, Moderate
+S05125863: Moderate, Good
+S05125870: Poor, Moderate
+S05125900: Moderate, Poor
+S05125910: Moderate
+S05125950: Moderate, Poor
+S05125960: Poor, Moderate
+S05125990: Moderate, Poor
+S05125995: Moderate, Poor, Bad
+S05126000: Moderate, Poor, High
+S05126040: Moderate, Poor, High
+S05126050: Good
+S05126060: Good, Moderate, High
+S05126068: Moderate, Poor, Good
+S05126070: Moderate, Good, Poor
+S05126090: Moderate, Good
+S05126100: Moderate, Poor
+S05126150: Good, Moderate
+S05126160: Poor, Moderate
+S05126500: Poor, Bad, Good, Moderate
+S05127000: Moderate, Poor
+S05127160: Moderate
+S05127300: Good, Moderate
+S05127400: Moderate, High
+S05127460: Poor, Moderate
+S05127470: Moderate, Poor, Bad
+S05127500: Moderate, Good
+S05127660: Moderate, Good
+S05127800: High, Good
+S05127900: High, Good
+S05128000: Good, Moderate, High
+S05128020: Moderate, Good
+S05128950: Good, Moderate, Poor, High
+S05129000: Moderate
+S05129060: Moderate
+S05129070: Good, Moderate
+S05129074: Moderate, Good
+S05129078: Moderate, Good, High
+S05129079: Moderate, Good
+S05129086: Moderate
+S05129087: Good
+S05129088: Moderate, Good
+S05129089: Good
+S05129100: Good, Moderate, Poor
+S05129150: Good, Moderate, Poor
+S05129160: Moderate, Good
+S05129900: Good
+S05130000: Moderate, Good
+S05130500: Good, Moderate
+S05131000: Poor, Moderate
+S05131200: Moderate, Poor
+S05132000: Moderate, Good
+S05132100: Good, High
+S05132125: Good
+S05132130: 
+S05132600: Good, Moderate, High
+S05132619: Bad, Moderate
+S05132620: Good
+S05132800: Moderate
+S05133000: Good, High, Moderate
+S05133045: Good
+S05133050: High
+S05133100: High, Good
+S05133109: Good
+S05133110: High
+S05133280: High, Good
+S05133300: High, Good
+S05133400: High, Good
+S05133500: Good, High
+S05134000: Moderate, Good, Poor
+S05134220: Good
+S05134250: Moderate, Good
+S05134260: Good
+S05134300: Moderate, Good
+S05134310: Moderate, Poor, Good
+S05134350: Moderate, Good
+S05134351: Moderate
+S05134352: Moderate, Good
+S05134354: Good
+S05134355: Good, High
+S05134360: Moderate, Good
+S05134364: Poor
+S05134365: Good
+S05134374: Moderate, Good
+S05134375: Good
+S05134377: Moderate
+S05134378: Poor
+S05134380: Moderate, Good
+S05134400: Good, Poor, High, Moderate
+S05134430: High, Good
+S05134432: Moderate
+S05134520: High, Good
+S05134540: Good, High
+S05134550: High, Good
+S05134600: Good, Moderate
+S05134900: Moderate, Good
+S05135000: Good, High, Moderate
+S05135100: High, Good, Moderate
+S05135300: Good, High, Moderate
+S05135900: Good, High
+S05136000: Moderate, High, Good
+S05136200: High, Good
+S05136900: High
+S05137000: High
+S05137050: High
+S05137090: Good, High
+S05137200: Moderate, Good
+S05138000: Moderate, Good, High
+S05138100: Moderate, Good, High
+S05138200: High, Good
+S05138810: Good
+S05138820: Good
+S05138900: Good, High
+S05139000: Good, High, Moderate
+S05139100: Good, Moderate, Poor
+S05139112: 
+S05139113: Good
+S05139116: High
+S05139117: Moderate
+S05139130: High, Moderate, Good
+S05139140: High, Good
+S05139200: Good, Moderate, High
+S05139215: Good, High
+S05139220: Good, High
+S05139230: High, Poor
+S05139310: Poor, Moderate, High, Good
+S05139330: Moderate, High, Good
+S05139331: Good
+S05139332: Good
+S05139335: 
+S05139337: Moderate
+S05139338: High
+S05139340: High
+S05139345: High
+S05139347: Good
+S05139348: Moderate
+S05139350: Good, Moderate, High, Poor
+S05139355: 
+S05139360: Moderate
+S05139390: Moderate, Good, High
+S05139900: Moderate, Good
+S05140000: High, Good
+S05140060: High, Good
+S05140065: High, Good
+S05140070: High
+S05140088: Good
+S05140090: Good, Moderate, High
+S05140100: Good, Moderate
+S05140150: High, Good
+S05140200: Moderate, Good, Poor, High
+S05140500: Good, High, Moderate
+S05141000: Moderate, Good, Poor
+S05141300: Good, Moderate
+S05141780: Good
+S05141800: Moderate, Good
+S05141950: Good, Moderate
+S05142100: Good, Moderate, High
+S05142120: Good, Moderate
+S05142150: Good, Moderate
+S05142200: Poor, Moderate, Good
+S05142495: Moderate, Good
+S05142520: Poor, Moderate, Good
+S05142540: Good, High, Moderate
+S05142900: Moderate
+S05142984: Moderate
+S05142985: Good
+S05143000: High, Moderate, Good
+S05143120: Good, Moderate, High
+S05143200: High, Good, Moderate
+S05143990: Moderate, Poor
+S05144250: Poor, Moderate, Good
+S05144300: Good, Moderate
+S05144500: Moderate, Good
+S05144520: Moderate, High, Good
+S05145000: Moderate, High, Poor, Good
+S05145100: Moderate, Good, High
+S05145200: Moderate, High, Good
+S05145215: Good, Moderate
+S05145280: High, Good, Moderate
+S05145300: High, Good
+S05145410: High
+S05145440: High
+S05145600: Good, High
+S05145650: Good, High
+S05145680: High
+S05145687: High, Good
+S05145700: Good, High
+S05145750: Moderate, Good
+S05145760: High, Good
+S05145900: High, Good
+S05147000: High, Good
+S05148000: High
+S05148020: High, Good
+S05148080: High, Good
+S05148150: High
+S05148180: High
+S05148200: High
+S05148680: High
+S05148700: High, Good
+S05148850: High, Good
+S05149000: High
+S05149500: Good, High
+S05149520: High
+S05149600: High, Moderate
+S05149650: High, Moderate, Good
+S05149700: High
+S05149850: High
+S05150000: High
+S05150400: High
+S05150600: Good, High
+S05150900: High
+S05151000: Good, High
+S05151100: High
+S05151120: High
+S05151150: High
+S05151200: High
+S05151975: Good, Moderate
+S05151978: Moderate, Good
+S05151982: Poor, Moderate, Good
+S05151990: Moderate, Good, Poor, High
+S05151993: Good, Moderate, High
+S05151994: Good, Moderate, Poor
+S05152000: Moderate, Poor
+S05152550: Good, Moderate
+S05152555: Good, Moderate
+S05153000: Moderate, Good
+S05153940: Moderate, Good
+S05153942: Good
+S05153945: Moderate, Good
+S05153950: Good, Moderate
+S05153960: Good, Moderate
+S05153970: Good
+S05153980: High, Moderate
+S05154100: Good, High
+S05154250: Moderate, Bad, Poor
+S05154280: Moderate, High, Good, Poor
+S05154400: Moderate, Good
+S05154450: Good, Moderate, High
+S05154500: Moderate, Poor
+S05155000: Moderate, Good, Poor
+S05155050: Moderate
+S05155100: Good, Moderate
+S05155125: Good, Moderate
+S05155230: Moderate, Good
+S05155300: Moderate, Good, High
+S05155600: Good, High, Moderate
+S05155655: High, Good
+S05155800: Good, Moderate
+S05155820: Good
+S05155890: Good
+S05156700: Poor, Moderate, Good
+S05156930: Good
+S05156950: Moderate, Poor
+S05157100: Moderate, Poor, Good
+S05157140: Moderate, Good
+S05157200: Moderate, Good
+S05157250: Moderate, Good
+S05157360: Poor, Moderate
+S05157620: Moderate, Good
+S05157622: Good
+S05157625: Moderate, Good
+S05157645: Good, Moderate
+S05157650: Moderate, Good, High
+S05157680: High, Moderate, Good
+S05157750: Good, Moderate
+S05157800: Good, High, Moderate
+S05157820: Moderate, Good, High
+S05158000: Moderate, Good
+S05158150: Good, Moderate
+S05158160: Moderate, Good
+S05158170: Good, Moderate
+S05158180: Good
+S05158200: Moderate, Good
+S05158294: Good
+S05158295: Good
+S05158300: Moderate, Good
+S05158305: Good
+S05158314: Poor
+S05158315: Poor
+S05158700: Moderate, Poor
+S05159000: Poor, Moderate
+S05159260: Moderate, Good
+S05159300: Moderate, Good
+S05159400: Moderate, Poor, Good
+S05159450: Moderate
+S05159468: Moderate
+S05159470: Good
+S05160000: Good
+S05161000: Moderate, Good, High, Poor
+S05161900: Moderate, Good
+S05161950: Moderate, Good
+S05162450: Moderate, Good
+S05162500: Moderate, Good, Poor
+S05162505: Moderate, Bad
+S05162520: Moderate, Good
+S05162580: Moderate, Good
+S05162600: Good, High
+S05162605: Good, Moderate, High
+S05162620: Good, Moderate, High
+S05162624: Moderate, Good
+S05162800: High, Good
+S05162980: High, Good, Moderate
+S05163000: Moderate, Good
+S05163290: Good, Moderate
+S05163440: Moderate
+S05163450: Moderate, Poor
+S05163700: Moderate, Poor
+S05163800: Moderate
+S05163860: Good, Moderate
+S05163862: Good
+S05163910: Good, Moderate
+S05164000: High, Moderate, Good
+S05164650: Moderate
+S05164690: High, Good, Moderate
+S05164700: High, Good
+S05165000: Good, Moderate
+S05165250: Good, Moderate
+S05165255: Good
+S05165760: Good, Moderate
+S05165770: Moderate, Good
+S05165790: Moderate, Good, Poor
+S05165850: Moderate, Good, High, Poor
+S05165890: Good, Moderate, High
+S05165900: Good, High
+S05166000: Moderate, Good, High
+S05166850: Moderate, Poor, Good
+S05166900: Moderate, Poor, Good
+S05167000: Good, High
+S05167008: Moderate, Good, High, Poor
+S05167010: Moderate, Good, High
+S05167020: High
+S05167030: High
+S05167050: Good, High
+S05167450: Good, High, Moderate
+S05167550: Moderate, Good
+S05167800: High
+S05167850: High
+S05167950: High, Poor, Good
+S05168000: Poor, Moderate, Good, High
+S05168100: High
+S05168500: High
+S05168600: Good, Moderate
+S05169000: High, Good
+S05169050: High, Good
+S05169990: Good, High
+S05170000: Good, High, Moderate
+S05170100: Moderate, Good, High
+S05170750: High, Good
+S05170800: High, Good
+S05170900: High
+S05170950: High
+S05171660: Good
+S05171900: High
+S05172000: Good, High
+S05172050: Moderate
+S05172220: High, Moderate, Good
+S05172350: High
+S05172600: High
+S05172800: High, Good
+S05172900: High, Good
+S05172920: High
+S05172950: High, Good
+S05173100: High, Good
+S05173150: High, Poor
+S05173160: Good, Moderate
+S05173165: High, Good
+S05173180: High, Good
+S05173200: Good, High
+S05173250: High
+S05173260: 
+S05173270: High, Moderate
+S05173280: High
+S05173350: High, Good
+S05173400: High, Good, Moderate
+S05173420: High, Good
+S05173435: High
+S05173450: Good, High, Moderate
+S05174000: High, Good, Moderate
+S05175000: Moderate, Good, High
+S05175010: Moderate, Good
+S05175100: Good, High, Moderate, Poor
+S05175200: Good, High, Moderate
+S05175300: High, Good
+S05175350: High
+S05175360: High
+S05175400: Good, High
+S05175800: High, Good, Moderate
+S05176000: Good, High, Moderate
+S05176050: Good, High
+S05176090: Good, Moderate, High
+S05176100: Good, High
+S05176130: High, Good, Moderate
+S05176150: High, Good, Moderate
+S05176160: Moderate, High, Good
+S05176170: High, Moderate, Good
+S05176200: Good, Moderate, High
+S05176850: Good, High
+S05176900: Good, Moderate, High
+S05177000: High, Good
+S05177600: High, Good, Moderate
+S05178000: High, Good
+S05178100: High, Good
+S05178200: Moderate, Good, High
+S05178800: High
+S05178850: High, Good
+S05178900: High, Good
+S05179000: High
+S05179500: High, Good
+S05179750: Good, High
+S05180210: High
+S05180220: High
+S05180290: High
+S05180295: Good, High
+S05180550: Good, High, Moderate
+S05180660: High
+S05180700: High
+S05180800: High, Good
+S05180820: High
+S05180850: High
+S05180880: 
+S05180900: High, Good
+S05181000: High, Moderate, Good
+S05181100: High, Good, Moderate
+S05181130: Good, High, Moderate
+S05181200: High, Good
+S05181600: High, Good
+S05181800: High
+S05181900: Good, High
+S05182200: High, Good, Moderate
+S05183000: High
+S05183290: High
+S05183300: High
+S05183480: High
+S05183500: High
+S05183510: Good, High
+S05183520: High
+S05183530: High
+S05183600: High
+S05183620: High
+S05183710: High
+S05183848: High
+S05183850: High, Good
+S05183860: Good, High
+S05183862: High, Good
+S05183900: High, Good
+S05183910: High, Good
+S05183920: High
+S05183930: High, Good
+S05183935: High
+S05183939: High
+S05183940: High
+S05183970: High
+S05184200: Moderate
+S05184250: High
+S05184300: Poor, Moderate
+S05184700: Moderate, Poor
+S05184710: High, Good, Moderate, Poor
+S05184900: Moderate, Poor
+S05189000: High
+S05189005: High, Good
+S05191000: Poor, Moderate, High, Good
+S05191100: High, Moderate, Good
+S05191150: Moderate, High, Good
+S05191200: Good, Poor, Moderate, High
+S05191800: High, Good
+S05191900: High, Good
+S05192008: High, Good
+S05192014: Good, Moderate, Poor, High
+S05192018: High
+S05192020: High, Moderate
+S05192024: High, Good
+S05192040: High
+S05192050: High, Good
+S05192063: Good, Moderate, High
+S05192100: Good, Moderate, High
+S05192150: Good, High
+S05192155: High, Good
+S05192200: Good, High, Moderate, Poor
+S05192305: High, Good, Moderate
+S05192315: High, Moderate, Good, Poor
+S05192318: High
+S05192320: High, Moderate
+S05196800: Moderate
+S05196910: Good, High
+S05197000: Moderate, Good, Poor
+S05197010: Poor, Good, Moderate
+S05197100: Good, Moderate, Poor
+S05197200: Good, High, Moderate
+S05197205: High, Good, Poor
+S05197220: High, Moderate
+S05197500: Good, Moderate, High
+S05197550: Good, High, Poor
+S05197600: Poor, Moderate, High
+S05197900: Moderate, Poor
+S05198750: Good, High, Moderate, Poor
+S05198770: Moderate, High, Good
+S05199000: Good, Moderate
+S05199100: Good, Moderate
+S05199120: Moderate, High, Good
+S05199250: High, Good
+S05199450: Good, Moderate, Poor
+S05199600: Good, High, Moderate
+S05199700: Moderate, High, Good
+S05199750: High, Good, Moderate
+S05199800: High, Good, Moderate
+S05200050: High, Moderate, Good
+S05200110: Moderate
+S05200115: High, Good, Moderate
+S05200135: Good, High
+S05200140: High
+S05200190: Good, Moderate
+S05200200: Moderate
+S05200280: Good
+S05200300: Moderate, Poor
+S05201000: Moderate, Good
+S05201020: Moderate, Good, High
+S05201025: Good
+S05201026: Good
+S05201028: Moderate, Good
+S05201030: Good
+S05201040: Good
+S05201045: Good
+S05201050: Good
+S05201051: Good
+S05201055: Good, Moderate
+S05201058: Moderate
+S05201060: High, Good, Moderate
+S05201062: Moderate
+S05201067: High
+S05201400: Good, High, Moderate
+S05202000: High, Good, Moderate
+S05202150: Poor, Moderate
+S05202160: Good, Moderate
+S05202950: Good, High, Moderate
+S05203058: High
+S05203060: High
+S05204000: High, Good
+S05204200: 
+S05204880: High, Good
+S05204890: High
+S05204920: Good
+S05205000: High
+S05206000: High
+S05206180: High, Good
+S05206500: High
+S05206750: High
+S05206880: High, Good
+S05206900: High, Good
+S05207000: High
+S05207030: High
+S05207040: High, Good
+S05207050: Moderate, Good, High
+S05207060: High
+S05207070: High, Good
+S05207150: High, Good, Moderate, Poor
+S05209000: Poor, Good, Moderate, High
+S05209500: Good, High
+S05210000: Moderate, High, Good, Poor
+S05211500: Good
+S05211550: High, Good
+S05211650: Good, High
+S05211900: Good, High
+S05211920: Good, High
+S05211930: Good, High
+S05212000: Poor, Good, High, Moderate
+S05213000: Good, High, Moderate, Poor
+S05213100: Moderate, High, Bad
+S05213120: Good, Moderate
+S05214000: High, Moderate
+S05214120: Good, Moderate
+S05214310: Moderate, Good, High
+S05214320: Poor, Moderate
+S05215100: High, Good, Moderate
+S05215120: High, Good, Moderate
+S05216130: Good, Moderate
+S05216135: High
+S05216140: High, Good
+S05216150: High, Good, Moderate
+S05216210: High, Moderate, Good
+S05217150: High, Good, Poor, Moderate
+S05217310: Moderate, High
+S05217350: High
+S05217400: Good, Moderate, High
+S05217800: High
+S05218000: Good, High, Moderate, Poor
+S05218250: High, Moderate, Good
+S05218450: High
+S05218460: High, Good
+S05218500: High
+S05218560: High
+S05218620: Good, High
+S05218630: High
+S05218700: High
+S05218850: Moderate, Good
+S05218980: Good, Moderate
+S05219000: Moderate, Poor
+S05219170: Moderate, Good
+S05219182: High
+S05219600: Moderate, Poor
+S05219900: Moderate, Poor
+S05220000: Moderate, Poor
+S05220190: Good, Moderate
+S05220920: Moderate, High, Good
+S05220950: Moderate, Good
+S05221600: Good, Poor, Moderate
+S05221650: High, Good
+S05222000: Moderate, Poor
+S05222980: High, Good
+S05222995: Moderate, Good
+S05223000: Moderate, Poor
+S05223130: Moderate, Good
+S05223145: Moderate, Poor
+S05223160: 
+S05223170: Poor, Moderate, Good
+S05223210: Moderate, High, Good
+S05224000: Moderate, Poor
+S05224100: Poor, Bad, High, Good, Moderate
+S05225000: High, Moderate
+S05225080: Good, Moderate, High
+S05225095: High, Good, Moderate
+S05225100: Moderate, Poor, Bad
+S05225300: Good, High, Moderate
+S05225320: High, Moderate, Good
+S05225340: Moderate, High, Good, Poor
+S05225350: High, Good
+S05226000: Moderate, High, Poor
+S05226030: Moderate, High, Poor, Bad, Good
+S05226040: High
+S05226050: High, Moderate
+S05226102: High, Moderate
+S05226150: Moderate, Good
+S05226500: Moderate, Poor
+S05227000: Moderate
+S05227240: Moderate, Poor
+S05227260: High
+S05228000: Bad, Poor, Moderate
+S05228080: Good, Moderate, High
+S05228100: Poor, Good, Bad
+S05228250: Moderate, High, Good
+S05228280: Moderate, Good
+S05228290: Good, Moderate
+S05228340: Moderate, Good, Poor
+S05228350: Good, Moderate, High
+S05228500: Moderate, Good, Poor
+S05228600: Poor, Moderate
+S05228800: Good
+S05229000: Moderate
+S05229005: Moderate
+S05229050: Moderate, Good
+S05229070: Moderate
+S05229080: 
+S05229100: Moderate, Good
+S05229110: Moderate
+S05229120: Good, Moderate
+S05229123: Good, Moderate
+S05229125: Good
+S05229130: Good, Moderate
+S05229133: Moderate, Good, High
+S05229135: Moderate, Poor, Good
+S05229140: Moderate
+S05229141: Good
+S05229142: Good
+S05229145: Good
+S05229148: Good, Moderate
+S05229151: Moderate
+S05229155: Good
+S05229160: Good
+S05229200: Moderate, Poor, Bad
+S05229225: Good, Moderate
+S05229250: High, Good
+S05230000: Good, Moderate, Poor
+S05230010: Good, Moderate
+S05230020: Moderate, Good
+S05230080: Moderate, Good, Poor
+S05230200: Good, Moderate
+S05230500: High, Good
+S05230600: High, Good
+S05230980: Moderate, Poor
+S05230990: Moderate, Poor
+S05231050: Moderate, Poor, Good
+S05231370: Moderate, Poor
+S05231390: Moderate, Good
+S05231430: Moderate
+S05231450: Moderate, Good, Poor
+S05231500: Poor, Moderate, Bad
+S05231555: Moderate, Poor
+S05231600: Moderate, Poor
+S05231650: Moderate, Good
+S05231700: Moderate, Good
+S05231800: Moderate, Poor, Good
+S05231850: Moderate, Good
+S05231900: Moderate, Poor
+S05232000: Moderate, Good, Poor
+S05232200: Good, Moderate
+S05232220: Good, Moderate, Poor
+S05232290: Moderate, Good
+S05232350: Moderate, Good, High
+S05232980: Good, Moderate
+S05233000: Moderate, High, Poor, Good, Bad
+S05233100: Good, Moderate
+S05233500: Poor, Moderate, Good
+S05234000: Moderate, Good, Poor
+S05234002: Good
+S05234003: Moderate
+S05234004: Good, High
+S05234005: Moderate, Good
+S05234006: Moderate
+S05234007: Moderate, Good
+S05234008: Good
+S05234010: Good, High, Moderate
+S05234011: Good, Moderate, High
+S05234012: High, Good
+S05234013: Good, High
+S05234014: High, Good
+S05234015: High, Good
+S05234016: Good, Moderate
+S05234017: Good, Moderate
+S05234018: Good, Moderate, High, Poor
+S05234019: High, Poor, Good, Moderate, Bad
+S05234020: Poor, Moderate
+S05234024: Moderate, Good
+S05234025: Good, Moderate
+S05234026: Good, Moderate
+S05234027: Good
+S05234028: Good, High
+S05234029: High, Good
+S05234030: High
+S05234031: High, Good
+S05234032: Good, Moderate
+S05234033: High
+S05234045: Moderate, Good
+S05234060: Moderate, Good, Poor, High
+S05234082: High, Good
+S05234200: Moderate, Poor, Good
+S05234280: Good, Poor, High, Moderate
+S05234285: Moderate, Poor, Good, High
+S05234287: Good, Moderate
+S05234290: Moderate, High, Good
+S05234900: High, Good, Moderate, Poor
+S05234980: High, Moderate, Good, Poor, Bad
+S05235850: High, Good
+S05236000: High, Good
+S05236100: High, Good
+S05236950: Good, High
+S05236960: High, Good
+S05237000: High, Good, Moderate
+S05237100: Moderate
+S05238450: Moderate, Good
+S05238455: Good
+S05238500: Good
+S06000015: Moderate, Good
+S06000077: Moderate
+S06000088: Moderate, High
+S06000155: Moderate
+S06000179: High
+S06000206: Moderate
+S06000209: Moderate
+S06000211: Good
+S06000213: Moderate
+S06000217: Poor
+S06000218: Moderate
+S06000221: Moderate
+S06000240: High
+S06000242: High
+S06000389: High, Good
+S06000390: Moderate
+S06000391: Good
+S06000393: Good
+S06000394: Moderate
+S06000395: High
+S06000396: High
+S06000397: Moderate
+S06000398: High
+S06000400: Moderate
+S06000401: High
+S06000402: High
+S06000403: High
+S06000404: Moderate
+S06000405: Moderate
+S06000406: Good
+S06000407: High
+S06000409: High
+S06000411: High
+S06000412: Good
+S06000413: Good
+S06000414: High
+S06000415: High
+S06000416: Moderate
+S06000417: High
+S06000418: 
+S06000419: High
+S06000420: Moderate
+S06000421: Moderate
+S06000422: Moderate
+S06000423: Good
+S06000424: Moderate
+S06000425: Good, Moderate
+S06000426: Moderate
+S06000513: Good
+S06000514: Good
+S06000520: Bad
+S06000523: Good, Moderate
+S06000568: Good
+S06000569: Good
+S06000571: Good
+S06000574: Good
+S06000575: Moderate, High, Good
+S06000577: Good, Moderate, Poor
+S06000579: Moderate, Good
+S06000580: Good, High
+S06000610: 
+S06000611: High
+S06000634: Good
+S06000676: Good
+S06000696: High
+S06000697: Poor
+S06000699: 
+S06000747: Moderate
+S06000754: High
+S06000755: High
+S06000756: Moderate
+S06000758: Poor
+S06000864: High
+S06000867: Moderate
+S06000868: Moderate
+S06000876: Moderate
+S06000877: High
+S06000878: Moderate
+S06000890: Good, Moderate, Poor
+S06000950: Moderate, Good, Poor
+S06000980: Good, Moderate
+S06000993: Good, Moderate
+S06000997: Moderate, High, Good
+S06000998: Moderate, Poor
+S06001118: Moderate, Good
+S06001119: High, Moderate
+S06001180: Good
+S06001190: Good, Moderate
+S06001219: Poor
+S06001221: Moderate
+S06001222: High
+S06001223: Good
+S06001250: Good
+S06001284: Moderate
+S06001289: 
+S06001290: Moderate
+S06001303: Good
+S06001304: Good
+S06001308: Good
+S06001309: Good
+S06001322: Good
+S06001389: Moderate
+S06001392: Moderate
+S06001397: Moderate
+S06001399: 
+S06001470: Good, Moderate
+S06001480: Good, Moderate
+S06001533: Moderate
+S06001767: Good
+S06001769: 
+S06001880: Moderate
+S06001890: Good, Moderate
+S06001995: Poor, Moderate
+S06002000: Moderate, Good, Poor, High
+S06002005: Good
+S06002006: Moderate
+S06002007: Moderate
+S06002008: Moderate
+S06002009: Good
+S06002010: Moderate
+S06002011: Moderate
+S06002012: Moderate
+S06002013: 
+S06002016: High
+S06002025: Moderate, Poor
+S06002026: High
+S06002027: Good
+S06002029: High
+S06002030: High
+S06002033: Good
+S06002036: Moderate
+S06002037: Moderate
+S06002039: High
+S06002045: High
+S06002046: Moderate
+S06002047: High
+S06002048: High
+S06002049: High
+S06002050: High
+S06002051: High
+S06002052: High
+S06002053: High
+S06002060: Moderate, Poor, Bad
+S06002070: Good
+S06002071: Good, Moderate
+S06002072: High
+S06002077: High
+S06002078: High
+S06002079: Poor
+S06002080: High
+S06002081: 
+S06002180: High
+S06002410: Good
+S06003000: High
+S06003005: Moderate
+S06003010: High
+S06003015: High
+S06003500: Moderate
+S06003550: Good, Moderate
+S06003770: Moderate, Good
+S06003805: Moderate
+S06003850: Good, Moderate, High
+S06003945: Good
+S06004000: Moderate, Poor
+S06004200: High
+S06004300: Moderate
+S06004750: Good, High, Moderate
+S06004870: Moderate, Poor
+S06004995: Moderate, Good
+S06005400: Moderate
+S06005550: Moderate, Good
+S06005640: Good
+S06005695: Good, High
+S06005700: Good, Moderate, High
+S06005780: Good, High, Moderate
+S06005900: Good
+S06006220: Good, Moderate
+S06006550: Moderate
+S06006720: Moderate, Good, High
+S06006740: Good
+S06006790: Moderate, Good
+S06006900: High, Good
+S06007000: Good, High
+S06008000: Good, High
+S06009010: Good, Moderate
+S06010000: Moderate, Poor
+S06011065: Poor, Moderate
+S06011760: High
+S06011900: High
+S06011945: High
+S06011980: High
+S06012050: High
+S06012055: High, Good
+S06012080: High, Good
+S06012100: Good
+S06012120: Good
+S06012245: Good, Poor, Moderate
+S06012585: 
+S06012600: High, Good
+S06013100: 
+S06013600: High
+S06013650: Moderate
+S06013800: Good, Moderate, High
+S06014000: Good
+S06014230: Good
+S06014908: Good
+S06014922: Moderate, Good
+S06014950: Good
+S06014955: Good
+S06014970: Good, High
+S06014990: Good, High
+S06015560: Moderate
+S06015600: High
+S06015650: Good, Moderate
+S06016000: Moderate, Good, Poor
+S06016500: Moderate, Poor
+S06016600: Moderate
+S06016840: Moderate, Poor, Good, Bad
+S06016940: Good, Moderate
+S06016960: Moderate
+S06017000: Moderate, Poor
+S06017045: High
+S06017097: High, Good, Moderate
+S06017100: High
+S06017200: Good, Moderate, High
+S06017995: High, Moderate
+S06018150: Good, High, Moderate
+S06018185: Moderate
+S06018200: Good, Moderate, High
+S06018500: Moderate, High, Good
+S06020100: High, Good, Moderate
+S06020401: High, Good
+S06020450: High
+S06020460: High
+S06020500: Good, High
+S06021500: Moderate, Poor, High, Good
+S06026000: Moderate, Poor
+S06027000: Moderate, Good, Poor
+S06027700: Moderate
+S06028100: Poor, Moderate
+S06029000: Moderate
+S06029100: Good, Moderate
+S06029510: Moderate
+S06031200: High, Moderate, Poor, Good
+S06031400: High, Moderate, Good
+S06031580: High, Good
+S06032000: High, Good
+S06032290: High
+S06032315: Moderate
+S06033000: High, Good, Moderate
+S06033500: Moderate
+S06033550: Good
+S06035325: Poor, Moderate
+S06035330: Poor, Moderate
+S06035340: Moderate, Poor, Good
+S06035450: Moderate, Poor
+S06035500: Moderate, Good
+S06035690: Moderate, Poor
+S06035870: High
+S06036060: Good
+S06036070: Moderate, Good
+S06036155: Good
+S06036190: Moderate, Poor
+S06036200: Good
+S06036250: High
+S06036320: Moderate, Good
+S06036970: Moderate, Good
+S06037085: Moderate, Bad, Poor
+S06037300: Moderate, Poor
+S06038110: Moderate
+S06038300: Moderate, Poor
+S06038900: Moderate, Poor
+S06039960: Moderate, Poor
+S06040400: Moderate, Good
+S06040730: Poor, Moderate, Bad
+S06040740: Moderate
+S06041000: Poor, Bad, Moderate
+S06041130: Moderate, Poor
+S06041200: Moderate
+S06041220: Moderate
+S06041250: Moderate
+S06041400: Good
+S06041520: Moderate, Bad, Poor
+S06041665: Moderate, Good, High
+S06041700: Poor, Moderate
+S06041800: Good, Moderate
+S06041810: Moderate, Good, High
+S06042000: Moderate
+S06042500: Poor, Moderate, Bad
+S06043800: Moderate
+S06043845: Poor, Moderate
+S06043869: Moderate
+S06043875: Moderate, Poor
+S06043890: Poor, Moderate
+S06043900: Moderate, High
+S06043928: Moderate, Poor
+S06044510: Poor, Moderate
+S06044900: Poor, Moderate
+S06045000: Moderate, Poor, Good
+S06045750: Good, High
+S06047140: High
+S06047160: Good
+S06047170: Good
+S06047185: Moderate
+S06047210: High
+S06047250: High
+S06047260: Good
+S06047270: High
+S06047290: Poor
+S06047310: Poor
+S06047320: Poor
+S06047330: Poor
+S06047360: Good, Moderate
+S06047940: Moderate, Poor
+S06048300: Poor, Bad
+S06048480: Poor, Moderate
+S06048640: Good, Moderate, Poor
+S06048660: Poor
+S06048710: Poor
+S06048730: Poor
+S06048745: Poor
+S06048747: Moderate, Poor
+S06048750: Moderate
+S06048785: Moderate
+S06048787: Moderate
+S06048900: Moderate, Poor
+S06049000: Moderate, Poor
+S06049010: Moderate, Poor
+S06049080: Poor
+S06050840: Moderate
+S06051550: Moderate, Poor, Bad
+S06052410: Poor, Moderate
+S06052435: Moderate, Poor, Bad
+S06052650: Good
+S06052840: Good
+S06052930: Bad, Moderate
+S06053000: Poor, Moderate
+S06053500: Moderate, High
+S06053940: Poor, Moderate
+S06054255: Poor, Bad
+S06054260: Poor, Bad
+S06054265: Poor
+S06058460: Moderate
+S06059100: Poor, Bad, Moderate
+S06061475: High
+S06061600: High
+S06062400: High
+S06063350: Good, High
+S06063450: High
+S06063500: High
+S06063600: Good, High
+S06065655: Good
+S06065700: Poor, Moderate, Bad
+S06065760: Moderate, Good
+S06065775: Moderate, Good
+S06065780: Moderate, Good
+S06067760: High, Good, Moderate
+S06067790: Moderate, Good, High
+S06067802: High
+S06067820: Moderate
+S06067845: Good, High
+S06067860: High, Moderate
+S06068400: High
+S06068401: High
+S06068405: Good
+S06068410: Good
+S06068415: Good
+S06068420: High, Good
+S06069000: Poor
+S06069050: Moderate, Poor, Bad
+S06069600: High, Good
+S06069650: High, Good, Moderate
+S06069655: High
+S06069750: High, Good
+S06070100: Moderate, Bad, High, Poor, Good
+S06070460: High
+S06070465: High, Good
+S06070485: High, Moderate
+S06070750: Good, Moderate
+S06070800: Moderate, Good
+S06071900: Moderate, Good, High
+S06072300: Moderate, Poor
+S06074500: Moderate, Poor
+S06076420: High, Good
+S06076440: High
+S06076441: High
+S06076442: 
+S06076443: Good
+S06076450: High, Good
+S06076620: Good
+S06076630: Good
+S06076650: Moderate
+S06076690: High
+S06076720: High
+S06076760: High
+S06077000: High, Good, Moderate
+S06077500: Moderate, Good
+S06077605: Good, High
+S06078400: High, Good
+S06078500: Moderate, Good
+S06078560: Good
+S06078580: Moderate, Good, High
+S06078700: Good, Moderate, High
+S06079135: High
+S06079136: Good
+S06079145: High
+S06079160: Good
+S06079161: 
+S06079162: Moderate
+S06079163: Good
+S06079170: 
+S06079171: Moderate
+S06079172: Good
+S06079173: Good
+S06079174: Moderate
+S06079175: Moderate
+S06079181: Moderate
+S06079183: Moderate
+S06079184: Moderate
+S06079185: Moderate
+S06079186: Moderate
+S06079188: Moderate
+S06079189: Good
+S06079190: Poor
+S06079191: Poor
+S06080000: Moderate, Poor
+S06080995: Moderate
+S06081540: High
+S06081545: Moderate
+S06081550: Moderate
+S06081555: Moderate
+S06081975: Moderate
+S06081985: Poor
+S06081990: 
+S06081995: Moderate
+S06082260: Moderate, Good
+S06083570: Good, Moderate
+S06083580: Moderate
+S06083899: High
+S06083925: High, Moderate, Good
+S06083935: High
+S06084000: High, Good
+S06084200: High
+S06084210: Good, High, Moderate
+S06084360: High, Moderate
+S06084400: High
+S06084450: Bad, Moderate, Poor
+S06084470: Moderate, High
+S06084770: High
+S06084890: Poor, Good
+S06084920: Good, High, Moderate
+S06085270: High, Good, Moderate
+S06085500: Good, High, Moderate
+S06085900: High, Good
+S06086100: Moderate
+S06087500: Moderate, High, Good
+S06088800: High
+S06088830: Moderate, High
+S06088850: High
+S06088885: Good
+S06088895: Moderate, Good, High
+S06089100: Good, Moderate
+S06089160: Good
+S06089170: Moderate
+S06089175: 
+S06090600: Moderate, High, Good
+S06091590: High
+S06091600: High
+S06091610: Moderate
+S06091620: Moderate
+S06091625: Moderate, Poor
+S06091645: Good, High
+S06091665: Bad, Moderate, Good, Poor
+S06092000: High, Good
+S06093050: Moderate
+S06094039: Moderate, Bad
+S06094097: Moderate
+S06094150: Moderate, Poor
+S06094230: Poor, Moderate, Bad
+S06094250: Moderate
+S06094260: Moderate
+S06094340: Moderate
+S06094350: Poor
+S06094379: Moderate
+S06094381: Moderate
+S06094470: Moderate
+S06095000: Bad, Poor, Moderate
+S06097000: Bad, Poor, Moderate
+S06097910: Bad
+S06097930: Good
+S06097940: Moderate
+S06097990: Bad
+S06098000: Poor, Moderate
+S06098700: Poor, Moderate, Bad
+S06098880: Moderate
+S06098890: Moderate
+S06098940: Moderate
+S06098980: Moderate
+S06098990: Moderate
+S06100460: Moderate
+S06100912: High
+S06100930: Good
+S06100933: Moderate
+S06100937: Good
+S06100955: Moderate
+S06100970: 
+S06100985: Moderate
+S06101000: High, Good, Moderate
+S06101130: High
+S06101145: Poor, Moderate, Bad
+S06101160: High
+S06101170: Moderate
+S06101255: Moderate
+S06101660: Moderate
+S06101670: Moderate
+S06103500: Moderate, Poor, Bad
+S06104000: Moderate, Poor
+S06105500: Good, High
+S06105568: Good, High, Moderate
+S06105665: High, Good
+S06106030: Moderate, Good, Poor, High
+S06106100: Moderate, Good
+S06106200: High
+S06106230: Good
+S06106240: High, Good
+S06106250: Good, High
+S06106600: Moderate, Poor
+S06106655: Good
+S06106661: Good
+S06106666: Good
+S06106670: Good
+S06106675: High, Good
+S06106678: Good
+S06106680: Good
+S06106686: Good, High, Moderate
+S06106705: Good
+S06106710: High
+S06106935: High
+S06107760: Moderate, Good
+S06107980: High
+S06108000: High
+S06108500: High
+S06109050: High
+S06110110: Moderate, Poor
+S06110900: High
+S06111555: High
+S06112600: Good, High
+S06113000: Moderate, Good
+S06113245: High
+S06113250: High
+S06113260: High
+S06113265: High
+S06113270: Good, High
+S06113275: High
+S06113285: 
+S06113295: High
+S06113310: High
+S06113320: 
+S06113360: 
+S06113365: Moderate
+S06113370: 
+S06113375: Good
+S06113380: High
+S06114155: High
+S06114295: High, Good
+S06114820: High
+S06114850: High
+S06114870: High
+S06114875: High
+S06115055: High, Moderate, Good
+S06115080: High
+S06116120: Good
+S06116125: Good
+S06116600: High
+S06116610: High
+S06116620: High
+S06116625: High
+S06116630: High
+S06116660: High
+S06116670: High
+S06116700: High
+S06116720: High
+S06117220: High
+S06117230: Good, High
+S06117290: Good, Moderate
+S06117310: Good
+S06117320: Moderate, Good
+S06117360: Moderate, High
+S06117380: Good
+S06117510: Good, High
+S06117520: High
+S06117530: High
+S06117580: High, Moderate
+S06117610: Good
+S06117800: Good, Moderate
+S06117850: Good, Moderate, High
+S06117855: Good
+S06118000: Bad, Good, Moderate
+S06118130: High
+S06118140: High, Good
+S06118240: High, Good
+S06118270: High, Good
+S06118500: High
+S06118600: High, Good
+S06119000: Moderate, Good, Poor, High
+S06119950: High
+S06120000: Good, High
+S06120100: High
+S06120150: High
+S06120300: High
+S06120400: High
+S06120500: 
+S06120560: Good, High
+S06120750: High, Good
+S06121020: Good, Moderate, Poor
+S06121500: Good, Moderate, High
+S06122790: Good, Moderate
+S06123100: 
+S06123500: Moderate, Good
+S06125110: High
+S06125120: High
+S06126600: Moderate, Bad, Poor, Good
+S06127050: High
+S06127080: High
+S06127300: High, Good
+S06127900: Poor, Moderate, Bad
+S06127980: Moderate
+S06128220: Good
+S06128750: Moderate
+S06128860: High, Moderate, Good
+S06129000: Moderate, Good, High
+S06129550: Good, Moderate
+S06129600: Poor
+S06129700: Good, High, Moderate
+S06129900: 
+S06129920: High
+S06129930: Good
+S06129950: Good
+S06129970: High
+S06130500: High, Good
+S06130510: Poor, Good, Moderate
+S06131550: Moderate, Good
+S06131900: Moderate, Good
+S06131930: Moderate
+S06132600: High
+S06132870: High
+S06132900: High
+S06132950: High
+S06132980: High
+S06133000: High
+S06133140: High
+S06133560: High
+S06133730: High
+S06134300: High
+S06135350: High
+S06135520: Good
+S06135600: Good, High
+S06136100: High
+S06137006: High
+S06137014: High
+S06137020: High
+S06137040: High
+S06137048: Good, High
+S06137250: High
+S06138290: High
+S06139080: Good
+S06139360: Good, High
+S06139400: Good, High
+S06139405: High, Good
+S06139500: Bad, Poor, Moderate, Good
+S06139700: Good, Moderate
+S06139730: Moderate
+S06139740: Moderate
+S06139750: Moderate
+S06139840: High
+S06139850: Good, Moderate
+S06139860: Moderate
+S06139870: Moderate
+S06139980: Moderate, Poor
+S06140010: High
+S06141520: High
+S06142550: High
+S06142620: High
+S06142700: High, Moderate, Good
+S06144950: High, Good
+S06146110: High, Moderate
+S06146500: Moderate, High, Good
+S06147130: Moderate, Poor, Good, Bad
+S06147200: Moderate, Poor, Good
+S06147210: High, Moderate, Good
+S06147215: Good, High, Moderate
+S06147220: High, Good
+S06147320: High
+S06147345: High
+S06147525: High, Good
+S06147610: Good
+S06147650: Good, High, Moderate
+S06147655: Poor, Moderate, Good, Bad
+S06147670: Moderate
+S06147840: High
+S06148000: Good
+S06148050: High
+S06148340: High
+S06148355: High
+S06148400: Good, High
+S06148420: Moderate, Good
+S06148430: Moderate
+S06148520: Good, Moderate
+S06148800: Good, High, Moderate
+S06148850: Poor, High, Good, Moderate
+S06149060: Good
+S06149070: 
+S06149120: High
+S06149130: High
+S06149210: High
+S06149220: High
+S06149230: High
+S06149240: Good, High
+S06149250: Good, Moderate
+S06149500: High, Good, Moderate
+S06149830: Moderate
+S06150050: Moderate
+S06150060: High
+S06150070: High
+S06150150: High
+S06150160: High, Good
+S06150170: High
+S06150795: High
+S06150820: Moderate, Good, High
+S06150900: High
+S06151000: High
+S06151050: High
+S06151110: High
+S06152400: High
+S06152700: Moderate, High
+S06152950: High, Good
+S06153050: Moderate
+S06153060: Moderate, Good, Poor
+S06153070: Good, High, Moderate
+S06153150: High
+S06153170: High
+S06153200: High, Good
+S06153500: High
+S06153650: High
+S06153825: High
+S06153900: Good, High
+S06154000: Moderate, Poor, Bad
+S06154250: High
+S06155975: High
+S06156180: High
+S06156230: High
+S06159365: High
+S06159370: High
+S06159375: High
+S06159385: High
+S06159450: Good
+S06159470: 
+S06159550: High, Moderate, Good
+S06159930: High
+S06160500: High
+S06160660: High
+S06160700: High
+S06160720: High, Good
+S06161400: High, Moderate, Good
+S06162350: Good, Moderate
+S06165120: Good
+S06165130: High
+S06165190: 
+S06165700: Good, Poor
+S06166550: High
+S06166722: High
+S06166900: High
+S06166920: High
+S06166940: High
+S06166970: High
+S06166980: High
+S06166990: High, Moderate, Good
+S06167000: High, Good, Moderate
+S06167520: Good
+S06167530: High
+S06167540: High
+S06167550: Good
+S06167560: Moderate
+S06167570: Moderate
+S06167590: Poor
+S06168200: Poor, Good, Moderate
+S06168250: Moderate, Poor
+S06169100: Poor, Moderate
+S06169880: Poor, Good, High
+S06169950: Good
+S06169990: Good, High, Moderate
+S06170000: High, Good, Moderate, Poor
+S06170180: High, Good
+S06172100: Bad, Poor, Moderate
+S06172880: High
+S06172930: High
+S06172940: High
+S06173250: Good, High
+S06173460: High, Good
+S06173480: Good, High
+S06173500: Moderate, Good, High
+S06173510: High
+S06173535: High
+S06173540: High
+S06173545: High
+S06173550: High
+S06173560: High, Good
+S06173563: High, Good
+S06173565: High
+S06173650: Good, High
+S06174560: Good
+S06174950: High, Good
+S06174960: Moderate, Poor
+S06175000: Moderate, Good
+S06175275: High
+S06175280: High, Good
+S06175286: Good
+S06175288: High
+S06175290: High
+S06175295: High, Good
+S06175297: High, Good
+S06175304: High, Good
+S06175308: High
+S06175320: Good, High
+S06175345: 
+S06175355: Good, High
+S06175400: High
+S06175490: High
+S06175500: Good
+S06175515: Bad
+S06175517: High
+S06175540: High, Good
+S06175587: High
+S06175600: High
+S06175645: High, Good, Moderate
+S06175650: High
+S06175665: High
+S06175680: Good, High
+S06175685: Good, High
+S06175750: High
+S06175820: High
+S06175840: Moderate, Good, High
+S06176000: High, Poor, Moderate, Good
+S06176060: High
+S06176080: High
+S06176120: High
+S06176130: High, Moderate
+S06176140: Good, High
+S06176180: Good
+S06176260: Good
+S06176620: Good, High
+S06176670: Good, Moderate
+S06176680: Good, Moderate
+S06176950: High
+S06177000: Good, High, Moderate
+S06177110: High, Good
+S06177445: High
+S06177500: Moderate, High, Good
+S06177650: Good, Moderate
+S06177750: Good, Moderate
+S06177755: Good, Moderate
+S06177760: Moderate
+S06177906: Good, Moderate
+S06177949: Moderate, Good
+S06177956: Moderate, Good, Poor
+S06177965: Moderate
+S06177970: Moderate, Good, High
+S06177972: Moderate
+S06177980: Moderate, Good, Poor
+S06177988: Good, Moderate
+S06178000: Moderate, High, Poor, Good
+S06178001: High
+S06178006: High, Good
+S06178007: High, Good
+S06178010: Good
+S06178011: Moderate, Good, High, Poor
+S06178014: Moderate, Good, Poor
+S06178015: Poor
+S06178016: Poor
+S06178017: Moderate
+S06178018: Moderate
+S06178019: Moderate
+S06178025: Good, High
+S06178033: Moderate
+S06178035: High, Moderate
+S06178037: Poor, Moderate
+S06178042: Moderate
+S06178043: Good
+S06178046: Moderate
+S06178050: Good, Moderate
+S06178054: Moderate
+S06178055: High
+S06178056: Good, Moderate
+S06178057: Good, Moderate
+S06178065: Good, Poor
+S06178070: 
+S06178300: Moderate
+S06178350: Good, Moderate
+S06178410: Moderate, Good
+S06178420: High
+S06178500: Moderate
+S06178800: High
+S06178865: High
+S06178885: Moderate
+S06178935: High
+S06178940: Good, High
+S06178990: Moderate
+S06179000: Good, High, Moderate
+S06179155: 
+S06179200: Good, Moderate, Poor
+S06179230: Good
+S06179300: Good
+S06179410: Good, Moderate
+S06179490: High
+S06179500: Good, Moderate, Poor
+S06179505: Moderate, Poor
+S06179550: Moderate, Good
+S06179615: High
+S06179640: High
+S06179652: Moderate
+S06179665: High, Good
+S06179670: High
+S06179700: Good, Moderate, High
+S06179800: High
+S06179852: High, Moderate
+S06179853: Moderate, Good
+S06179925: Moderate
+S06179999: High
+S06180000: Poor, Moderate, Good
+S06180100: Moderate
+S06180500: Moderate, Poor, Good
+S06180550: Bad, Poor, Moderate, Good, High
+S06180750: Good, Moderate, High
+S06180800: 
+S06180850: Moderate, Good, Poor, High
+S06180860: Moderate, Good
+S06180880: Good, High
+S06180900: Moderate, Poor
+S06180925: Moderate
+S06181150: Bad, Poor, Moderate, Good
+S06181210: High, Moderate, Good
+S06181750: Good
+S06181800: High
+S06181850: High
+S06181945: High
+S06181950: 
+S06181960: High
+S06181980: High
+S06181990: Good
+S06182000: 
+S06182020: High, Good
+S06182030: High, Good
+S06182050: High, Good
+S06182062: High, Good
+S06182120: High
+S06182300: Good, High
+S06182460: High, Good
+S06182600: Moderate
+S06183750: High, Good
+S06183800: Good, Moderate, High
+S06183840: Good
+S06183850: Moderate, Poor
+S06183900: High, Good
+S06184510: High
+S06184620: High
+S06184630: High
+S06185500: High, Good, Poor, Moderate
+S06185600: High
+S06186000: High
+S06187100: High, Good, Moderate
+S06187330: Moderate
+S06187450: Bad
+S06187895: High
+S06187896: Moderate
+S06188740: Moderate, Poor, Good
+S06188750: Good
+S06188770: Good
+S06188785: Good, High
+S06188790: Good
+S06188791: Good
+S06188800: Good
+S06188870: Poor
+S06188895: Moderate
+S06188900: Poor, Moderate, Good
+S06188910: Moderate
+S06188920: High, Good, Moderate
+S06188925: Moderate
+S06189500: Moderate, Good
+S06189610: Moderate, Good
+S06189613: Good
+S06189660: Poor
+S06189661: Good
+S06189675: Moderate, High, Good, Poor
+S06189678: Good, Moderate, Poor
+S06190020: 
+S06190030: Good
+S06190035: High
+S06190040: 
+S06190045: 
+S06190070: Moderate, Poor
+S06190100: Good
+S06190111: High
+S06190115: Good
+S06190700: Moderate, Good, High
+S06190900: Moderate, Good, Poor
+S06192980: Good
+S06192985: 
+S06192990: Good
+S06193250: Moderate, Poor, Good
+S06193500: Moderate, Poor
+S06193660: Moderate
+S06193700: Moderate, Poor, Bad
+S06194000: Moderate, Poor, Good
+S06194800: Bad, Good, Moderate
+S06195000: Moderate, Poor, Good
+S06195110: Moderate, Good
+S06195180: Moderate, Good
+S06195230: Good
+S06195270: Good
+S06195330: Moderate, Good, Poor, Bad
+S06195500: Moderate, Poor, Good
+S06195820: Good, Moderate
+S06196185: 
+S06196187: High
+S06196340: Moderate
+S06196500: Moderate, Good, High
+S06196948: Good, Moderate
+S06198501: High
+S06198503: 
+S06198507: Good
+S06198509: Moderate, Good
+S06198550: High
+S06200200: Moderate, Poor
+S06200700: High, Good, Moderate
+S06202150: Good
+S06202750: Good, High
+S06202860: Moderate, Good
+S06204000: Good, Poor
+S06204550: Good, High
+S06205060: Good, High
+S06205415: Good
+S06205435: Moderate, Good, Poor
+S06205480: Good, Moderate, Poor
+S06205955: Good, High
+S06205960: Moderate, Poor
+S06206000: Moderate, Good, High, Poor
+S06207700: Moderate
+S06208900: Poor, Moderate, Bad
+S06209920: Poor
+S06209930: Good
+S06209945: Good
+S06209950: Moderate
+S06209960: Good
+S06209965: Poor, Moderate, Bad
+S06209970: Good, Bad, Moderate, Poor
+S06209990: Good
+S06210500: High
+S06210640: Good
+S06210730: High
+S06210740: High
+S06210790: Moderate
+S06210820: Good
+S06210850: Good, High, Moderate
+S06211620: High
+S06211700: High, Good
+S06211790: Moderate
+S06212100: High, Moderate
+S06212200: High, Good
+S06212400: High
+S06212500: High
+S06212600: High
+S06213290: Moderate
+S06213310: Good, Moderate
+S06213370: Moderate, Good
+S06213400: Good, High, Moderate
+S06213480: Moderate
+S06213500: High
+S06213590: 
+S06213610: Moderate
+S06215000: High, Good
+S06215790: High, Good
+S06215800: High
+S06215850: High
+S06215900: High
+S06216100: Good, Moderate, High
+S06216160: Poor, Moderate, Bad
+S06216300: Good
+S06216600: High
+S06216800: High
+S06217000: High, Poor, Good
+S06217465: High
+S06217470: High, Moderate, Good
+S06217490: High, Good
+S06217500: High, Good
+S06217910: High
+S06219000: High
+S06219590: High
+S06222100: High, Good
+S06222195: High
+S06222285: Moderate, High, Poor, Good
+S06222370: Moderate, Poor, Good
+S06222380: Moderate, Good
+S06222390: Bad, Poor, Moderate
+S06222410: Moderate, Good
+S06222600: High
+S06230510: Poor
+S06250250: Moderate, Good
+S06250270: Moderate, Poor, Good, High
+S06250280: High
+S06262450: Good, Moderate, High, Poor
+S06300005: Moderate, Good
+S06300010: High
+S06300046: High
+S06300051: High
+S06300053: High, Poor
+S06300056: Good, Moderate
+S06300072: Moderate, Good
+S06300073: Good, High, Moderate
+S06300113: Good, Moderate
+S06300121: Moderate, Good, High
+S06300150: High, Good
+S06300250: Good, Moderate, Poor
+S06300300: Moderate, Good, Poor
+S06300600: High
+S06300620: Moderate, Poor
+S06310200: Poor, Moderate, Good, Bad
+S06310220: Poor
+S06310225: Moderate
+S06320220: Poor, Bad
+S06330110: 
+S06330240: High
+S06341230: High, Moderate
+S06341240: Moderate, Good
+S06341260: High
+S06341300: High
+S06341340: High, Good
+S06341385: High
+S06341410: High
+S06341420: High
+S06341450: High
+S06341460: High
+S06341470: Good
+S06341490: High, Good
+S06341510: Good
+S06341550: High
+S06341580: Good
+S06341590: High
+S06341610: Moderate
+S06341630: Moderate
+S06342100: High
+S06400012: Good, High
+S06400085: High
+S06404500: Good, Moderate
+S06404800: Moderate, Poor
+S06405950: Good, High, Moderate
+S06406400: High
+S06407130: Moderate
+S06407140: Moderate
+S06407150: 
+S06407200: Moderate
+S06407210: Poor
+S06409950: Good
+S06410400: High
+S06410450: Good, High
+S06411350: Moderate, Good
+S06411400: Good, Moderate
+S06412200: Good, Moderate
+S06413240: Good, High
+S06413450: Good, Moderate
+S06416300: Good, Moderate
+S06416450: Moderate, Poor
+S06416550: Moderate, Good
+S06416910: Good
+S06425800: High, Moderate, Good, Poor
+S06426000: Moderate, Good, High
+S06428800: Good, Moderate, High
+S06429845: Good, High
+S06433920: High, Moderate, Good, Poor
+S06435450: High, Good, Moderate
+S06436900: Moderate, Good
+S06437950: Good
+S06438560: Moderate
+S06438570: Good
+S06438600: 
+S06438710: High
+S06438800: Moderate
+S06438900: Moderate, Good
+S06439460: Moderate, Good
+S06439900: Moderate
+S06440215: Moderate
+S06440250: Moderate, Good, High
+S06440370: High, Good
+S06440445: Moderate, Good
+S06440750: Good, High
+S06440770: Good, Moderate
+S06440950: Good
+S06446330: High, Good
+S06446401: Moderate
+S06446600: Moderate, Good
+S06448560: High
+S06448950: Good
+S06449435: High
+S06450600: High
+S06451100: Moderate
+S06451450: High
+S06453450: High
+S06453950: Poor
+S06455050: Poor, Bad, Moderate
+S06455100: Moderate
+S06455130: High, Good
+S06455150: High, Good
+S06455460: Moderate
+S06455480: Good
+S06455490: Good
+S06455530: Moderate, Good
+S06455540: Moderate, Poor
+S06455610: High
+S06455620: High, Moderate
+S06455640: High, Good
+S06455660: High, Good
+S06455700: Good, Moderate
+S06455950: Good, Moderate
+S06456100: Good
+S06456450: Moderate, Good
+S06456610: Moderate, Poor
+S06456620: Good, Moderate
+S06456700: Moderate, Good
+S06457310: Moderate
+S06457440: Moderate
+S06458050: 
+S06458180: Moderate
+S06458300: Good
+S06458450: Moderate, Poor, Good
+S06459990: Good, Moderate
+S06460650: Poor, Moderate
+S06460850: Good, Moderate
+S06460950: Moderate, Good
+S06462100: 
+S06462300: 
+S06462450: Good
+S06462700: High, Good
+S06462931: High
+S06462950: High
+S06463600: High
+S06463810: High
+S06463970: Moderate
+S06464775: Moderate, Good, High
+S06464800: Moderate, Good, Poor
+S06464850: Good, High, Moderate
+S06465160: Good, Moderate
+S06465180: High
+S06466250: High, Good
+S06466525: High, Good
+S06466950: High
+S06467700: High
+S06468000: High, Good, Moderate
+S06468450: Moderate, Good
+S06469000: Moderate, High
+S06470005: 
+S06470010: Moderate
+S06470015: Good, Moderate
+S06470900: Moderate
+S06471450: Moderate, Good, Bad
+S06474920: Moderate, Poor, Good
+S06477360: Good
+S06486110: High
+S06491170: High
+S06491555: Moderate, Poor
+S06491650: Moderate, Good
+S06491950: Good, High
+S06492100: Moderate
+S06494200: Good
+S06494595: Moderate, Good, High
+S06495550: High
+S06495750: High
+S06495950: Good, Moderate
+S06540210: Good, Moderate
+S06540220: Good, Moderate
+S06570215: Poor
+S06570220: Good
+S06579000: High, Moderate, Good
+S06580001: Good, High
+S06580019: High
+S06580030: Moderate
+S06580040: High
+S06580075: Good, Moderate
+S06580080: Good, Moderate
+S06580130: High, Moderate, Good
+S06580150: Moderate
+S06580170: Moderate, Good, Poor
+S06580171: Bad, Moderate, Good
+S06580178: Poor, Moderate, High, Good
+S06580184: High, Good, Moderate
+S06580206: Good
+S06580274: High, Moderate, Good
+S06580300: High
+S06580313: High
+S06580318: Good
+S06580322: Good
+S06580333: Good, High
+S06580340: Good
+S06580341: Bad, Moderate, Good, High
+S06580344: Good, High
+S06580345: High
+S06580347: 
+S06580349: Moderate
+S06580353: 
+S06580356: Moderate
+S06580357: Good
+S06580358: 
+S06580362: Good, High
+S06580391: Poor, High, Good, Moderate
+S06580401: High
+S06580406: Moderate
+S06580418: High
+S06580421: Moderate
+S06580433: High
+S06580446: High
+S06580447: High
+S06580449: High
+S06580450: High
+S06580451: High
+S06580458: Good
+S06580460: Good
+S06580462: Good
+S06580477: Moderate
+S06580488: Moderate
+S06580489: Moderate
+S06580490: Moderate
+S06580491: Moderate, Good
+S06580493: Moderate
+S06580498: High
+S06580502: Moderate, Poor
+S06580506: Moderate, Good
+S06580531: Moderate
+S06580533: High, Good, Moderate
+S06580535: Good, High
+S06580572: Moderate
+S06580574: Poor, Moderate
+S06580576: Moderate
+S06580577: Moderate
+S06580580: High, Good
+S06580582: Moderate, Good, High
+S06580583: Moderate, Good
+S06580601: Moderate, Good, Poor
+S06580616: High, Good
+S06580619: Moderate
+S06580640: Moderate, Poor
+S06580653: High, Good
+S06580662: Moderate
+S06580713: High
+S06580744: High
+S06580745: High
+S06580749: High
+S06580789: Moderate
+S06580798: Bad, Poor
+S06580803: Moderate, Poor
+S06580812: Moderate, Good, High
+S06580816: High, Moderate, Good
+S06580819: Moderate, Good
+S06580839: High
+S06580863: Moderate
+S06580869: Good
+S06580871: Good, Moderate
+S06580890: High, Good, Moderate
+S06580948: Moderate
+S06580960: High
+S06580965: 
+S06580980: Moderate, Good, Poor
+S06581665: Good, Poor, Moderate
+S06581920: Moderate
+S06582364: Good, High
+S06583656: Good, Moderate
+S06583855: High, Good
+S06590210: 
+S06590220: High
+S06590240: Good
+S06590250: Good
+S06590550: Good, High
+S06590600: High, Good
+S06590850: High, Good
+S06590880: Moderate, Good
+S06590890: Good, Moderate
+S06592020: High
+S06594800: High
+S06600021: Moderate
+S06620810: High
+S06700007: 
+S06700010: Moderate
+S06700020: 
+S06700040: High
+S06700070: High, Moderate, Good
+S06700075: High
+S06700092: High
+S06700094: 
+S06700148: Moderate
+S06700260: High
+S06700280: High, Good
+S06700590: 
+S06709450: Moderate, Good
+S06710003: High
+S06710010: High
+S06710014: 
+S06710020: High, Good
+S06710029: High
+S06710030: High
+S06710036: Good, Moderate
+S06710038: Good, Moderate
+S06710039: High
+S06710040: Moderate, Good
+S06710046: High
+S06710089: Good
+S06710090: High
+S06710100: High, Good, Moderate
+S06710110: Good, High, Moderate
+S06710200: Moderate, Poor
+S06710410: Moderate
+S06710425: Good
+S06710815: Good
+S06710820: High
+S06800017: Moderate
+S06800025: Moderate, High
+S06820039: Good
+S06820043: Good, Moderate, High
+S06820049: Moderate
+S06820072: Good
+S06820073: Moderate, Good, High
+S06820074: Moderate
+S06820075: Moderate
+S06820077: High
+S06820078: High
+S06820079: High
+S06820083: 
+S06820086: Moderate
+S06820087: Moderate
+S06820089: High
+S06820118: High
+S06820126: Good
+S06820138: High, Good
+S06820139: Poor, Bad
+S06820141: Poor
+S06820144: Moderate
+S06820145: Poor, Moderate
+S06820156: Moderate
+S06820164: High, Good
+S06820185: High
+S06820192: Good
+S06820240: High, Good, Moderate
+S06820303: Moderate, Poor, Good
+S06820316: Moderate
+S06820350: Moderate, Poor
+S06820850: Poor, Moderate, Bad
+S06821350: Poor
+S06821370: Moderate
+S06830001: Moderate
+S06830071: Moderate, Poor
+S06830079: High
+S06830082: Good
+S06830089: Poor
+S06830091: Moderate
+S06830110: 
+S06830119: Good, High
+S06830121: Good
+S06830122: Moderate, High
+S06830129: Good
+S06830133: Poor, Moderate
+S06830139: High
+S06830142: 
+S06830152: Moderate, Good, High
+S06830155: Good
+S06830156: Good
+S06830157: Good
+S06830171: Good, High
+S06830180: High, Good
+S06830193: Good
+S06830194: Moderate, Good
+S06830201: Moderate, Poor
+S06830216: Moderate
+S06830217: Good, High
+S06830225: Moderate
+S06830227: Good, Moderate
+S06830232: High
+S06830236: Good
+S06830239: 
+S06830241: Moderate
+S06830246: Good, Moderate
+S06830550: Moderate, Poor, Bad
+S06830800: Moderate, Poor, Good
+S06840225: High
+S06840530: High
+S06840540: Good
+S06840550: Good
+S06840560: Poor
+S06840570: High
+S06840580: Moderate
+S06840590: Moderate
+S06840600: Moderate
+S06850100: Moderate, Poor
+S06850166: High, Good, Moderate
+S06925410: Good
+S06931250: Moderate, Good
+S06940013: High
+S06940019: Moderate
+S06940040: High, Moderate, Good
+S06940940: Moderate, Poor, Good
+S06960950: High
+S06970900: High, Good
+S06998000: Good, High
+S06999108: High, Good
+S06999109: Good, High
+S06999131: High
+S06999132: Good, High
+S06999133: High
+S06999134: High, Good
+S06999141: Moderate
+S06999179: High
+S06999180: High
+S06999189: Moderate
