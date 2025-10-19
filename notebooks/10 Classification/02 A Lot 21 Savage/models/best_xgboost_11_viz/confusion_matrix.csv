@@ -1,5 +1,0 @@
-,pred_Good,pred_High,pred_Moderate,pred_Poor
-true_Good,560,34,18,0
-true_High,59,294,1,0
-true_Moderate,79,2,82,2
-true_Poor,1,0,9,0

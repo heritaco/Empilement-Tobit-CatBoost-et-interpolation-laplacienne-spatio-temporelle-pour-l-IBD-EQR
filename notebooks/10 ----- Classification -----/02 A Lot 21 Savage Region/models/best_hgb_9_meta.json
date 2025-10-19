@@ -1,0 +1,26 @@
+{
+  "region": "9",
+  "best_name": "HGB",
+  "paths": {
+    "calibrated": "models\\best_hgb_9.joblib",
+    "uncalibrated": "models\\best_hgb_9_uncal.joblib",
+    "label_encoder": "models\\best_hgb_9_label_encoder.joblib",
+    "meta": "models\\best_hgb_9_meta.json"
+  },
+  "scores": {
+    "best_cv_score_acc": 0.8772979223631905,
+    "oof_acc": 0.8772985989492119,
+    "oof_f1_macro": 0.6195688870453933
+  },
+  "classes": [
+    "Bad",
+    "Good",
+    "High",
+    "Moderate",
+    "Poor"
+  ],
+  "n_train": 9136,
+  "n_infer": 1118,
+  "saved_at": "2025-10-14T16:21:15",
+  "target_column": "IBD_EQR_Status"
+}

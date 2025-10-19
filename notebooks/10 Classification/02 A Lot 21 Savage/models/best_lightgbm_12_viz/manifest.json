@@ -1,9 +1,0 @@
-{
-  "region": "12",
-  "best_name": "LightGBM",
-  "report_dir": "models\\best_lightgbm_12_viz",
-  "n_train": 4188,
-  "n_infer": 489,
-  "oof_acc": 0.8404966571155683,
-  "oof_f1_macro": 0.6577136952747752
-}

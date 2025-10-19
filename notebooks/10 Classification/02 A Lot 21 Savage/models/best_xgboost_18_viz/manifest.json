@@ -1,9 +1,0 @@
-{
-  "region": "18",
-  "best_name": "XGBoost",
-  "report_dir": "models\\best_xgboost_18_viz",
-  "n_train": 977,
-  "n_infer": 187,
-  "oof_acc": 0.8178096212896623,
-  "oof_f1_macro": 0.5265143775669159
-}

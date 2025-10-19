@@ -1,0 +1,1 @@
+Era el algoritmo que le fue super bien. Parecia que era el mas rapido. Iba a hacer mis prónosticos con este pero es mejor implementacion la idea pasada. Tarda mas, pero lo voy a correr en las compus de la escuela.

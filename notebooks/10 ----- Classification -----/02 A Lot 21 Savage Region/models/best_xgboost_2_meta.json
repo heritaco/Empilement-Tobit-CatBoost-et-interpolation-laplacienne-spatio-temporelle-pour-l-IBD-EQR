@@ -1,0 +1,26 @@
+{
+  "region": "2",
+  "best_name": "XGBoost",
+  "paths": {
+    "calibrated": "models\\best_xgboost_2.joblib",
+    "uncalibrated": "models\\best_xgboost_2_uncal.joblib",
+    "label_encoder": "models\\best_xgboost_2_label_encoder.joblib",
+    "meta": "models\\best_xgboost_2_meta.json"
+  },
+  "scores": {
+    "best_cv_score_acc": 0.9285714285714286,
+    "oof_acc": 1.0,
+    "oof_f1_macro": 1.0
+  },
+  "classes": [
+    "Bad",
+    "Good",
+    "High",
+    "Moderate",
+    "Poor"
+  ],
+  "n_train": 308,
+  "n_infer": 44,
+  "saved_at": "2025-10-14T16:51:36",
+  "target_column": "IBD_EQR_Status"
+}
