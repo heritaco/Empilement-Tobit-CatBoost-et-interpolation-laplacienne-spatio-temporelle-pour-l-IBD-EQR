@@ -1,0 +1,26 @@
+Group,IBD_EQR_Status,IBD_min,IBD_max,IBD_mid
+Group 1,Bad,0.0,5.95,5.2
+Group 1,Poor,5.95,10.05,8.0
+Group 1,Moderate,10.05,13.75,11.899999999999999
+Group 1,Good,13.75,16.45,15.1
+Group 1,High,16.45,21.0,18.25
+Group 2,Bad,0.0,9.45,6.75
+Group 2,Poor,9.45,13.25,11.399999999999999
+Group 2,Moderate,13.25,16.75,15.0
+Group 2,Good,16.75,19.05,17.9
+Group 2,High,19.05,21.0,19.55
+Group 3,Bad,0.0,6.15,3.55
+Group 3,Poor,6.15,10.45,8.3
+Group 3,Moderate,10.45,14.35,12.4
+Group 3,Good,14.35,17.05,15.7
+Group 3,High,17.05,21.0,18.55
+Group 4,Bad,0.0,9.25,6.8
+Group 4,Poor,9.25,12.75,11.0
+Group 4,Moderate,12.75,15.95,14.350000000000001
+Group 4,Good,15.95,18.15,17.05
+Group 4,High,18.15,21.0,19.1
+Group 5,Bad,0.0,9.05,5.95
+Group 5,Poor,9.05,12.35,10.7
+Group 5,Moderate,12.35,15.45,13.9
+Group 5,Good,15.45,17.55,16.5
+Group 5,High,17.55,21.0,18.8
