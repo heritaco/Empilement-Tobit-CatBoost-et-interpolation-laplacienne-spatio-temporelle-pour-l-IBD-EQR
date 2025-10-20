@@ -190,7 +190,8 @@ def get_results2(
         out_status_col=out_status_col,
     )
     send = yhat2[["SamplingOperations_code", out_status_col]].rename(columns={out_status_col: status_col}).set_index("SamplingOperations_code")
-
+    # rename the column to IBD_EQR_Status
+    send = send.rename(columns={out_status_col: "IBD_EQR_Status"})
     send.to_csv(output_file, index=True)
     print(f"Saved predictions to {output_file}")
     return send
