@@ -1,0 +1,26 @@
+{
+  "region": "14",
+  "best_name": "LightGBM",
+  "paths": {
+    "calibrated": "models\\best_lightgbm_14.joblib",
+    "uncalibrated": "models\\best_lightgbm_14_uncal.joblib",
+    "label_encoder": "models\\best_lightgbm_14_label_encoder.joblib",
+    "meta": "models\\best_lightgbm_14_meta.json"
+  },
+  "scores": {
+    "best_cv_score_acc": 0.848466828834025,
+    "oof_acc": 0.8484673221515326,
+    "oof_f1_macro": 0.6214643920690042
+  },
+  "classes": [
+    "Bad",
+    "Good",
+    "High",
+    "Moderate",
+    "Poor"
+  ],
+  "n_train": 6916,
+  "n_infer": 826,
+  "saved_at": "2025-10-14T16:21:23",
+  "target_column": "IBD_EQR_Status"
+}

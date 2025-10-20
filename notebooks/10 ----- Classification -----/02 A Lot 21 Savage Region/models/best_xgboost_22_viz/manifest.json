@@ -1,0 +1,9 @@
+{
+  "region": "22",
+  "best_name": "XGBoost",
+  "report_dir": "models\\best_xgboost_22_viz",
+  "n_train": 120,
+  "n_infer": 32,
+  "oof_acc": 0.725,
+  "oof_f1_macro": 0.5429358263096127
+}

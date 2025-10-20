@@ -1,6 +1,0 @@
-{
-  "oof_acc": 1.0,
-  "oof_f1_macro": 1.0,
-  "n_train": 440,
-  "n_infer": 60
-}
