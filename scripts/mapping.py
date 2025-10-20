@@ -169,7 +169,8 @@ def get_results2(
     max_col: str = "IBD_max",
     out_status_col: str = "IBD_EQR_Status_Predicted",
     output_file: str = "IBD_EQR_Status_predictions.csv",
-    index: bool = True
+    index: bool = True,
+    fast: bool = True,
 ) -> pd.DataFrame:
     """
     Produce status predictions and write CSV. Column names are parameters.
@@ -177,6 +178,7 @@ def get_results2(
     dftest = pd.read_parquet("data/processed/taxones_pressure_predict.parquet")
     dfgroups = assign_group(dftest).copy()
     yhat = yhat.merge(dfgroups[["SamplingOperations_code", "Group"]], how="left", left_on="SamplingOperations_code", right_on="SamplingOperations_code")
+
     dfgroups = None
     yhat2 = to_status(
         yhat, ranges,
@@ -187,7 +189,8 @@ def get_results2(
         max_col=max_col,
         out_status_col=out_status_col,
     )
-    send = yhat2[[out_status_col]].rename(columns={out_status_col: status_col})
-    send.to_csv(output_file, index=index)
+    send = yhat2[["SamplingOperations_code", out_status_col]].rename(columns={out_status_col: status_col}).set_index("SamplingOperations_code")
+
+    send.to_csv(output_file, index=True)
     print(f"Saved predictions to {output_file}")
     return send
