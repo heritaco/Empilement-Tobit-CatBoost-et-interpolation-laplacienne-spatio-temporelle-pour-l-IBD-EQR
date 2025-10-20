@@ -414,4 +414,12 @@ def IWANTMYXCLEAN(
     quasiconstants = quasiconstants.rename("QuasiConstant_Numeric")
     X = pd.concat([X, quasiconstants], axis=1)
 
+    # add 	SamplingOperations_code	CodeSite_SamplingOperations_x	Date_SamplingOperation	TotalAbundance_SamplingOperation
+    X["SamplingOperations_code"] = COMPLETE_X["SamplingOperations_code"]
+    X["CodeSite_SamplingOperations_x"] = COMPLETE_X["CodeSite_SamplingOperations_x"]
+    X["Date_SamplingOperation"] = COMPLETE_X["Date_SamplingOperation"]
+    X["TotalAbundance_SamplingOperation"] = COMPLETE_X["TotalAbundance_SamplingOperation"]
+
+    X = X.set_index("SamplingOperations_code")
+    
     return X
