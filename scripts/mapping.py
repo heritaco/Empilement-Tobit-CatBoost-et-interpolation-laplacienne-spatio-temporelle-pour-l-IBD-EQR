@@ -2,6 +2,27 @@ import pandas as pd
 from typing import Optional
 import numpy as np
 
+def assign_group(df):
+    """
+    Requires a df with a column "HERlvl1Name".
+    Adds a "Group" column based on predefined region groups.
+    """
+    import numpy as np
+    df = df.copy()
+    group1 = ["ARMORICAIN", "ARDENNES", "DEPRESSIONS SEDIMENTAIRES"]
+    group2 = ["ALPES INTERNES", "PYRENEES", "PREALPES DU SUD", "JURA-PREALPES DU NORD"]
+    group3 = ["MEDITERRANEEN", "COTES CALCAIRES EST", "TABLES CALCAIRES", "ALSACE", "COTEAUX AQUITAINS", "CAUSSES AQUITAINS", "DEPOTS ARGILO SABLEUX", "GRANDS CAUSSES"]
+    group4 = ["MASSIF CENTRAL NORD", "VOSGES", "PLAINE SAONE", "MASSIF CENTRAL SUD", "CEVENNES", "CORSE"]
+    group5 = ['LANDES']
+
+    df["Group"] = df.apply(lambda row: 'Group 1' if row["HERlvl1Name"] in group1 else np.nan, axis=1)
+    df["Group"] = df.apply(lambda row: 'Group 2' if row["HERlvl1Name"] in group2 else row["Group"], axis=1)
+    df["Group"] = df.apply(lambda row: 'Group 3' if row["HERlvl1Name"] in group3 else row["Group"], axis=1)
+    df["Group"] = df.apply(lambda row: 'Group 4' if row["HERlvl1Name"] in group4 else row["Group"], axis=1)
+    df["Group"] = df.apply(lambda row: 'Group 5' if row["HERlvl1Name"] in group5 else row["Group"], axis=1)
+    print("Assigned groups based on HERlvl1Name.")
+    return df
+
 def add_tol_to_ranges(
     ranges: pd.DataFrame | str,
     *,
@@ -40,6 +61,9 @@ def get_ranges(
         max_col='IBD_max',
         tol = tol
     )
+
+def get_ranges2():
+    return pd.read_csv("data/processed/IBD_EQR_Status_ranges_by_GROUP_Continuous.csv")
 
 
 def to_status(
@@ -120,6 +144,40 @@ def get_results(
     """
     Produce status predictions and write CSV. Column names are parameters.
     """
+    yhat2 = to_status(
+        yhat, ranges,
+        pred_col=pred_col,
+        region_col=region_col,
+        status_col=status_col,
+        min_col=min_col,
+        max_col=max_col,
+        out_status_col=out_status_col,
+    )
+    send = yhat2[[out_status_col]].rename(columns={out_status_col: status_col})
+    send.to_csv(output_file, index=index)
+    print(f"Saved predictions to {output_file}")
+    return send
+
+def get_results2(
+    yhat: pd.DataFrame,
+    ranges: pd.DataFrame,
+    *,
+    pred_col: str,
+    region_col: Optional[str] = "Group",
+    status_col: str = "IBD_EQR_Status",
+    min_col: str = "IBD_min",
+    max_col: str = "IBD_max",
+    out_status_col: str = "IBD_EQR_Status_Predicted",
+    output_file: str = "IBD_EQR_Status_predictions.csv",
+    index: bool = True
+) -> pd.DataFrame:
+    """
+    Produce status predictions and write CSV. Column names are parameters.
+    """
+    dftest = pd.read_parquet("data/processed/taxones_pressure_predict.parquet")
+    dfgroups = assign_group(dftest).copy()
+    yhat = yhat.merge(dfgroups[["SamplingOperations_code", "Group"]], how="left", left_on="SamplingOperations_code", right_on="SamplingOperations_code")
+    dfgroups = None
     yhat2 = to_status(
         yhat, ranges,
         pred_col=pred_col,
