@@ -1,3 +1,2 @@
-
-# large data
-.parquet
+# just ignore this data/processed/taxones_pressure_epm_interpolated_customalpha_mnone_k32_kernelgauss_epsnone.parquet
+data/processed/taxones_pressure_epm_interpolated_customalpha_mnone_k32_kernelgauss_epsnone.parquet
