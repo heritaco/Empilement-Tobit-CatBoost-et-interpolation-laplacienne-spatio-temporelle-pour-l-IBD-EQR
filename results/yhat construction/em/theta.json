@@ -7,88 +7,517 @@
     "Poor"
   ],
   "pi": {
-    "High": 0.2258295387932975,
-    "Good": 0.38593748586885873,
-    "Moderate": 0.30109053243639283,
-    "Bad": 0.02721962758136121,
-    "Poor": 0.0599228153200897
+    "High": 0.1985507314530234,
+    "Good": 0.3448799547498851,
+    "Moderate": 0.29725472613657733,
+    "Bad": 0.10070182803836776,
+    "Poor": 0.05861275962214644
   },
   "predictors": {
-    "Yhat_EM.csv": {
+    "BC_acc=0.820462.csv": {
       "theta": {
         "true:High": {
-          "obs:High": 0.927802,
-          "obs:Good": 0.045288,
-          "obs:Moderate": 0.025259,
+          "obs:High": 0.969797,
+          "obs:Good": 0.029037,
+          "obs:Moderate": 0.001167,
           "obs:Bad": 0.0,
-          "obs:Poor": 0.001652
+          "obs:Poor": 0.0
         },
         "true:Good": {
-          "obs:High": 0.006279,
-          "obs:Good": 0.988395,
-          "obs:Moderate": 0.005325,
+          "obs:High": 0.007717,
+          "obs:Good": 0.901245,
+          "obs:Moderate": 0.090466,
           "obs:Bad": 0.0,
-          "obs:Poor": 1e-06
+          "obs:Poor": 0.000572
         },
         "true:Moderate": {
-          "obs:High": 0.000559,
-          "obs:Good": 0.071843,
-          "obs:Moderate": 0.927549,
+          "obs:High": 0.003168,
+          "obs:Good": 0.034577,
+          "obs:Moderate": 0.94869,
           "obs:Bad": 0.0,
-          "obs:Poor": 4.9e-05
+          "obs:Poor": 0.013565
         },
         "true:Bad": {
-          "obs:High": 0.113527,
-          "obs:Good": 0.483915,
-          "obs:Moderate": 0.302462,
-          "obs:Bad": 0.096673,
-          "obs:Poor": 0.003423
+          "obs:High": 0.324692,
+          "obs:Good": 0.627709,
+          "obs:Moderate": 0.040842,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.006757
         },
         "true:Poor": {
-          "obs:High": 0.047986,
-          "obs:Good": 0.081897,
-          "obs:Moderate": 0.238388,
-          "obs:Bad": 0.00029,
-          "obs:Poor": 0.63144
+          "obs:High": 0.0,
+          "obs:Good": 0.003007,
+          "obs:Moderate": 0.390842,
+          "obs:Bad": 0.030127,
+          "obs:Poor": 0.576023
         }
       }
     },
-    "Yhat_IntegerProgramming.csv": {
+    "CBCr_acc=0.833695.csv": {
       "theta": {
         "true:High": {
-          "obs:High": 0.946576,
-          "obs:Good": 0.040057,
-          "obs:Moderate": 0.002544,
-          "obs:Bad": 0.007816,
-          "obs:Poor": 0.003007
+          "obs:High": 0.976417,
+          "obs:Good": 0.023583,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
         },
         "true:Good": {
-          "obs:High": 0.005938,
-          "obs:Good": 0.958993,
-          "obs:Moderate": 0.033959,
-          "obs:Bad": 0.000965,
-          "obs:Poor": 0.000145
+          "obs:High": 0.00319,
+          "obs:Good": 0.907417,
+          "obs:Moderate": 0.089393,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
         },
         "true:Moderate": {
-          "obs:High": 0.008586,
-          "obs:Good": 0.012689,
-          "obs:Moderate": 0.958899,
-          "obs:Bad": 0.005155,
-          "obs:Poor": 0.014672
+          "obs:High": 0.003487,
+          "obs:Good": 0.044294,
+          "obs:Moderate": 0.941144,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.011075
         },
         "true:Bad": {
-          "obs:High": 0.0,
-          "obs:Good": 0.0,
-          "obs:Moderate": 0.0,
-          "obs:Bad": 0.87801,
-          "obs:Poor": 0.12199
+          "obs:High": 0.292882,
+          "obs:Good": 0.655282,
+          "obs:Moderate": 0.048382,
+          "obs:Bad": 0.001754,
+          "obs:Poor": 0.001701
         },
         "true:Poor": {
-          "obs:High": 0.046662,
-          "obs:Good": 0.018259,
-          "obs:Moderate": 0.036929,
-          "obs:Bad": 0.08182,
-          "obs:Poor": 0.81633
+          "obs:High": 0.0,
+          "obs:Good": 0.006009,
+          "obs:Moderate": 0.333034,
+          "obs:Bad": 0.039166,
+          "obs:Poor": 0.621791
+        }
+      }
+    },
+    "CBFullTraining_acc=0.899664.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.980464,
+          "obs:Good": 0.01875,
+          "obs:Moderate": 0.000786,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.000362,
+          "obs:Good": 0.90055,
+          "obs:Moderate": 0.099088,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.0,
+          "obs:Good": 0.026337,
+          "obs:Moderate": 0.949751,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.023912
+        },
+        "true:Bad": {
+          "obs:High": 0.303096,
+          "obs:Good": 0.660696,
+          "obs:Moderate": 0.032888,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.00332
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.078541,
+          "obs:Bad": 0.09942,
+          "obs:Poor": 0.822039
+        }
+      }
+    },
+    "CBph_acc=0.852459.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.991796,
+          "obs:Good": 0.008204,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.001487,
+          "obs:Good": 0.973585,
+          "obs:Moderate": 0.024927,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.0,
+          "obs:Good": 0.095489,
+          "obs:Moderate": 0.895605,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.008905
+        },
+        "true:Bad": {
+          "obs:High": 0.250628,
+          "obs:Good": 0.73414,
+          "obs:Moderate": 0.015231,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.002729,
+          "obs:Moderate": 0.168741,
+          "obs:Bad": 0.063267,
+          "obs:Poor": 0.765262
+        }
+      }
+    },
+    "CBt_acc=0.8689.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.991632,
+          "obs:Good": 0.008368,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.0,
+          "obs:Good": 0.969791,
+          "obs:Moderate": 0.030209,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.0,
+          "obs:Good": 0.092805,
+          "obs:Moderate": 0.898357,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.008838
+        },
+        "true:Bad": {
+          "obs:High": 0.263059,
+          "obs:Good": 0.7195,
+          "obs:Moderate": 0.017441,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.134974,
+          "obs:Bad": 0.105446,
+          "obs:Poor": 0.75958
+        }
+      }
+    },
+    "Interpolation_acc=0.311300.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.309787,
+          "obs:Good": 0.371753,
+          "obs:Moderate": 0.302294,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.016167
+        },
+        "true:Good": {
+          "obs:High": 0.001049,
+          "obs:Good": 0.040809,
+          "obs:Moderate": 0.823071,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.135071
+        },
+        "true:Moderate": {
+          "obs:High": 0.001988,
+          "obs:Good": 0.040551,
+          "obs:Moderate": 0.532662,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.424799
+        },
+        "true:Bad": {
+          "obs:High": 0.09168,
+          "obs:Good": 0.343772,
+          "obs:Moderate": 0.526445,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.038103
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.021073,
+          "obs:Moderate": 0.475179,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.503748
+        }
+      }
+    },
+    "JAPredictionsXGB_acc=0.816907.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.962032,
+          "obs:Good": 0.037079,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.000889,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.003439,
+          "obs:Good": 0.892388,
+          "obs:Moderate": 0.104173,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.003517,
+          "obs:Good": 0.072159,
+          "obs:Moderate": 0.911118,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.013206
+        },
+        "true:Bad": {
+          "obs:High": 0.31698,
+          "obs:Good": 0.604894,
+          "obs:Moderate": 0.072976,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.00515
+        },
+        "true:Poor": {
+          "obs:High": 0.01475,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.29885,
+          "obs:Bad": 0.048204,
+          "obs:Poor": 0.638196
+        }
+      }
+    },
+    "RFG_acc=0.814100.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.947252,
+          "obs:Good": 0.052748,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.007236,
+          "obs:Good": 0.947894,
+          "obs:Moderate": 0.044309,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.000561
+        },
+        "true:Moderate": {
+          "obs:High": 0.0,
+          "obs:Good": 0.143395,
+          "obs:Moderate": 0.838693,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.017912
+        },
+        "true:Bad": {
+          "obs:High": 0.255391,
+          "obs:Good": 0.706068,
+          "obs:Moderate": 0.036517,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.002024
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.015645,
+          "obs:Moderate": 0.260085,
+          "obs:Bad": 0.073501,
+          "obs:Poor": 0.650769
+        }
+      }
+    },
+    "RFpR_acc=0.802489.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.956415,
+          "obs:Good": 0.043585,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.001723,
+          "obs:Good": 0.964139,
+          "obs:Moderate": 0.034138,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.00125,
+          "obs:Good": 0.129179,
+          "obs:Moderate": 0.866906,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.002666
+        },
+        "true:Bad": {
+          "obs:High": 0.217693,
+          "obs:Good": 0.758448,
+          "obs:Moderate": 0.023859,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.338665,
+          "obs:Bad": 0.036153,
+          "obs:Poor": 0.625182
+        }
+      }
+    },
+    "RandomPredictions_acc=0.3075.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.208253,
+          "obs:Good": 0.37784,
+          "obs:Moderate": 0.333533,
+          "obs:Bad": 0.018657,
+          "obs:Poor": 0.061717
+        },
+        "true:Good": {
+          "obs:High": 0.211601,
+          "obs:Good": 0.389637,
+          "obs:Moderate": 0.340549,
+          "obs:Bad": 0.013082,
+          "obs:Poor": 0.04513
+        },
+        "true:Moderate": {
+          "obs:High": 0.24146,
+          "obs:Good": 0.356002,
+          "obs:Moderate": 0.33804,
+          "obs:Bad": 0.010144,
+          "obs:Poor": 0.054354
+        },
+        "true:Bad": {
+          "obs:High": 0.214615,
+          "obs:Good": 0.340347,
+          "obs:Moderate": 0.369415,
+          "obs:Bad": 0.013089,
+          "obs:Poor": 0.062533
+        },
+        "true:Poor": {
+          "obs:High": 0.220421,
+          "obs:Good": 0.384826,
+          "obs:Moderate": 0.308556,
+          "obs:Bad": 0.019174,
+          "obs:Poor": 0.067022
+        }
+      }
+    },
+    "XGBTiF3_acc=0.568635.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.511897,
+          "obs:Good": 0.428294,
+          "obs:Moderate": 0.059809,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.024049,
+          "obs:Good": 0.665471,
+          "obs:Moderate": 0.31048,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.008178,
+          "obs:Good": 0.26376,
+          "obs:Moderate": 0.711416,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.016647
+        },
+        "true:Bad": {
+          "obs:High": 0.199362,
+          "obs:Good": 0.610783,
+          "obs:Moderate": 0.189855,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Poor": {
+          "obs:High": 0.006025,
+          "obs:Good": 0.154892,
+          "obs:Moderate": 0.772868,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.066214
+        }
+      }
+    },
+    "XGBTruncatedClean_acc=0.372300.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.711022,
+          "obs:Good": 0.281363,
+          "obs:Moderate": 0.007616,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.0,
+          "obs:Good": 0.006005,
+          "obs:Moderate": 0.988217,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.005778
+        },
+        "true:Moderate": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.390083,
+          "obs:Bad": 0.002752,
+          "obs:Poor": 0.607165
+        },
+        "true:Bad": {
+          "obs:High": 0.021976,
+          "obs:Good": 0.62235,
+          "obs:Moderate": 0.350261,
+          "obs:Bad": 0.001753,
+          "obs:Poor": 0.00366
+        },
+        "true:Poor": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.00603,
+          "obs:Bad": 0.567503,
+          "obs:Poor": 0.426468
+        }
+      }
+    },
+    "XGBTruncatedRaw_acc=0.4999.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.878414,
+          "obs:Good": 0.121586,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Good": {
+          "obs:High": 0.059297,
+          "obs:Good": 0.940703,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Moderate": {
+          "obs:High": 0.077756,
+          "obs:Good": 0.922244,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Bad": {
+          "obs:High": 0.653039,
+          "obs:Good": 0.346961,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
+        },
+        "true:Poor": {
+          "obs:High": 0.015679,
+          "obs:Good": 0.97227,
+          "obs:Moderate": 0.012051,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.0
         }
       }
     }

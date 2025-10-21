@@ -1,3 +1,13 @@
+**Cleaned**
+They all have the same lenght and column names!
+
+**yhat construction**
+YEM, YUniform, YIntegerProgramming have some different lengths. I must clean them first.
+
+**Compare**
+Es el compare de Nuria!
+
+
 Estimado equipo (pi + .86)* mosqueteros (aprox.),
 Les escribimos para proporcionarles su llave de acceso personalizada y toda la información necesaria para comenzar a enviar sus predicciones.
 Llave: CAJY-QU4X-7A4T
