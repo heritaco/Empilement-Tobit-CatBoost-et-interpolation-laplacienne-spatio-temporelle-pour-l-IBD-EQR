@@ -1,0 +1,96 @@
+{
+  "classes": [
+    "High",
+    "Good",
+    "Moderate",
+    "Bad",
+    "Poor"
+  ],
+  "pi": {
+    "High": 0.2258295387932975,
+    "Good": 0.38593748586885873,
+    "Moderate": 0.30109053243639283,
+    "Bad": 0.02721962758136121,
+    "Poor": 0.0599228153200897
+  },
+  "predictors": {
+    "Yhat_EM.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.927802,
+          "obs:Good": 0.045288,
+          "obs:Moderate": 0.025259,
+          "obs:Bad": 0.0,
+          "obs:Poor": 0.001652
+        },
+        "true:Good": {
+          "obs:High": 0.006279,
+          "obs:Good": 0.988395,
+          "obs:Moderate": 0.005325,
+          "obs:Bad": 0.0,
+          "obs:Poor": 1e-06
+        },
+        "true:Moderate": {
+          "obs:High": 0.000559,
+          "obs:Good": 0.071843,
+          "obs:Moderate": 0.927549,
+          "obs:Bad": 0.0,
+          "obs:Poor": 4.9e-05
+        },
+        "true:Bad": {
+          "obs:High": 0.113527,
+          "obs:Good": 0.483915,
+          "obs:Moderate": 0.302462,
+          "obs:Bad": 0.096673,
+          "obs:Poor": 0.003423
+        },
+        "true:Poor": {
+          "obs:High": 0.047986,
+          "obs:Good": 0.081897,
+          "obs:Moderate": 0.238388,
+          "obs:Bad": 0.00029,
+          "obs:Poor": 0.63144
+        }
+      }
+    },
+    "Yhat_IntegerProgramming.csv": {
+      "theta": {
+        "true:High": {
+          "obs:High": 0.946576,
+          "obs:Good": 0.040057,
+          "obs:Moderate": 0.002544,
+          "obs:Bad": 0.007816,
+          "obs:Poor": 0.003007
+        },
+        "true:Good": {
+          "obs:High": 0.005938,
+          "obs:Good": 0.958993,
+          "obs:Moderate": 0.033959,
+          "obs:Bad": 0.000965,
+          "obs:Poor": 0.000145
+        },
+        "true:Moderate": {
+          "obs:High": 0.008586,
+          "obs:Good": 0.012689,
+          "obs:Moderate": 0.958899,
+          "obs:Bad": 0.005155,
+          "obs:Poor": 0.014672
+        },
+        "true:Bad": {
+          "obs:High": 0.0,
+          "obs:Good": 0.0,
+          "obs:Moderate": 0.0,
+          "obs:Bad": 0.87801,
+          "obs:Poor": 0.12199
+        },
+        "true:Poor": {
+          "obs:High": 0.046662,
+          "obs:Good": 0.018259,
+          "obs:Moderate": 0.036929,
+          "obs:Bad": 0.08182,
+          "obs:Poor": 0.81633
+        }
+      }
+    }
+  }
+}
