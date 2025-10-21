@@ -8,7 +8,11 @@ def assign_group(df):
     Adds a "Group" column based on predefined region groups.
     """
     import numpy as np
-    df = df.copy()
+    dfinput = df.copy()
+    df = pd.read_parquet("data/processed/taxones_pressure_predict.parquet").copy()
+    
+
+
     group1 = ["ARMORICAIN", "ARDENNES", "DEPRESSIONS SEDIMENTAIRES"]
     group2 = ["ALPES INTERNES", "PYRENEES", "PREALPES DU SUD", "JURA-PREALPES DU NORD"]
     group3 = ["MEDITERRANEEN", "COTES CALCAIRES EST", "TABLES CALCAIRES", "ALSACE", "COTEAUX AQUITAINS", "CAUSSES AQUITAINS", "DEPOTS ARGILO SABLEUX", "GRANDS CAUSSES"]
@@ -20,6 +24,9 @@ def assign_group(df):
     df["Group"] = df.apply(lambda row: 'Group 3' if row["HERlvl1Name"] in group3 else row["Group"], axis=1)
     df["Group"] = df.apply(lambda row: 'Group 4' if row["HERlvl1Name"] in group4 else row["Group"], axis=1)
     df["Group"] = df.apply(lambda row: 'Group 5' if row["HERlvl1Name"] in group5 else row["Group"], axis=1)
+
+    dfinput = dfinput.merge(df[["SamplingOperations_code", "Group"]], how="left", left_on="SamplingOperations_code", right_on="SamplingOperations_code")
+
     print("Assigned groups based on HERlvl1Name.")
     return df
 
