@@ -1,4 +1,7 @@
 modelo,n,target_hits,s_plus,s_minus,net
+98CBTPEPMIP_acc=0.914083.csv,5060,4625,0,0,0
+99_acc=0.920798.csv,5063,4662,0,0,0
+99CBTPEPM_acc=0.920798.csv,5063,4662,0,0,0
 BC_acc=0.820462.csv,5063,4154,0,0,0
 CBCr_acc=0.833695.csv,5063,4221,0,0,0
 CBFullTraining_acc=0.899664.csv,5062,4554,0,0,0
