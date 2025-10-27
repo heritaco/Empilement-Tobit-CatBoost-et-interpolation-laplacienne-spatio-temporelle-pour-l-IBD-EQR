@@ -2,3 +2,8 @@
 data/processed/taxones_pressure_epm_interpolated_customalpha_mnone_k32_kernelgauss_epsnone.parquet
 
 data/processed/taxones_pressure_epm_interpolated_customalpha_mnone_k32_kernelgauss_epsnone_complete.parquet
+notebooks/00 Conocer los Datos lol/04 Pressure Status.ipynb
+
+notebooks/00 Conocer los Datos lol/04 Pressure Status.ipynb
+
+visualizations/Catboost_TPEPMTruncatedStack04/checkpoints/xgb_full.json
